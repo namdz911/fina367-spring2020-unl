@@ -2,6 +2,10 @@
 
 ---
 
+## On-the-run
+- Updates
+- [Click to see where you should be at!](call_put_option.html##Outline)
+
 ## Generic
 - [Course Overview](syllabus.html)
 - [Syllabus](syllabus.html)
