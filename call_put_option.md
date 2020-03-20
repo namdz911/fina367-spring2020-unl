@@ -58,9 +58,9 @@ sequence of payoffs.
 <details>
   <summary>Click for Solution!</summary>
   
-1. The option will not be exercise because the strike price \\$112 is higher than market price \\$100. You lose the \$4 you paid for the option.
+1. The option will not be exercise because the strike price \$112 is higher than market price \$100. You lose the \$4 you paid for the option.
 2. In this case, you gain \$4 for selling the option.
-3. The option will be exercise because the strike price \\$112 is lower than market price \\$120. You lose the \\$4 you paid for the option but gain \\$8 ($120-112$) for exercising the option. 
+3. The option will be exercise because the strike price \$112 is lower than market price \$120. You lose the \$4 you paid for the option but gain \$8 ($120-112$) for exercising the option. 
 </details>  
 
 >See practice problem 1A-1 in the [*Problem List*](#problemlist-1)
