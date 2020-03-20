@@ -16,15 +16,15 @@
 
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
-- [Callable and Putable Bonds](#Callable-and-Putable-Bonds)  
-  - [Introduction to options](#Introduction-to-options)  
-  - [Introduction to bonds with embedded options](#Introduction-to-bonds-with-embedded-options)  
-  - [Gains and loses from calling a bond](#Gains-and-loses-from-calling-a-bond) 
-  - [Pricing callable bonds](#Pricing-callable-bonds)  
-  - [Return on callable bonds](#Return-on-callable-bonds)  
-  - [Duration and Convexity of callable bonds](#Duration-and-Convexity-of-callable-bonds) 
+- [Callable and Putable Bonds](#callable-and-putable-bonds)  
+  - [Introduction to options](#introduction-to-options)  
+  - [Introduction to bonds with embedded options](#introduction-to-bonds-with-embedded-options)  
+  - [Gains and loses from calling a bond](#gains-and-loses-from-calling-a-bond) 
+  - [Pricing callable bonds](#pricing-callable-bonds)  
+  - [Return on callable bonds](#return-on-callable-bonds)  
+  - [Duration and Convexity of callable bonds](#duration-and-convexity-of-callable-bonds) 
 
-## Introduction to Options
+## Introduction to options
 
 **Learning outcomes**
 
