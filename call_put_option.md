@@ -56,8 +56,9 @@ sequence of payoffs.
 
 
 <details>
-  <summary>Click for Solution!</summary>
-  
+  <summary>Click to expand!</summary>
+
+#### Solution
 1. The option will not be exercise because the strike price \$112 is higher than market price \$100. You lose the \$4 you paid for the option.
 2. In this case, you gain \$4 for selling the option.
 3. The option will be exercise because the strike price \$112 is lower than market price \$120. You lose the \$4 you paid for the option but gain \$8 ($$120-112$$) for exercising the option. 
@@ -77,8 +78,9 @@ sequence of payoffs.
 
 
 <details>
-  <summary>Click for Solution!</summary>
-  
+  <summary>Click to expand!</summary>
+
+#### Solution
 > 1. What is your payoff if you buy the option today and in 3 months bond X is selling for \$100? What is your profit/loss?
 > 2. What is your payoff if you sell the option and in 3 months bond X is selling for \$100? What is your profit/loss?
 > 3. What is your payoff if you buy the option and in 3 months bond X is selling for \$120? What is your profit/loss?
