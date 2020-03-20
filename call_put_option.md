@@ -17,13 +17,13 @@
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
 
-- [Credit Risk](#Credit-Risk)  
-  - [Introduction to options](##Introduction-to-options)  
-  - [Introduction to bonds with embedded options](##Introduction-to-bonds-with-embedded-options)  
-  - [Gains and loses from calling a bond](##Gains-and-loses-from-calling-a-bond) 
-  - [Pricing callable bonds](##Pricing-callable-bonds)  
-  - [Return on callable bonds](##Return-on-callable-bonds)  
-  - [Duration and Convexity of callable bonds](##Duration-and-Convexity-of-callable-bonds) 
+- [Callable and Putable Bonds](#Callable-and-Putable-Bonds)  
+  - [Introduction to options](#Introduction-to-options)  
+  - [Introduction to bonds with embedded options](#Introduction-to-bonds-with-embedded-options)  
+  - [Gains and loses from calling a bond](#Gains-and-loses-from-calling-a-bond) 
+  - [Pricing callable bonds](#Pricing-callable-bonds)  
+  - [Return on callable bonds](#Return-on-callable-bonds)  
+  - [Duration and Convexity of callable bonds](#Duration-and-Convexity-of-callable-bonds) 
 
 ## Introduction to Options
 

@@ -4,7 +4,7 @@
 
 ## On-the-run
 - Updates
-- [Click to see where you should be at!](call_put_option.html##Practice-Problems)
+- [Click to see where you should be at!](call_put_option.html#Practice-Problems)
 
 ## Generic
 - [Course Overview](syllabus.html)
