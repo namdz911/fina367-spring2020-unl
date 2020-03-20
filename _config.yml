@@ -4,7 +4,8 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - index.md
+  - readme.md
   - syllabus.md
-  - LICENSE.md
+  - financial_calculator.md
   - credit_risk.md
+  - call_put_option.md
