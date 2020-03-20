@@ -1,5 +1,4 @@
-* *Instructor: Nam Le*
-* *Spring 2020*
+*Instructor: Nam Le*
 
 ---
 
