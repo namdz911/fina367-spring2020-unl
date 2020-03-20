@@ -29,11 +29,15 @@ sequence of payoffs.
 >Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 65.3%). The yield on a 1-year zero-coupon Treasury bond >is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
 
 #### Solution
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+
 - Risk adjusted payoff is equal to risk free pay off:
 
- $$(1+r_{BBB})p + (1+r_{BBB})(1 - p)RR = 1+r_{f} $$
+ $$
+ (1+r_{BBB})p + (1+r_{BBB})(1 - p)RR = 1+r_{f} 
+ $$
  
-- Plug in the numbers and solve for $r_{BBB}$. 
+- Plug in the numbers and solve for $ r_{BBB} $. 
 - The yield on this BBB-rated bond is **6.0847**
 
 #### Practice
