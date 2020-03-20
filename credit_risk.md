@@ -4,8 +4,8 @@
 
 **Useful Readings**
 
-- [x] Booleans section in [Basics](basics.ipynb)  
-- [x] [Collections](collections.ipynb) 
+- Booleans section in [Basics](basics.ipynb)  
+- [Collections](collections.ipynb) 
 
 ## Outline
 
@@ -50,11 +50,12 @@ sequence of payoffs.
 
 >Consider the 1-year zero-coupon bond with a BBB rating, whose yield we calculated in Example 1A. What is the yield spread on this bond? Assume that the following are yields on Treasury STRIPS of different maturity:
 >
-Maturity     | YTM
------------- | -------------
-1             | 6%            
-2             | 6.2%         
-3             | 6.6%           
+>Maturity     | YTM
+>------------ | -------------
+>1            | 6%            
+>2            | 6.2%         
+>3            | 6.6%           
+
 
 <details>
   <summary>Click for Solution!</summary>
@@ -69,19 +70,6 @@ Maturity     | YTM
 >See [Problem 1](#problem-1)
 
 ## Credit Risk Models
-
-If an asset pays a stream of payoffs over multiple time periods, then we
-can use a discount rate to calculate the value to the consumer of a entire
-sequence of payoffs.
-
-<a id='equation-eq-infinite-sums'></a>
-$$
-\begin{aligned}
-\sum_{t=0}^{\infty} \beta^t & = \frac{1}{1-\beta}\\
-\sum_{t=0}^{\tau} \beta^t &= \frac{1- \beta^{\tau+1}}{1-\beta}\\
-\sum_{t=\tau}^{\infty} \beta^t &=  \frac{\beta^{\tau}}{1-\beta}
-\end{aligned} \tag{2}
-$$
 
 <a id='exerciselist-1'></a>
 
