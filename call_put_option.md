@@ -16,7 +16,6 @@
 
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
-
 - [Callable and Putable Bonds](#Callable-and-Putable-Bonds)  
   - [Introduction to options](#Introduction-to-options)  
   - [Introduction to bonds with embedded options](#Introduction-to-bonds-with-embedded-options)  
