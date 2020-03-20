@@ -1,8 +1,6 @@
 # Financial Calculator
 * *This page compiles materials on how to use financial calculator*
 
-[*FINA 367, Spring 2020*](index.html)
-
 ---
 
 **Taking Quantities to a Power** - [Link to Video](https://youtu.be/B2CGdNjcjYY)

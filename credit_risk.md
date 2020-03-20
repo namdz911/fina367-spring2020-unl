@@ -1,5 +1,4 @@
 # Credit Risk
-[*FINA 367, Spring 2020*](index.html)
 
 ---
 

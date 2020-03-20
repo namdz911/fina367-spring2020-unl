@@ -1,5 +1,6 @@
 * *Instructor: Nam Le*
 * *Spring 2020*
+
 ---
 
 ## Generic
@@ -13,6 +14,9 @@
 
 
 - **Modules 6**: Bonds with embedded option
+
+    - [Callable and Putable Bonds](call_put_option.html)
+
 
 - **Modules 7**: Residential mortgages & MBS
 
