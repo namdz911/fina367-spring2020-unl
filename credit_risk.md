@@ -28,16 +28,18 @@ sequence of payoffs.
 
 >Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 65.3%). The yield on a 1-year zero-coupon Treasury bond >is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
 
+<details>
+  <summary>Click for Solution!</summary>
+
 #### Solution
-h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
 - Risk adjusted payoff is equal to risk free pay off:
 
- (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> 
+**<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
 
- 
-- Plug in the numbers and solve for $ r_{BBB} $. 
+- Plug in the numbers and solve for **r<sub>BBB</sub>**
 - The yield on this BBB-rated bond is **6.0847**
+</details> 
 
 #### Practice
 - See [Problem 1](#problem-1)!
@@ -48,12 +50,11 @@ h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
 >Consider the 1-year zero-coupon bond with a BBB rating, whose yield we calculated in Example 1A. What is the yield spread on this bond? Assume that the following are yields on Treasury STRIPS of different maturity:
 >
->| Maturity      | YTM           | 
->| ------------- |:-------------:| 
->| 1             | 6%            | 
->| 2             | 6.2%          |
->| 3             | 6.6%          |  
-
+| Maturity      | YTM           | 
+| ------------- |:-------------:| 
+| 1             | 6%            | 
+| 2             | 6.2%          |
+| 3             | 6.6%          |  
 
 <details>
   <summary>Click for Solution!</summary>
