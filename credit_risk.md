@@ -33,11 +33,8 @@ h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
 - Risk adjusted payoff is equal to risk free pay off:
 
-<div class="math">
-\begin{equation}
- (1+r_{BBB})p + (1+r_{BBB})(1 - p)RR = 1+r_{f} 
-\end{equation}
-</div>
+ (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> 
+
  
 - Plug in the numbers and solve for $ r_{BBB} $. 
 - The yield on this BBB-rated bond is **6.0847**
