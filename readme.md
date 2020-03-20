@@ -4,7 +4,7 @@
 
 ## On-the-run
 - Updates
-- [Click to see where you should be at!](call_put_option.html#practice-problems)
+- [Click to see where you should be at!](call_put_option.html#pricing-callable-bonds)
 
 ## Generic
 - [Course Overview](syllabus.html)

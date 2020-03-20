@@ -37,7 +37,7 @@
 
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
-> Consider a call option on bond X with an exercise price of \\$112 that expires in 3 months. Today the option price is \$4.
+> Consider a call option on bond X with an exercise price of \$112 that expires in 3 months. Today the option price is \$4.
 > 1. What is your payoff if you buy the option today and in 3 months bond X is selling for \$100? What is your profit/loss?
 > 2. What is your payoff if you sell the option and in 3 months bond X is selling for \$100? What is your profit/loss?
 > 3. What is your payoff if you buy the option and in 3 months bond X is selling for \$120? What is your profit/loss?
