@@ -4,8 +4,8 @@
 
 **Useful Readings**
 
-- Booleans section in [Basics](basics.ipynb)  
-- [Collections](collections.ipynb) 
+- [x] Booleans section in [Basics](basics.ipynb)  
+- [x] [Collections](collections.ipynb) 
 
 ## Outline
 
@@ -50,11 +50,11 @@ sequence of payoffs.
 
 >Consider the 1-year zero-coupon bond with a BBB rating, whose yield we calculated in Example 1A. What is the yield spread on this bond? Assume that the following are yields on Treasury STRIPS of different maturity:
 >
-| Maturity      | YTM           | 
-| ------------- |:-------------:| 
-| 1             | 6%            | 
-| 2             | 6.2%          |
-| 3             | 6.6%          |  
+Maturity     | YTM
+------------ | -------------
+1             | 6%            
+2             | 6.2%         
+3             | 6.6%           
 
 <details>
   <summary>Click for Solution!</summary>
