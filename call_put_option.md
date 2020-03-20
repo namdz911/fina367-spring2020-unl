@@ -12,9 +12,9 @@
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-## Outline - 
+## Outline 
 
-<a href="https://use.vg/i2TvPm" target="_blank">Link to Video</a>
+[![alt text](./pic/test1.png)](https://use.vg/i2TvPm)
 
 - [Credit Risk](#Credit-Risk)  
   - [Introduction to options](##Introduction-to-options)  
@@ -24,7 +24,15 @@
   - [Return on callable bonds](##Return-on-callable-bonds)  
   - [Duration and Convexity of callable bonds](##Duration-and-Convexity-of-callable-bonds) 
   
+<details>
+  <summary>Click to expand!</summary>
   
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>  
   
 
 
