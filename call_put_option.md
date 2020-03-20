@@ -73,9 +73,24 @@
 
 ## Pricing callable bonds
 
+**Learning outcomes**
+
+  - Understand basic principles underlying different models of credit risk 
+  - Understand credit rating pricing model 
+
 ## Return on callable bonds
 
+**Learning outcomes**
+
+  - Understand basic principles underlying different models of credit risk 
+  - Understand credit rating pricing model 
+
 ## Duration and Convexity of callable bonds
+
+**Learning outcomes**
+
+  - Understand basic principles underlying different models of credit risk 
+  - Understand credit rating pricing model 
 
 ## Practice Problems
 

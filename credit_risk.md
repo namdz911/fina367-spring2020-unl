@@ -5,102 +5,70 @@
 **Useful Readings**
 
 - Booleans section in [Basics](basics.ipynb)  
-- [Collections](collections.ipynb)  
-
-**Learning Outcomes**
-
-1. Introduction to options
-
-  - [x] Understand basic principles underlying different models of credit risk 
-  - [x] Understand credit rating pricing model
-  
-
-2. Introduction to bonds with embedded options
-3. Gains and loses from calling a bond
-4. Pricing callable bonds
-5. Return on callable bonds
-6. Duration and Convexity of callable bonds
-  
- 
+- [Collections](collections.ipynb) 
 
 ## Outline
 
-- [Credit Risk](#Credit-Risk)  
-  - [Introduction to options](##Introduction-to-options)  
-  - [Introduction to bonds with embedded options](##Introduction-to-bonds-with-embedded-options)  
-  - [Gains and loses from calling a bond](##Gains-and-loses-from-calling-a-bond) 
-  - [Pricing callable bonds](##Pricing-callable-bonds)  
-  - [Return on callable bonds](##Return-on-callable-bonds)  
-  - [Duration and Convexity of callable bonds](##Duration-and-Convexity-of-callable-bonds) 
+[![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
-## Introduction to options
+- [Credit Risk](#credit-cisk)  
+  - [Credit Ratings](#credit-ratings)  
+  - [Credit Risk Models](#credit-risk-models)  
+  - [Bond Factor Models](#bond-factor-models) 
+
+## Credit Rating
+
 If an asset pays a stream of payoffs over multiple time periods, then we
 can use a discount rate to calculate the value to the consumer of a entire
 sequence of payoffs.
-
-## Introduction to options
-
-## Introduction to options
-
-## Introduction to options
-
-## Introduction to options
-
-## Introduction to options
-
-
-
-
-
-<a id='exerciselist-1'></a>
 
 ### Example 1A
 
-> Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 63.5%). The yield on a 1-year zero-coupon Treasury bond is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
+[![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
-[Walk-through](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 65.3%). The yield on a 1-year zero-coupon Treasury bond is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
 
-- **Step 1**: Calculate the payoff 
-- **Step 2**: Calculate the payoff 
-- **Step 3**: Calculate the payoff
+#### Solution
 
->See practice problem 1A-1 in the [*Problem List*](#problemlist-1)
+<details>
+  <summary>Click for Solution!</summary>
+    
+- Risk adjusted payoff is equal to risk free pay off:
 
-<a id='exerciselist-1'></a>
+ $$(1+r_{risky})*p + (1+r_{risky})*(1 - p)*RR = 1+r_{f} $$
+ 
+- Plug in the numbers and solve for $r_{risky}$. 
+- The yield on this BBB-rated bond is **6.0847**
 
-### Example 1B
+</details>  
 
-> Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 63.5%). The yield on a 1-year zero-coupon Treasury bond is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
-
-[Walk-through](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
-- **Step 1**: Calculate the payoff 
-- **Step 2**: Calculate the payoff 
-- **Step 3**: Calculate the payoff
-
->See practice problem 1A-1 in the [*Problem List*](#problemlist-1)
-
-
-## Bond Factor Models
-
-If an asset pays a stream of payoffs over multiple time periods, then we
-can use a discount rate to calculate the value to the consumer of a entire
-sequence of payoffs.
-
-<a id='exerciselist-1'></a>
+#### Practice
+>See [Problem 1](#problem-1)!
 
 ### Example 1B
 
-> Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 63.5%). The yield on a 1-year zero-coupon Treasury bond is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
+[![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
-[Walk-through](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+>Consider the 1-year zero-coupon bond with a BBB rating, whose yield we calculated in Example 1A. What is the yield spread on this bond? Assume that the following are yields on Treasury STRIPS of different maturity:
+>
+>| Maturity      | YTM           | 
+>| ------------- |:-------------:| 
+>| 1             | 6%            | 
+>| 2             | 6.2%          |
+>| 3             | 6.6%          |  
 
-- **Step 1**: Calculate the payoff 
-- **Step 2**: Calculate the payoff 
-- **Step 3**: Calculate the payoff
 
->See practice problem 1A-1 in the [*Problem List*](#problemlist-1)
+<details>
+  <summary>Click for Solution!</summary>
 
+#### Solution
+1. The option will not be exercise because the strike price \$112 is higher than market price \$100. You lose the \$4 you paid for the option.
+2. In this case, you gain 4 for selling the option.
+3. The option will be exercise because the strike price \$112 is lower than market price \$120. You lose the \$4 you paid for the option but gain \$8 (120-112) for exercising the option. 
+</details>  
+
+#### Practice
+>See [Problem 1](#problem-1)
 
 ## Credit Risk Models
 
@@ -131,46 +99,18 @@ $$
 
 >See practice problem 1A-1 in the [*Problem List*](#problemlist-1)
 
-### Practice Problems
+## Practice Problems
 
-
-<a id='problemlist-1'></a>
-**Example 1**
-
-What happens if we try different inputs in our Cobb-Douglas production
-
-function?
-
-([*back to text*](#exercise-1))
-
-<a id='exerciselist-7'></a>
-
-> **EXAMPLE 7**
->
-> A bond has an expected return of 17.6%, sensitivity to the term factor of 1.45 and to the default factor of 0.86. The current term risk pr
-emium is 3.2%. The risk free rate of return is 5%. What is the default risk premium if no arbitrage opportunities exist?
-
+### Problem 1
+Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond is senior secured (historical recovery rate = 42.7%). The yield on a 1-year zero-coupon Treasury bond is 2%. What should be the yield on this CCC-rated bond? (Assume periodicity of 1)
 
 <details>
-  <summary>Click for solution!</summary>
-  
-  > First Calculate the Price
-$$
-\begin{aligned}
-\sum_{t=0}^{\infty} \beta^t & = \frac{1}{1-\beta}\\
-\sum_{t=0}^{\tau} \beta^t &= \frac{1- \beta^{\tau+1}}{1-\beta}\\
-\sum_{t=\tau}^{\infty} \beta^t &=  \frac{\beta^{\tau}}{1-\beta}
-\end{aligned} \tag{2}
-$$
+  <summary>Click for Solution!</summary>
     
-  > First Calculate the Price
-$$
-\begin{aligned}
-\sum_{t=0}^{\infty} \beta^t & = \frac{1}{1-\beta}\\
-\sum_{t=0}^{\tau} \beta^t &= \frac{1- \beta^{\tau+1}}{1-\beta}\\
-\sum_{t=\tau}^{\infty} \beta^t &=  \frac{\beta^{\tau}}{1-\beta}
-\end{aligned} \tag{2}
-$$
-</details>
+#### Solution
 
-([*back to text*](#exercise-7))
+- The yield on this BBB-rated bond is **15.02022**
+
+</details>    
+
+([*back to text*](#example-1a))
