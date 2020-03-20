@@ -31,6 +31,7 @@ Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond 
 #### Solution
 
 <details>
+<p>
   <summary>Click for Solution!</summary>
     
 - Risk adjusted payoff is equal to risk free pay off:
@@ -39,7 +40,7 @@ Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond 
  
 - Plug in the numbers and solve for $r_{risky}$. 
 - The yield on this BBB-rated bond is **6.0847**
-
+</p>
 </details>  
 
 #### Practice
@@ -57,14 +58,20 @@ Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond 
 >| 2             | 6.2%          |
 >| 3             | 6.6%          |  
 
+<details><summary>CLICK ME</summary>
+<p>
+
+#### Solution
+1. The option will not be exercise because the strike price \\$112 is higher than market price \\$100. You lose the \$4 you paid for the option.
+2. In this case, you gain 4 for selling the option.
+3. The option will be exercise because the strike price \\$112 is lower than market price \\$120. You lose the \\$4 you paid for the option but gain \\$8 ($120-112$) for exercising the option. 
+</p>
+</details>
 
 <details>
   <summary>Click for Solution!</summary>
 
-#### Solution
-1. The option will not be exercise because the strike price \$112 is higher than market price \$100. You lose the \$4 you paid for the option.
-2. In this case, you gain 4 for selling the option.
-3. The option will be exercise because the strike price \$112 is lower than market price \$120. You lose the \$4 you paid for the option but gain \$8 (120-112) for exercising the option. 
+
 </details>  
 
 #### Practice
