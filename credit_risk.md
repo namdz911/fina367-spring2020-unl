@@ -26,25 +26,18 @@ sequence of payoffs.
 
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
-Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 65.3%). The yield on a 1-year zero-coupon Treasury bond is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
+>Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 65.3%). The yield on a 1-year zero-coupon Treasury bond >is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
 
 #### Solution
-
-<details>
-<p>
-  <summary>Click for Solution!</summary>
-    
 - Risk adjusted payoff is equal to risk free pay off:
 
- $$(1+r_{risky})*p + (1+r_{risky})*(1 - p)*RR = 1+r_{f} $$
+ $$(1+r_{BBB})p + (1+r_{BBB})(1 - p)RR = 1+r_{f} $$
  
-- Plug in the numbers and solve for $r_{risky}$. 
+- Plug in the numbers and solve for $r_{BBB}$. 
 - The yield on this BBB-rated bond is **6.0847**
-</p>
-</details>  
 
 #### Practice
->See [Problem 1](#problem-1)!
+- See [Problem 1](#problem-1)!
 
 ### Example 1B
 
@@ -58,20 +51,14 @@ Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond 
 >| 2             | 6.2%          |
 >| 3             | 6.6%          |  
 
-<details><summary>CLICK ME</summary>
-<p>
-
-#### Solution
-1. The option will not be exercise because the strike price \\$112 is higher than market price \\$100. You lose the \$4 you paid for the option.
-2. In this case, you gain 4 for selling the option.
-3. The option will be exercise because the strike price \\$112 is lower than market price \\$120. You lose the \\$4 you paid for the option but gain \\$8 ($120-112$) for exercising the option. 
-</p>
-</details>
 
 <details>
   <summary>Click for Solution!</summary>
 
-
+#### Solution
+1. The option will not be exercise because the strike price \$112 is higher than market price \$100. You lose the \$4 you paid for the option.
+2. In this case, you gain 4 for selling the option.
+3. The option will be exercise because the strike price \$112 is lower than market price \$120. You lose the \$4 you paid for the option but gain \$8 (120-112) for exercising the option. 
 </details>  
 
 #### Practice
