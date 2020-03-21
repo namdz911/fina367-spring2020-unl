@@ -8,6 +8,7 @@
 - [Collections](collections.ipynb) 
 
 ## Outline
+---
 
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
@@ -17,6 +18,7 @@
   - [Bond Factor Models](#bond-factor-models) 
 
 ## Credit Rating
+---
 
 If an asset pays a stream of payoffs over multiple time periods, then we
 can use a discount rate to calculate the value to the consumer of a entire
@@ -61,31 +63,19 @@ sequence of payoffs.
   <summary>Click for Solution!</summary>
 
 #### Solution
-1. The option will not be exercise because the strike price \$112 is higher than market price \$100. You lose the \$4 you paid for the option.
-2. In this case, you gain 4 for selling the option.
-3. The option will be exercise because the strike price \$112 is lower than market price \$120. You lose the \$4 you paid for the option but gain \$8 (120-112) for exercising the option. 
+- The option will not be exercise because the strike price \$112 is higher than market price \$100. You lose the \$4 you paid for the option.
+- In this case, you gain 4 for selling the option.
+- The option will be exercise because the strike price \$112 is lower than market price \$120. You lose the \$4 you paid for the option but gain \$8 (120-112) for exercising the option. 
 </details>  
 
 #### Practice
->See [Problem 1](#problem-1)
+- See [Problem 1](#problem-1)
 
 ## Credit Risk Models
-
-<a id='exerciselist-1'></a>
-
-**EXAMPLE 1A**
-
-> Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 63.5%). The yield on a 1-year zero-coupon Treasury bond is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
-
-[Walk-through](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
-- **Step 1**: Calculate the payoff 
-- **Step 2**: Calculate the payoff 
-- **Step 3**: Calculate the payoff
-
->See practice problem 1A-1 in the [*Problem List*](#problemlist-1)
+---
 
 ## Practice Problems
+---
 
 ### Problem 1
 Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond is senior secured (historical recovery rate = 42.7%). The yield on a 1-year zero-coupon Treasury bond is 2%. What should be the yield on this CCC-rated bond? (Assume periodicity of 1)
