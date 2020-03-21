@@ -1,7 +1,6 @@
 # Financial Calculator
-* *This page compiles materials on how to use financial calculator*
 
----
+* *This page compiles materials on how to use financial calculator*
 
 ## Taking Quantities to a Power 
 

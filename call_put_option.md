@@ -1,7 +1,5 @@
 # Callable and Putable Bonds
 
----
-
 **Useful readings**
 
 - Booleans section in [Basics](basics.ipynb)  
@@ -13,7 +11,6 @@
   - Understand credit rating pricing model 
 
 ## Outline 
----
 
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
@@ -26,7 +23,6 @@
   - [Duration and Convexity of callable bonds](#duration-and-convexity-of-callable-bonds) 
 
 ## Introduction to options
----
 
 ### ![](./pic/note2525.png)  Learning outcomes
 
@@ -54,9 +50,9 @@
   <summary>Click for Solution!</summary>
 
 #### ![](./pic/light.png) Solution
-1. The option will not be exercise because the strike price \$112 is higher than market price \$100. You lose the \$4 you paid for the option.
-2. In this case, you gain 4 for selling the option.
-3. The option will be exercise because the strike price \$112 is lower than market price \$120. You lose the \$4 you paid for the option but gain \$8 (120-112) for exercising the option. 
+- The option will not be exercise because the strike price \$112 is higher than market price \$100. You lose the \$4 you paid for the option.
+- In this case, you gain 4 for selling the option.
+- The option will be exercise because the strike price \$112 is lower than market price \$120. You lose the \$4 you paid for the option but gain \$8 (120-112) for exercising the option. 
 </details>  
 
 #### Practice
@@ -86,7 +82,6 @@
 - See [Problem 2](#problem-2) for more practice!
 
 ## Introduction to bonds with embedded options
----
 
 **Learning outcomes**
 
@@ -95,7 +90,6 @@
   
 
 ## Gains and loses from calling a bond
----
 
 **Learning outcomes**
 
@@ -103,7 +97,6 @@
   - Understand credit rating pricing model 
 
 ## Pricing callable bonds
----
 
 **Learning outcomes**
 
@@ -111,7 +104,6 @@
   - Understand credit rating pricing model 
 
 ## Return on callable bonds
----
 
 **Learning outcomes**
 
@@ -119,7 +111,6 @@
   - Understand credit rating pricing model 
 
 ## Duration and Convexity of callable bonds
----
 
 **Learning outcomes**
 

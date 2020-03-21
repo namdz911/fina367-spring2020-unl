@@ -1,6 +1,5 @@
 # Credit Risk
 
----
 
 **Useful Readings**
 
@@ -8,7 +7,6 @@
 - [Collections](collections.ipynb) 
 
 ## Outline
----
 
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
@@ -18,7 +16,7 @@
   - [Bond Factor Models](#bond-factor-models) 
 
 ## Credit Rating
----
+
 
 ### ![](./pic/note2525.png)  Learning outcomes
 
@@ -76,10 +74,10 @@
 - See [Problem 2](#problem-2)
 
 ## Credit Risk Models
----
+
 
 ## Practice Problems
----
+
 
 ### Problem 1
 Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond is senior secured (historical recovery rate = 42.7%). The yield on a 1-year zero-coupon Treasury bond is 2%. What should be the yield on this CCC-rated bond? (Assume periodicity of 1)
