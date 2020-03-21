@@ -25,15 +25,15 @@
   - [Return on callable bonds](#return-on-callable-bonds)  
   - [Duration and Convexity of callable bonds](#duration-and-convexity-of-callable-bonds) 
 
-## ![](./pic/note2525.png) Introduction to options
+## Introduction to options
 ---
 
-**Learning outcomes**
+### ![](./pic/note2525.png)  Learning outcomes
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
   
-### Learning outcomes
+
   
 
 
@@ -59,9 +59,9 @@
 3. The option will be exercise because the strike price \$112 is lower than market price \$120. You lose the \$4 you paid for the option but gain \$8 (120-112) for exercising the option. 
 </details>  
 
-> 
-> See [Problem 1](#problem-1) for more practice!
-> 
+#### Practice
+- See [Problem 1](#problem-1) for more practice!
+
 
 ### Example 1A
 
@@ -83,7 +83,7 @@
 </details> 
 
 #### Practice
-- See [Problem 1](#problem-1)!
+- See [Problem 2](#problem-2) for more practice!
 
 ## Introduction to bonds with embedded options
 ---
@@ -143,7 +143,7 @@
 <details>
   <summary>Click for Solution!</summary>
 
-#### Solution
+#### ![](./pic/light.png) Solution
 1. The option will not be exercise because the strike price \$112 is higher than market price \$100. You lose the \$4 you paid for the option.
 2. In this case, you gain 4 for selling the option.
 3. The option will be exercise because the strike price \$112 is lower than market price \$120. You lose the \$4 you paid for the option but gain \$8 (120-112) for exercising the option. 

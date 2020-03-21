@@ -20,9 +20,14 @@
 ## Credit Rating
 ---
 
-If an asset pays a stream of payoffs over multiple time periods, then we
-can use a discount rate to calculate the value to the consumer of a entire
-sequence of payoffs.
+### ![](./pic/note2525.png)  Learning outcomes
+
+  - Understand basic principles underlying different models of credit risk 
+  - Understand credit rating pricing model 
+  
+
+  
+
 
 ### Example 1A
 
@@ -33,18 +38,18 @@ sequence of payoffs.
 <details>
   <summary>Click for Solution!</summary>
 
-#### Solution
+#### ![](./pic/light.png) Solution
 
-- Risk adjusted payoff is equal to risk free pay off:
-
-**<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
-
-- Plug in the numbers and solve for **r<sub>BBB</sub>**
-- The yield on this BBB-rated bond is **6.0847**
+>- Risk adjusted payoff is equal to risk free pay off:
+>
+>**<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
+>
+>- Plug in the numbers and solve for **r<sub>BBB</sub>**
+>- The yield on this BBB-rated bond is **6.0847**
 </details> 
 
 #### Practice
-- See [Problem 1](#problem-1)!
+> See [Problem 1](#problem-1) for more practice!
 
 ### Example 1B
 
@@ -62,14 +67,14 @@ sequence of payoffs.
 <details>
   <summary>Click for Solution!</summary>
 
-#### Solution
-- The option will not be exercise because the strike price \$112 is higher than market price \$100. You lose the \$4 you paid for the option.
-- In this case, you gain 4 for selling the option.
-- The option will be exercise because the strike price \$112 is lower than market price \$120. You lose the \$4 you paid for the option but gain \$8 (120-112) for exercising the option. 
+#### ![](./pic/light.png) Solution
+>- The option will not be exercise because the strike price \$112 is higher than market price \$100. You lose the \$4 you paid for the option.
+>- In this case, you gain 4 for selling the option.
+>- The option will be exercise because the strike price \$112 is lower than market price \$120. You lose the \$4 you paid for the option but gain \$8 (120-112) for exercising the option. 
 </details>  
 
 #### Practice
-- See [Problem 1](#problem-1)
+> See [Problem 2](#problem-2)
 
 ## Credit Risk Models
 ---
@@ -90,3 +95,17 @@ Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond 
 </details>    
 
 ([*back to text*](#example-1a))
+
+### Problem 2
+Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond is senior secured (historical recovery rate = 42.7%). The yield on a 1-year zero-coupon Treasury bond is 2%. What should be the yield on this CCC-rated bond? (Assume periodicity of 1)
+
+<details>
+  <summary>Click for Solution!</summary>
+    
+#### Solution
+
+- The yield on this BBB-rated bond is **15.02022**
+
+</details>    
+
+([*back to text*](#example-1b))
