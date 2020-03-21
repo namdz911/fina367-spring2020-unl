@@ -9,8 +9,6 @@
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
-  
----
 
 ## **Outline** 
 
@@ -23,8 +21,6 @@
   - [Pricing callable bonds](#pricing-callable-bonds)  
   - [Return on callable bonds](#return-on-callable-bonds)  
   - [Duration and Convexity of callable bonds](#duration-and-convexity-of-callable-bonds) 
-  
----
 
 ## **Introduction to options**
 
@@ -81,8 +77,6 @@
 #### Practice
 - See [Problem 2](#problem-2) for more practice!
 
----
-
 ## **Introduction to bonds with embedded options**
 
 **Learning outcomes**
@@ -118,8 +112,6 @@
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
-  
----
 
 ## **Practice Problems**
 
