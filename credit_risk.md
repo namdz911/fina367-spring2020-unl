@@ -1,29 +1,33 @@
 # **Credit Risk**
 
+**Before you start**
 
-**Useful Readings**
-
-- Booleans section in [Basics](basics.ipynb)  
-- [Collections](collections.ipynb) 
+- Reading: Chapter 11, 12
+- [Link to download PowerPoint!](./pdf/credit_risk.pdf)
 
 ## **Outline**
 
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
 - [Credit Risk](#credit-cisk)  
-  - ![](./pic/dollar1515.png) [Credit Ratings](#credit-ratings)  
-  - ![](./pic/dollar1515.png) [Credit Risk Models](#credit-risk-models)  
-  - ![](./pic/dollar1515.png) [Bond Factor Models](#bond-factor-models) 
-  - ![](./pic/note1515.png) [Practice Problems](#practice-problems) 
+  - [Credit Ratings](#credit-ratings)  
+  - [Credit Risk Models](#credit-risk-models)  
+  - [Bond Factor Models](#bond-factor-models) 
+  - [Practice Problems](#practice-problems) 
 
-## ![](./pic/dollar2525.png) **Credit Ratings**
+## **Credit Ratings** 
 
-**Learning outcomes**
+[![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
+
+![](./pic/note1515.png) **Options**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
   
-[![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
+![](./pic/note1515.png) **Payoff and profit diagrams**
+
+  - Understand basic principles underlying different models of credit risk 
+  - Understand credit rating pricing model 
 
 ### Example 1A
 
@@ -72,10 +76,10 @@
 #### Practice
 - See [Problem 2](#problem-2)
 
-## ![](./pic/dollar2525.png) **Credit Risk Models**
+## **Credit Risk Models**
 
 
-## ![](./pic/dollar2525.png) **Bond Factors Models**
+## **Bond Factors Models**
 
 
 ##  **Practice Problems**

@@ -1,31 +1,33 @@
 # **Callable and Putable Bonds**
 
-**Useful readings**
+**Before you start**
 
-- Booleans section in [Basics](basics.ipynb)  
-- [Collections](collections.ipynb)  
-
-**Learning outcomes**
-
-  - Understand basic principles underlying different models of credit risk 
-  - Understand credit rating pricing model 
+- Reading: Chapter 11, 12
+- [Link to download PowerPoint!](./pdf/credit_risk.pdf)
 
 ## **Outline** 
 
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
 - [Callable and Putable Bonds](#callable-and-putable-bonds)  
-  - ![](./pic/note1515.png) [Introduction to options](#introduction-to-options)  
-  - ![](./pic/note1515.png) [Introduction to bonds with embedded options](#introduction-to-bonds-with-embedded-options)  
-  - ![](./pic/note1515.png) [Gains and loses from calling a bond](#gains-and-loses-from-calling-a-bond) 
-  - ![](./pic/note1515.png) [Pricing callable bonds](#pricing-callable-bonds)  
-  - ![](./pic/note1515.png) [Return on callable bonds](#return-on-callable-bonds)  
-  - ![](./pic/note1515.png) [Duration and Convexity of callable bonds](#duration-and-convexity-of-callable-bonds) 
-  - ![](./pic/note1515.png) [Practice Problems](#practice-problems) 
+  - [Introduction to options](#introduction-to-options)  
+  - [Introduction to bonds with embedded options](#introduction-to-bonds-with-embedded-options)  
+  - [Gains and loses from calling a bond](#gains-and-loses-from-calling-a-bond) 
+  - [Pricing callable bonds](#pricing-callable-bonds)  
+  - [Return on callable bonds](#return-on-callable-bonds)  
+  - [Duration and Convexity of callable bonds](#duration-and-convexity-of-callable-bonds) 
+  - [Practice Problems](#practice-problems) 
 
-## ![](./pic/note2525.png) **Introduction to options**
+## **Introduction to options**
 
-**Learning outcomes**
+[![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
+
+![](./pic/note1515.png) **Options**
+
+  - Understand basic principles underlying different models of credit risk 
+  - Understand credit rating pricing model 
+  
+![](./pic/note1515.png) **Payoff and profit diagrams**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
@@ -78,7 +80,7 @@
 #### Practice
 - See [Problem 2](#problem-2) for more practice!
 
-## ![](./pic/note2525.png) **Introduction to bonds with embedded options**
+##  **Introduction to bonds with embedded options**
 
 **Learning outcomes**
 
@@ -86,35 +88,35 @@
   - Understand credit rating pricing model 
   
 
-## ![](./pic/note2525.png) **Gains and loses from calling a bond**
+## **Gains and loses from calling a bond**
 
 **Learning outcomes**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-## ![](./pic/note2525.png) **Pricing callable bonds**
+## **Pricing callable bonds**
 
 **Learning outcomes**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-## ![](./pic/note2525.png) **Return on callable bonds**
+## **Return on callable bonds**
 
 **Learning outcomes**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-## ![](./pic/note2525.png) **Duration and Convexity of callable bonds**
+## **Duration and Convexity of callable bonds**
 
 **Learning outcomes**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-## ![](./pic/note2525.png) **Practice Problems**
+## **Practice Problems**
 
 <a id='problem-1'></a>
 **Example 1**
