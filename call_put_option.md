@@ -1,11 +1,11 @@
-# **Callable and Putable Bonds**
+# Callable and Putable Bonds
 
 **Before you start**
 
 - Reading: Chapter 11, 12
-- [Link to download PowerPoint!](./pdf/credit_risk.pdf)
+- <a href="./pdf/credit_risk.pdf" target="_blank">Link to download PowerPoint Slides!</a>
 
-## **Outline** 
+## Outline
 
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
@@ -18,7 +18,7 @@
   - [Duration and Convexity of callable bonds](#duration-and-convexity-of-callable-bonds) 
   - [Practice Problems](#practice-problems) 
 
-## **Introduction to options**
+## Introduction to options
 
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
@@ -80,7 +80,7 @@
 #### Practice
 - See [Problem 2](#problem-2) for more practice!
 
-##  **Introduction to bonds with embedded options**
+## Introduction to bonds with embedded options
 
 **Learning outcomes**
 
@@ -88,35 +88,35 @@
   - Understand credit rating pricing model 
   
 
-## **Gains and loses from calling a bond**
+## Gains and loses from calling a bond
 
 **Learning outcomes**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-## **Pricing callable bonds**
+## Pricing callable bonds
 
 **Learning outcomes**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-## **Return on callable bonds**
+## Return on callable bonds
 
 **Learning outcomes**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-## **Duration and Convexity of callable bonds**
+## Duration and Convexity of callable bonds
 
 **Learning outcomes**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-## **Practice Problems**
+## Practice Problems
 
 <a id='problem-1'></a>
 **Example 1**

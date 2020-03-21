@@ -1,11 +1,12 @@
-# **Credit Risk**
+# Credit Risk
 
 **Before you start**
 
 - Reading: Chapter 11, 12
-- [Link to download PowerPoint!](./pdf/credit_risk.pdf)
+- <a href="./pdf/credit_risk.pdf" target="_blank">Link to download PowerPoint Slides!</a>
 
-## **Outline**
+
+## Outline
 
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
@@ -15,7 +16,7 @@
   - [Bond Factor Models](#bond-factor-models) 
   - [Practice Problems](#practice-problems) 
 
-## **Credit Ratings** 
+## Credit Ratings
 
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
@@ -76,13 +77,13 @@
 #### Practice
 - See [Problem 2](#problem-2)
 
-## **Credit Risk Models**
+## Credit Risk Models
 
 
-## **Bond Factors Models**
+## Bond Factors Models
 
 
-##  **Practice Problems**
+## Practice Problems
 
 
 ### Problem 1
