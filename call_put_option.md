@@ -15,14 +15,15 @@
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
 - [Callable and Putable Bonds](#callable-and-putable-bonds)  
-  - [Introduction to options](#introduction-to-options)  
-  - [Introduction to bonds with embedded options](#introduction-to-bonds-with-embedded-options)  
-  - [Gains and loses from calling a bond](#gains-and-loses-from-calling-a-bond) 
-  - [Pricing callable bonds](#pricing-callable-bonds)  
-  - [Return on callable bonds](#return-on-callable-bonds)  
-  - [Duration and Convexity of callable bonds](#duration-and-convexity-of-callable-bonds) 
+  - ![](./pic/note1515.png) [Introduction to options](#introduction-to-options)  
+  - ![](./pic/note1515.png) [Introduction to bonds with embedded options](#introduction-to-bonds-with-embedded-options)  
+  - ![](./pic/note1515.png) [Gains and loses from calling a bond](#gains-and-loses-from-calling-a-bond) 
+  - ![](./pic/note1515.png) [Pricing callable bonds](#pricing-callable-bonds)  
+  - ![](./pic/note1515.png) [Return on callable bonds](#return-on-callable-bonds)  
+  - ![](./pic/note1515.png) [Duration and Convexity of callable bonds](#duration-and-convexity-of-callable-bonds) 
+  - ![](./pic/note1515.png) [Practice Problems](#practice-problems) 
 
-## **Introduction to options**
+## ![](./pic/note2525.png) **Introduction to options**
 
 **Learning outcomes**
 
@@ -106,14 +107,14 @@
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-## **Duration and Convexity of callable bonds**
+## ![](./pic/note2525.png) **Duration and Convexity of callable bonds**
 
 **Learning outcomes**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-## **Practice Problems**
+## ![](./pic/note2525.png) **Practice Problems**
 
 <a id='problem-1'></a>
 **Example 1**
