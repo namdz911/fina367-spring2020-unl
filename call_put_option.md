@@ -1,4 +1,4 @@
-# Callable and Putable Bonds
+# **Callable and Putable Bonds**
 
 **Useful readings**
 
@@ -10,7 +10,7 @@
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-## Outline 
+## **Outline** 
 
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
@@ -22,16 +22,12 @@
   - [Return on callable bonds](#return-on-callable-bonds)  
   - [Duration and Convexity of callable bonds](#duration-and-convexity-of-callable-bonds) 
 
-## Introduction to options
+## ![](./pic/note2525.png) **Introduction to options**
 
-### ![](./pic/note2525.png)  Learning outcomes
+### Learning outcomes
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
-  
-
-  
-
 
 <a id='example-1'></a>
 
@@ -81,7 +77,7 @@
 #### Practice
 - See [Problem 2](#problem-2) for more practice!
 
-## Introduction to bonds with embedded options
+## **Introduction to bonds with embedded options**
 
 **Learning outcomes**
 
@@ -89,35 +85,35 @@
   - Understand credit rating pricing model 
   
 
-## Gains and loses from calling a bond
+## **Gains and loses from calling a bond**
 
 **Learning outcomes**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-## Pricing callable bonds
+## **Pricing callable bonds**
 
 **Learning outcomes**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-## Return on callable bonds
+## **Return on callable bonds**
 
 **Learning outcomes**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-## Duration and Convexity of callable bonds
+## **Duration and Convexity of callable bonds**
 
 **Learning outcomes**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-## Practice Problems
+## **Practice Problems**
 ---
 
 
