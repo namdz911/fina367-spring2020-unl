@@ -11,12 +11,12 @@
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
 - [Credit Risk](#credit-cisk)  
-  - ![](./pic/note1515.png) [Credit Ratings](#credit-ratings)  
-  - ![](./pic/note1515.png) [Credit Risk Models](#credit-risk-models)  
-  - ![](./pic/note1515.png) [Bond Factor Models](#bond-factor-models) 
+  - ![](./pic/dollar1515.png) [Credit Ratings](#credit-ratings)  
+  - ![](./pic/dollar1515.png) [Credit Risk Models](#credit-risk-models)  
+  - ![](./pic/dollar1515.png) [Bond Factor Models](#bond-factor-models) 
   - ![](./pic/note1515.png) [Practice Problems](#practice-problems) 
 
-## ![](./pic/note2525.png) **Credit Ratings**
+## ![](./pic/dollar2525.png) **Credit Ratings**
 
 **Learning outcomes**
 
@@ -72,13 +72,13 @@
 #### Practice
 - See [Problem 2](#problem-2)
 
-## ![](./pic/note2525.png) **Credit Risk Models**
+## ![](./pic/dollar2525.png) **Credit Risk Models**
 
 
-## ![](./pic/note2525.png) **Bond Factors Models**
+## ![](./pic/dollar2525.png) **Bond Factors Models**
 
 
-## ![](./pic/note2525.png) **Practice Problems**
+##  **Practice Problems**
 
 
 ### Problem 1
