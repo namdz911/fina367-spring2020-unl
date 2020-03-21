@@ -6,6 +6,8 @@
 - Booleans section in [Basics](basics.ipynb)  
 - [Collections](collections.ipynb) 
 
+---
+
 ## **Outline**
 
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
@@ -14,17 +16,17 @@
   - [Credit Ratings](#credit-ratings)  
   - [Credit Risk Models](#credit-risk-models)  
   - [Bond Factor Models](#bond-factor-models) 
+  
+---
 
 ## **Credit Ratings**
 
-
-### ![](./pic/note2525.png)  Learning outcomes
+**Learning outcomes**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
   
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
-
 
 ### Example 1A
 
@@ -73,8 +75,12 @@
 #### Practice
 - See [Problem 2](#problem-2)
 
+---
+
 ## **Credit Risk Models**
 
+
+---
 
 ## **Practice Problems**
 
