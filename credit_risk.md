@@ -25,8 +25,7 @@
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
   
-
-  
+[![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
 
 ### Example 1A
@@ -40,16 +39,16 @@
 
 #### ![](./pic/light.png) Solution
 
->- Risk adjusted payoff is equal to risk free pay off:
->
->**<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
->
->- Plug in the numbers and solve for **r<sub>BBB</sub>**
->- The yield on this BBB-rated bond is **6.0847**
+- Risk adjusted payoff is equal to risk free pay off:
+
+**<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
+
+- Plug in the numbers and solve for **r<sub>BBB</sub>**.
+- The yield on this BBB-rated bond is **6.0847**.
 </details> 
 
 #### Practice
-> See [Problem 1](#problem-1) for more practice!
+- See [Problem 1](#problem-1) for more practice!
 
 ### Example 1B
 
@@ -68,13 +67,13 @@
   <summary>Click for Solution!</summary>
 
 #### ![](./pic/light.png) Solution
->- The option will not be exercise because the strike price \$112 is higher than market price \$100. You lose the \$4 you paid for the option.
->- In this case, you gain 4 for selling the option.
->- The option will be exercise because the strike price \$112 is lower than market price \$120. You lose the \$4 you paid for the option but gain \$8 (120-112) for exercising the option. 
+- The option will not be exercise because the strike price \$112 is higher than market price \$100. You lose the \$4 you paid for the option.
+- In this case, you gain 4 for selling the option.
+- The option will be exercise because the strike price \$112 is lower than market price \$120. You lose the \$4 you paid for the option but gain \$8 (120-112) for exercising the option. 
 </details>  
 
 #### Practice
-> See [Problem 2](#problem-2)
+- See [Problem 2](#problem-2)
 
 ## Credit Risk Models
 ---
