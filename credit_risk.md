@@ -8,7 +8,7 @@
 
 ## Outline
 
-[![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
+![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
 - [Credit Risk](#credit-cisk)  
   - [Credit Ratings](#credit-ratings)  
@@ -18,7 +18,7 @@
 
 ## Credit Ratings
 
-[![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
+![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
 ![](./pic/note1515.png) **Options**
 
@@ -32,7 +32,7 @@
 
 ### Example 1A
 
-[![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
+![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
 >Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 65.3%). The yield on a 1-year zero-coupon Treasury bond >is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
 
@@ -54,7 +54,7 @@
 
 ### Example 1B
 
-[![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
+![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
 >Consider the 1-year zero-coupon bond with a BBB rating, whose yield we calculated in Example 1A. What is the yield spread on this bond? Assume that the following are yields on Treasury STRIPS of different maturity:
 >

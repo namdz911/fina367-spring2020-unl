@@ -2,11 +2,11 @@
 
 
 ## On-the-run
-- Updates
+- Announcements and Updates
 - [Click to see where you should be at!](call_put_option.html#pricing-callable-bonds)
 
 ## Generic
-- [Course Overview](syllabus.html)
+- [Web-based FINA-367's guide](syllabus.html)
 - [Syllabus](syllabus.html)
 
 ## Core Materials
