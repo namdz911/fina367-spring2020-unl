@@ -37,24 +37,25 @@
 <a id='example-1a'></a>
 ![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
-![](./pic/note1515.png) Example 1A
+### ![](./pic/note2525.png) Example 1A
 
 >Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 65.3%). The yield on a 1-year zero-coupon Treasury bond >is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
 
 <details>
   <summary>Click for Solution!</summary>
 
-![](./pic/light.png) **Solution**
+#### ![](./pic/light.png) Solution
 
 - Risk adjusted payoff is equal to risk free pay off:
 
 **<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
 
-- Plug in the numbers and solve for **r<sub>BBB</sub>**.
-- The yield on this BBB-rated bond is **6.0847**.
+- Plug in the numbers and solve for **r<sub>BBB</sub>**
+- The yield on this BBB-rated bond is **6.0847**
 </details> 
 
->See [Problem 1](#problem-1) for more practice!
+#### Practice
+- See [Problem 1](#problem-1) for more practice!
 
 <a id='example-1b'></a>
 
@@ -81,7 +82,7 @@
 </details>  
 
 #### Practice
-- See [Problem 2](#problem-2)
+- See [Problem 2](#problem-2) for more practice!
 
 ## Credit Risk Models
 
