@@ -20,19 +20,20 @@
 
 ![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
-![](./pic/note1515.png) **Options**
+![](./pic/dollarnew15.png) **Options**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
   
-![](./pic/note1515.png) **Payoff and profit diagrams**
+![](./pic/dollarnew15.png) **Payoff and profit diagrams**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-### Example 1A
-
+<a id='example-1a'></a>
 ![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
+
+### ![](./pic/note2525.png) Example 1A
 
 >Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 65.3%). The yield on a 1-year zero-coupon Treasury bond >is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
 
@@ -52,9 +53,11 @@
 #### Practice
 - See [Problem 1](#problem-1) for more practice!
 
-### Example 1B
+<a id='example-1b'></a>
 
 ![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
+
+### ![](./pic/note2525.png) Example 1B
 
 >Consider the 1-year zero-coupon bond with a BBB rating, whose yield we calculated in Example 1A. What is the yield spread on this bond? Assume that the following are yields on Treasury STRIPS of different maturity:
 >
@@ -86,7 +89,7 @@
 ## Practice Problems
 
 
-### Problem 1
+### ![](./pic/note2525.png) Problem 1
 Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond is senior secured (historical recovery rate = 42.7%). The yield on a 1-year zero-coupon Treasury bond is 2%. What should be the yield on this CCC-rated bond? (Assume periodicity of 1)
 
 <details>
@@ -100,7 +103,7 @@ Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond 
 
 ([*back to text*](#example-1a))
 
-### Problem 2
+### ![](./pic/note2525.png) Problem 2
 Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond is senior secured (historical recovery rate = 42.7%). The yield on a 1-year zero-coupon Treasury bond is 2%. What should be the yield on this CCC-rated bond? (Assume periodicity of 1)
 
 <details>
