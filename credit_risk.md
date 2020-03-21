@@ -1,7 +1,5 @@
 # Credit Risk
 
----
-
 **Before you start**
 
 - Reading: Chapter 11, 12
@@ -9,8 +7,6 @@
 
 
 ## Outline
-
----
 
 ![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
@@ -24,27 +20,29 @@
 
 ![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
-![](./pic/dollarnew15.png) **Options**
+#### ![](./pic/dollarnew15.png) Options
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
   
-![](./pic/dollarnew15.png) **Payoff and profit diagrams**
+#### ![](./pic/dollarnew15.png) Payoff and profit diagrams
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
+  
+---
 
 <a id='example-1a'></a>
 ![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
-### ![](./pic/note2525.png) Example 1A
+#### ![](./pic/note1515.png) Example 1A
 
 >Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 65.3%). The yield on a 1-year zero-coupon Treasury bond >is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
 
 <details>
   <summary>Click for Solution!</summary>
 
-#### ![](./pic/light.png) Solution
+##### ![](./pic/light.png) Solution
 
 - Risk adjusted payoff is equal to risk free pay off:
 
@@ -54,14 +52,16 @@
 - The yield on this BBB-rated bond is **6.0847**
 </details> 
 
-#### Practice
+##### Practice
 - See [Problem 1](#problem-1) for more practice!
+
+---
 
 <a id='example-1b'></a>
 
 ![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
-### ![](./pic/note2525.png) Example 1B
+#### ![](./pic/note1515.png) Example 1B
 
 >Consider the 1-year zero-coupon bond with a BBB rating, whose yield we calculated in Example 1A. What is the yield spread on this bond? Assume that the following are yields on Treasury STRIPS of different maturity:
 >
@@ -75,14 +75,16 @@
 <details>
   <summary>Click for Solution!</summary>
 
-#### ![](./pic/light.png) Solution
+##### ![](./pic/light.png) Solution
 - The option will not be exercise because the strike price \$112 is higher than market price \$100. You lose the \$4 you paid for the option.
 - In this case, you gain 4 for selling the option.
 - The option will be exercise because the strike price \$112 is lower than market price \$120. You lose the \$4 you paid for the option but gain \$8 (120-112) for exercising the option. 
 </details>  
 
-#### Practice
+##### Practice
 - See [Problem 2](#problem-2) for more practice!
+
+---
 
 ## Credit Risk Models
 
@@ -93,7 +95,7 @@
 ## Practice Problems
 
 
-### ![](./pic/note2525.png) Problem 1
+#### ![](./pic/note1515.png) Problem 1
 Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond is senior secured (historical recovery rate = 42.7%). The yield on a 1-year zero-coupon Treasury bond is 2%. What should be the yield on this CCC-rated bond? (Assume periodicity of 1)
 
 <details>
@@ -107,7 +109,7 @@ Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond 
 
 ([*back to text*](#example-1a))
 
-### ![](./pic/note2525.png) Problem 2
+#### ![](./pic/note1515.png) Problem 2
 Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond is senior secured (historical recovery rate = 42.7%). The yield on a 1-year zero-coupon Treasury bond is 2%. What should be the yield on this CCC-rated bond? (Assume periodicity of 1)
 
 <details>
