@@ -77,7 +77,7 @@
 #### Practice
 - See [Problem 2](#problem-2) for more practice!
 
-## **Introduction to bonds with embedded options**
+## ![](./pic/note2525.png) **Introduction to bonds with embedded options**
 
 **Learning outcomes**
 
@@ -92,14 +92,14 @@
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-## **Pricing callable bonds**
+## ![](./pic/note2525.png) **Pricing callable bonds**
 
 **Learning outcomes**
 
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
 
-## **Return on callable bonds**
+## ![](./pic/note2525.png) **Return on callable bonds**
 
 **Learning outcomes**
 
