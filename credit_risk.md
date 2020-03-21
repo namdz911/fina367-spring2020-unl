@@ -6,8 +6,6 @@
 - Booleans section in [Basics](basics.ipynb)  
 - [Collections](collections.ipynb) 
 
----
-
 ## **Outline**
 
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
@@ -16,8 +14,6 @@
   - [Credit Ratings](#credit-ratings)  
   - [Credit Risk Models](#credit-risk-models)  
   - [Bond Factor Models](#bond-factor-models) 
-  
----
 
 ## **Credit Ratings**
 
@@ -75,12 +71,8 @@
 #### Practice
 - See [Problem 2](#problem-2)
 
----
-
 ## **Credit Risk Models**
 
-
----
 
 ## **Practice Problems**
 
