@@ -1,8 +1,7 @@
 title: FINA367 - Fixed-Income Investment - Spring 2020
 markdown: CommonMarkGhPages
 commonmark:
-  options: ["SMART", "FOOTNOTES"]
-  extensions: ["autolink", "table"]
+  extensions: ["table"]
 plugins:
   - jekyll-relative-links
 relative_links:
