@@ -7,7 +7,7 @@
 
 ## Outline
 
-[![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
+![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
 - [Callable and Putable Bonds](#callable-and-putable-bonds)  
   - [Introduction to options](#introduction-to-options)  
@@ -20,7 +20,7 @@
 
 ## Introduction to options
 
-[![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
+![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
 ![](./pic/note1515.png) **Options**
 
@@ -36,7 +36,7 @@
 
 ### Option Payoff/Profit example
 
-[![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
+![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
 > Consider a call option on bond X with an exercise price of \$112 that expires in 3 months. Today the option price is \$4.
 > 1. What is your payoff if you buy the option today and in 3 months bond X is selling for \$100? What is your profit/loss?
@@ -60,7 +60,7 @@
 
 ### Example 1A
 
-[![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
+![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
 >Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 65.3%). The yield on a 1-year zero-coupon Treasury bond >is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
 
