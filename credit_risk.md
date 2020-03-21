@@ -1,4 +1,4 @@
-# Credit Risk
+# **Credit Risk**
 
 
 **Useful Readings**
@@ -6,7 +6,7 @@
 - Booleans section in [Basics](basics.ipynb)  
 - [Collections](collections.ipynb) 
 
-## Outline
+## **Outline**
 
 [![alt text](./pic/test2.png)](https://use.vg/i2TvPm)
 
@@ -15,7 +15,7 @@
   - [Credit Risk Models](#credit-risk-models)  
   - [Bond Factor Models](#bond-factor-models) 
 
-## Credit Rating
+## **Credit Ratings**
 
 
 ### ![](./pic/note2525.png)  Learning outcomes
@@ -73,10 +73,10 @@
 #### Practice
 - See [Problem 2](#problem-2)
 
-## Credit Risk Models
+## **Credit Risk Models**
 
 
-## Practice Problems
+## **Practice Problems**
 
 
 ### Problem 1
