@@ -33,7 +33,7 @@
 ---
 
 <a id='example-1a'></a>
-![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
+![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
 
 #### ![](./pic/note1515.png) Example 1A
 
