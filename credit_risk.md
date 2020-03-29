@@ -297,7 +297,7 @@
 ## Practice Problems
 
 
-#### ![](./pic/note1515.png) Problem 1
+### ![](./pic/note1515.png) Problem 1
 Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond is senior secured (historical recovery rate = 42.7%). The yield on a 1-year zero-coupon Treasury bond is 2%. What should be the yield on this CCC-rated bond? (Assume periodicity of 1)
 
 <details>
@@ -311,7 +311,7 @@ Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond 
 
 ([*back to text*](#example-1a))
 
-#### ![](./pic/note1515.png) Problem 2
+### ![](./pic/note1515.png) Problem 2
 Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond is senior secured (historical recovery rate = 42.7%). The yield on a 1-year zero-coupon Treasury bond is 2%. What should be the yield on this CCC-rated bond? (Assume periodicity of 1)
 
 <details>
