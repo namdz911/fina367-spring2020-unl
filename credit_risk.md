@@ -27,10 +27,9 @@
 
 ![alt text](./pic/test2.png) 
 
-<div style="position:relative;overflow:hidden;padding-top:56.25%;"><iframe title="Credit Risk - Example 1A"   allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://app.vidgrid.com/embed/UFISRTS4eMtm"></iframe></div>
+<iframe title="Credit Risk - Example 1A" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/UFISRTS4eMtm"></iframe>
   
-
->Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 65.3%). The yield on a 1-year zero-coupon Treasury bond >is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
+>Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 65.3%). The yield on a 1-year zero-coupon Treasury bond is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
 
 <details>
   <summary>Click for Solution!</summary>
@@ -53,8 +52,7 @@
 
 ![alt text](./pic/test2.png) 
 
-<div style="position:relative;overflow:hidden;padding-top:56.25%;"><iframe title="Credit Risk - Credit Structure and Yield Spread"   allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://app.vidgrid.com/embed/ssJ3C9JbLQWy"></iframe></div>
-  
+<iframe title="Credit Risk - Credit Structure and Yield Spread" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/ssJ3C9JbLQWy"></iframe>
 
 - Credit risk structure of interest rates
   - Understand basic principles underlying different models of credit risk 
