@@ -161,17 +161,12 @@
 ##### Practice
 - See [Problem 1](#problem-1) for more practice!
 
-
-```python
-
-```
-
 <a id='example-3'></a>
 ![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
 
-#### ![](./pic/note1515.png) Example 3
+#### ![](./pic/note1515.png) Example 5
 
->Consider a firm whose 1-year zero-coupon bonds currently yield 10%. The yield on 1-year zero-coupon Treasury bonds is 8%. What is this firm’s implied probability of default if the recovery rate expected by bondholders is zero?
+>Consider a firm whose 1-year zero-coupon bonds currently yield 10%. The yield on 1-year zero-coupon Treasury bonds is 8%. What is this firm’s implied probability of default if when the firm defaults bondholders expect to recover \$0.60 on the dollar with probability 1/3 and \$0.40 on the dollar with probability 2/3?
 
 <details>
   <summary>Click for Solution!</summary>
@@ -188,7 +183,7 @@
 </details> 
 
 ##### Practice
-- See [Problem 1](#problem-1) for more practice!
+- See [Problem 1](#problem-1) for more practice!!
 
 ## Bond Factors Models
 
