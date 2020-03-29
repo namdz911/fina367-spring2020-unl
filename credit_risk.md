@@ -25,7 +25,7 @@
 
 
 <a id='example-1a'></a>
-#### ![](./pic/note1515.png) Example 1A
+### ![](./pic/note2525.png) Example 1A
 
 ![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
 
@@ -51,7 +51,7 @@
 
 ---
 
-#### ![](./pic/dollarnew15.png) Credit risk structure of interest rates
+### ![](./pic/dollarnew25.png) Credit risk structure of interest rates
 
 ![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
@@ -66,7 +66,7 @@
 
 <a id='example-1b'></a>
 
-#### ![](./pic/note1515.png) Example 1B
+### ![](./pic/note2525.png) Example 1B
 
 ![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
