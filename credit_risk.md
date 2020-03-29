@@ -1,8 +1,11 @@
 # Credit Risk
 
+
+
 **Before you start**
 
-- Reading: Chapter 11, 12
+- We pick up where we left off before exam 3. We were discussing a new pricing model that is based on risk-adjusted return. Understanding Example 1A is important for Example 3-6 therefore the online course will pick up from there.
+- Optional Readings: Chapter 11, 12
 - <a href="./pdf/credit_risk.pdf" target="_blank">Link to download PowerPoint Slides!</a>
 
 
@@ -19,24 +22,14 @@
 
 ## Credit Ratings
 
-![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
-#### ![](./pic/dollarnew15.png) Options
-
-  - Understand basic principles underlying different models of credit risk 
-  - Understand credit rating pricing model 
-  
-#### ![](./pic/dollarnew15.png) Payoff and profit diagrams
-
-  - Understand basic principles underlying different models of credit risk 
-  - Understand credit rating pricing model 
-  
----
 
 <a id='example-1a'></a>
+#### ![](./pic/note1515.png) Example 1A
+
 ![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
 
-#### ![](./pic/note1515.png) Example 1A
+
 
 >Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 65.3%). The yield on a 1-year zero-coupon Treasury bond >is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
 
@@ -58,11 +51,24 @@
 
 ---
 
-<a id='example-1b'></a>
+#### ![](./pic/dollarnew15.png) Credit risk structure of interest rates
 
 ![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
+- Credit risk structure of interest rates
+  - Understand basic principles underlying different models of credit risk 
+  - Understand credit rating pricing model 
+  
+- Yield spreads
+  - Understand basic principles underlying different models of credit risk 
+  - Understand credit rating pricing model 
+---
+
+<a id='example-1b'></a>
+
 #### ![](./pic/note1515.png) Example 1B
+
+![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
 >Consider the 1-year zero-coupon bond with a BBB rating, whose yield we calculated in Example 1A. What is the yield spread on this bond? Assume that the following are yields on Treasury STRIPS of different maturity:
 >
@@ -90,6 +96,19 @@
 ## Credit Risk Models
 
 
+#### ![](./pic/dollarnew15.png) Credit risk structure of interest rates
+
+![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
+
+- Credit risk structure of interest rates
+  - Understand basic principles underlying different models of credit risk 
+  - Understand credit rating pricing model 
+  
+- Yield spreads
+  - Understand basic principles underlying different models of credit risk 
+  - Understand credit rating pricing model 
+---
+
 <a id='example-2'></a>
 #### ![](./pic/note1515.png) Example 2
 
@@ -116,10 +135,25 @@
 
 ---
 
+#### ![](./pic/dollarnew15.png) Credit risk structure of interest rates
+
+![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
+
+- Credit risk structure of interest rates
+  - Understand basic principles underlying different models of credit risk 
+  - Understand credit rating pricing model 
+  
+- Yield spreads
+  - Understand basic principles underlying different models of credit risk 
+  - Understand credit rating pricing model 
+---
+
 <a id='example-3'></a>
-![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
+
 
 #### ![](./pic/note1515.png) Example 3
+
+![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
 
 >Consider a firm whose 1-year zero-coupon bonds currently yield 10%. The yield on 1-year zero-coupon Treasury bonds is 8%. What is this firm’s implied probability of default if the recovery rate expected by bondholders is zero?
 
@@ -142,9 +176,10 @@
 ---
 
 <a id='example-4'></a>
-![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
 
 #### ![](./pic/note1515.png) Example 4
+
+![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
 
 >Consider a firm whose 1-year zero-coupon bonds currently yield 10%. The yield on 1-year zero-coupon Treasury bonds is 8%. What is this firm’s implied probability of default if bondholders expect to recover \$.60 on the dollar if the firm defaults? Assume periodicity of 1.
 
@@ -167,9 +202,10 @@
 ---
 
 <a id='example-3'></a>
-![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
 
 #### ![](./pic/note1515.png) Example 5
+
+![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
 
 >Consider a firm whose 1-year zero-coupon bonds currently yield 10%. The yield on 1-year zero-coupon Treasury bonds is 8%. What is this firm’s implied probability of default if when the firm defaults bondholders expect to recover \$.60 on the dollar with probability 1/3 and \$.40 on the dollar with probability 2/3?
 
@@ -193,9 +229,10 @@
 ---
 
 <a id='example-3'></a>
-![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
 
 #### ![](./pic/note1515.png) Example 6
+
+![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
 
 >Consider a firm whose 1-year zero-coupon bonds currently yield 10%, and 2-year bonds currently yield 12%. The yields on 1-year and 2-year zero-coupon Treasury bonds (i.e. the 1-year and 2-year spot rates) are 8% and 9% respectively. What is this firm’s implied cumulative probability of default if bondholders do not expect to recover anything in the case of default?
 
@@ -221,10 +258,25 @@
 ## Bond Factor Models
 
 
+#### ![](./pic/dollarnew15.png) Credit risk structure of interest rates
+
+![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
+
+- Credit risk structure of interest rates
+  - Understand basic principles underlying different models of credit risk 
+  - Understand credit rating pricing model 
+  
+- Yield spreads
+  - Understand basic principles underlying different models of credit risk 
+  - Understand credit rating pricing model 
+---
+
 <a id='example-3'></a>
-![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
+
 
 #### ![](./pic/note1515.png) Example 7
+
+![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
 
 >A bond has an expected return of 17.6%, sensitivity to the term factor of 1.45 and to the default factor of 0.86. The current term risk premium is 3.2%. The risk free rate of return is 5%. What is the default risk premium if no arbitrage opportunities exist?
 
