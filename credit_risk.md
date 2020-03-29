@@ -15,6 +15,7 @@
   - [Credit Risk Models](#credit-risk-models)  
   - [Bond Factor Models](#bond-factor-models) 
   - [Practice Problems](#practice-problems) 
+---
 
 ## Credit Ratings
 
@@ -113,6 +114,8 @@
 - Plug in the numbers and solve for Z-score.
 </details> 
 
+---
+
 <a id='example-3'></a>
 ![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
 
@@ -136,13 +139,14 @@
 
 ##### Practice
 - See [Problem 1](#problem-1) for more practice!
+---
 
 <a id='example-4'></a>
 ![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
 
 #### ![](./pic/note1515.png) Example 4
 
->Consider a firm whose 1-year zero-coupon bonds currently yield 10%. The yield on 1-year zero-coupon Treasury bonds is 8%. What is this firm’s implied probability of default if bondholders expect to recover \$0.60 on the dollar if the firm defaults? Assume periodicity of 1.
+>Consider a firm whose 1-year zero-coupon bonds currently yield 10%. The yield on 1-year zero-coupon Treasury bonds is 8%. What is this firm’s implied probability of default if bondholders expect to recover \$.60 on the dollar if the firm defaults? Assume periodicity of 1.
 
 <details>
   <summary>Click for Solution!</summary>
@@ -160,13 +164,15 @@
 
 ##### Practice
 - See [Problem 1](#problem-1) for more practice!
+---
 
 <a id='example-3'></a>
 ![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
 
 #### ![](./pic/note1515.png) Example 5
 
->Consider a firm whose 1-year zero-coupon bonds currently yield 10%. The yield on 1-year zero-coupon Treasury bonds is 8%. What is this firm’s implied probability of default if when the firm defaults bondholders expect to recover \$0.60 on the dollar with probability 1/3 and \$0.40 on the dollar with probability 2/3?
+>Consider a firm whose 1-year zero-coupon bonds currently yield 10%. The yield on 1-year zero-coupon Treasury bonds is 8%. What is this firm’s implied probability of default if when the firm defaults bondholders expect to recover \$.60 on the dollar with probability 1/3 and \$.40 on the dollar with probability 2/3?
+
 
 <details>
   <summary>Click for Solution!</summary>
@@ -184,9 +190,62 @@
 
 ##### Practice
 - See [Problem 1](#problem-1) for more practice!!
+---
 
-## Bond Factors Models
+<a id='example-3'></a>
+![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
 
+#### ![](./pic/note1515.png) Example 6
+
+>Consider a firm whose 1-year zero-coupon bonds currently yield 10%, and 2-year bonds currently yield 12%. The yields on 1-year and 2-year zero-coupon Treasury bonds (i.e. the 1-year and 2-year spot rates) are 8% and 9% respectively. What is this firm’s implied cumulative probability of default if bondholders do not expect to recover anything in the case of default?
+
+
+<details>
+  <summary>Click for Solution!</summary>
+
+##### ![](./pic/light.png) Solution
+       
+- Risk adjusted payoff is equal to risk free pay off:
+
+**<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
+
+- Plug in the numbers and solve for **r<sub>BBB</sub>**
+- The yield on this BBB-rated bond is **6.0847**
+    
+</details> 
+
+##### Practice
+- See [Problem 1](#problem-1) for more practice!!
+---
+
+## Bond Factor Models
+
+
+<a id='example-3'></a>
+![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
+
+#### ![](./pic/note1515.png) Example 7
+
+>A bond has an expected return of 17.6%, sensitivity to the term factor of 1.45 and to the default factor of 0.86. The current term risk premium is 3.2%. The risk free rate of return is 5%. What is the default risk premium if no arbitrage opportunities exist?
+
+
+<details>
+  <summary>Click for Solution!</summary>
+
+##### ![](./pic/light.png) Solution
+       
+- Risk adjusted payoff is equal to risk free pay off:
+
+**<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
+
+- Plug in the numbers and solve for **r<sub>BBB</sub>**
+- The yield on this BBB-rated bond is **6.0847**
+    
+</details> 
+
+##### Practice
+- See [Problem 1](#problem-1) for more practice!!
+---
 
 ## Practice Problems
 
