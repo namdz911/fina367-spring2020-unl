@@ -23,11 +23,11 @@
 ## Credit Ratings
 
 <a id='example-1a'></a>
-#### ![](./pic/note1515.png) Example 1A]
+#### ![](./pic/note1515.png) Example 1A
 
-<iframe width="640" height="480" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/vNja0w3p5Hur"></iframe>
+![alt text](./pic/test2.png) 
 
-![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
+<iframe width="640" height="480" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/UFISRTS4eMtm"></iframe>
 
 >Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 65.3%). The yield on a 1-year zero-coupon Treasury bond >is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
 
@@ -50,12 +50,13 @@
 
 #### ![](./pic/dollarnew15.png) Credit risk structure of interest rates
 
-![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
+![alt text](./pic/test2.png) 
+
+<iframe title="New combined video" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/ssJ3C9JbLQWy"></iframe>
 
 - Credit risk structure of interest rates
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
-  
 - Yield spreads
   - Understand basic principles underlying different models of credit risk 
   - Understand credit rating pricing model 
