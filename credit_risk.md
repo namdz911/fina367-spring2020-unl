@@ -60,9 +60,10 @@
 
 <a id='example-1b'></a>
 
-#### ![](./pic/note1515.png) Example 1B
+### ![](./pic/note2525.png) Example 1B
 
-![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
+<iframe title="Credit Risk - Credit Structure and Yield Spread" width="384" height="216" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/ssJ3C9JbLQWy"></iframe>
+  
 
 >Consider the 1-year zero-coupon bond with a BBB rating, whose yield we calculated in Example 1A. What is the yield spread on this bond? Assume that the following are yields on Treasury STRIPS of different maturity:
 >
