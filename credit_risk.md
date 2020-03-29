@@ -89,6 +89,107 @@
 ## Credit Risk Models
 
 
+<a id='example-2'></a>
+#### ![](./pic/note1515.png) Example 2
+
+>Consider a firm with the following characteristics:
+> - X1 (Working capital/total assets)=.01
+> - X2 (Retained earnings/total assets)=.1
+> - X3 (EBIT/total assets)= -0.25
+> - X4 (Market value equity/ book value LT debt)=.4
+> - X5 (Sales/total assets)=1
+>Calculate and interpret the Z score for this firm.
+
+
+<details>
+  <summary>Click for Solution!</summary>
+
+##### ![](./pic/light.png) Solution
+
+- We already have the the parameter for Z-score model:
+
+**<center> Z=1.2X<sub>1</sub>+ 1.4X<sub>2</sub> +3.3X<sub>3</sub> + 0.6X<sub>4</sub> + 1.0X<sub>5</sub> </center>**
+
+- Plug in the numbers and solve for Z-score.
+</details> 
+
+<a id='example-3'></a>
+![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
+
+#### ![](./pic/note1515.png) Example 3
+
+>Consider a firm whose 1-year zero-coupon bonds currently yield 10%. The yield on 1-year zero-coupon Treasury bonds is 8%. What is this firm’s implied probability of default if the recovery rate expected by bondholders is zero?
+
+<details>
+  <summary>Click for Solution!</summary>
+
+##### ![](./pic/light.png) Solution
+       
+- Risk adjusted payoff is equal to risk free pay off:
+
+**<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
+
+- Plug in the numbers and solve for **r<sub>BBB</sub>**
+- The yield on this BBB-rated bond is **6.0847**
+    
+</details> 
+
+##### Practice
+- See [Problem 1](#problem-1) for more practice!
+
+<a id='example-4'></a>
+![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
+
+#### ![](./pic/note1515.png) Example 4
+
+>Consider a firm whose 1-year zero-coupon bonds currently yield 10%. The yield on 1-year zero-coupon Treasury bonds is 8%. What is this firm’s implied probability of default if bondholders expect to recover \$0.60 on the dollar if the firm defaults? Assume periodicity of 1.
+
+<details>
+  <summary>Click for Solution!</summary>
+
+##### ![](./pic/light.png) Solution
+       
+- Risk adjusted payoff is equal to risk free pay off:
+
+**<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
+
+- Plug in the numbers and solve for **r<sub>BBB</sub>**
+- The yield on this BBB-rated bond is **6.0847**
+    
+</details> 
+
+##### Practice
+- See [Problem 1](#problem-1) for more practice!
+
+
+```python
+
+```
+
+<a id='example-3'></a>
+![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
+
+#### ![](./pic/note1515.png) Example 3
+
+>Consider a firm whose 1-year zero-coupon bonds currently yield 10%. The yield on 1-year zero-coupon Treasury bonds is 8%. What is this firm’s implied probability of default if the recovery rate expected by bondholders is zero?
+
+<details>
+  <summary>Click for Solution!</summary>
+
+##### ![](./pic/light.png) Solution
+       
+- Risk adjusted payoff is equal to risk free pay off:
+
+**<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
+
+- Plug in the numbers and solve for **r<sub>BBB</sub>**
+- The yield on this BBB-rated bond is **6.0847**
+    
+</details> 
+
+##### Practice
+- See [Problem 1](#problem-1) for more practice!
+
 ## Bond Factors Models
 
 
