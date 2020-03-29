@@ -23,9 +23,7 @@
 ## Credit Ratings
 
 <a id='example-1a'></a>
-#### ![](./pic/note1515.png) Example 1A
-
-![alt text](./pic/test2.png) 
+### ![](./pic/note2525.png) Example 1A
 
 <iframe title="Credit Risk - Example 1A" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/UFISRTS4eMtm"></iframe>
   
@@ -48,9 +46,7 @@
 - See [Problem 1](#problem-1) for more practice!
 ---
 
-#### ![](./pic/dollarnew15.png) Credit risk structure of interest rates
-
-![alt text](./pic/test2.png) 
+### ![](./pic/dollar2525.png) Credit risk structure of interest rates
 
 <iframe title="Credit Risk - Credit Structure and Yield Spread" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/ssJ3C9JbLQWy"></iframe>
 
