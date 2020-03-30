@@ -19,6 +19,7 @@
 ---
 
 ## Credit Ratings
+([*back to top*](#outline))!
 
 <a id='example-1a'></a>
 #### ![](./pic/note1515.png) Example 1A
@@ -37,7 +38,7 @@
 **<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
 
 - Plug in the numbers and solve for **r<sub>BBB</sub>**
-- The yield on this BBB-rated bond is **6.0847**
+- The yield on this BBB-rated bond is **6.0847%**
 </details> 
 
 #### Practice
@@ -53,9 +54,6 @@
 <a id='example-1b'></a>
 
 #### ![](./pic/note1515.png) Example 1B
-
-<iframe title="Credit Risk - Credit Structure and Yield Spread" width="384" height="216" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/ssJ3C9JbLQWy"></iframe>
-  
 
 >Consider the 1-year zero-coupon bond with a BBB rating, whose yield we calculated in Example 1A. What is the yield spread on this bond? Assume that the following are yields on Treasury STRIPS of different maturity:
 >
@@ -75,7 +73,7 @@
 ---
 
 ## Credit Risk Models
-
+([*back to top*](#outline))!
 - Now we gonna begin our discussion about credit risk models. The purpose of these models is to provide us with an assessment of the ability to pay. You will see that different models take into account different inputs to produce a measure for credit risk. 
 - We will study 3 different models of credit scores:
     - Qualitative models: **The 4Cs of Credit Analysis**
@@ -148,7 +146,7 @@
 
 **<center> (1+r<sub>risky</sub>)p + (1+r<sub>risky</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
 
-- Plug in the numbers and solve for **p**, which should be equal to 1.82%
+- Plug in the numbers and solve for p, which should be equal to **1.8182%**
     
 </details> 
 
@@ -162,7 +160,6 @@
 
 <iframe title="Credit Risk - Example 4" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/BH43CWLz9qeU"></iframe>
   
-
 >Consider a firm whose 1-year zero-coupon bonds currently yield 10%. The yield on 1-year zero-coupon Treasury bonds is 8%. What is this firm’s implied probability of default if bondholders expect to recover \$.60 on the dollar if the firm defaults? Assume periodicity of 1.
 
 <details>
@@ -172,10 +169,9 @@
        
 - Risk adjusted payoff is equal to risk free pay off:
 
-**<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
+**<center> (1+r<sub>risky</sub>)p + (1+r<sub>risky</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
 
-- Plug in the numbers and solve for **r<sub>BBB</sub>**
-- The yield on this BBB-rated bond is **6.0847**
+- Plug in the numbers and solve for p, which should be equal to **4.5455%**
     
 </details> 
 
@@ -198,10 +194,11 @@
        
 - Risk adjusted payoff is equal to risk free pay off:
 
-**<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
+**<center> (1+r<sub>risky</sub>)p + (1+r<sub>risky</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
 
-- Plug in the numbers and solve for **r<sub>BBB</sub>**
-- The yield on this BBB-rated bond is **6.0847**
+- First calculate the expected RR which should be equal to **46.67%**
+    
+- Plug in the numbers and solve for p, which should be equal to **3.4093%**
     
 </details> 
 
@@ -226,17 +223,21 @@
 
 **<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
 
-- Plug in the numbers and solve for **r<sub>BBB</sub>**
-- The yield on this BBB-rated bond is **6.0847**
+- The marginal probability of default in year 1 is **1.8182%**
+- To apply our risk-neutral valuation technique to the second year, we need to calculate the expected return over that year from corporate and from Treasury bonds, i.e. the 1-year forward rates one year from today (f<sub>1,2</sub>). Use this equation: **(1+r<sub>1</sub>)(1+f<sub>1,2</sub>)=(1+r<sub>2</sub>)^2**
+- The forward rate for risky corporate yield is **14.0364%**
+- The forward rate for risky-free yield is **10.0093%** 
+- The marginal probability of default in year 2 is **3.5314%**   
+- The implied cumulative probability of default is **5.2854%**
     
 </details> 
 
 ##### Practice
-- See [Problem 3](#problem-3) for more practice!!
+- See [Problem 3](#problem-3) for more practice!
 ---
 
 ## Bond Factor Models
-
+([*back to top*](#outline))!
 
 #### ![](./pic/dollarnew15.png) Bond Factors Model
 
@@ -264,22 +265,21 @@
     
 </details> 
 
-##### Practice
-- See [Problem 1](#problem-1) for more practice!!
 ---
 
 ## Practice Problems
+([*back to top*](#outline))!
 
 <a id='problem-1'></a>
 #### ![](./pic/note1515.png) Problem 1
-Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond is senior secured (historical recovery rate = 42.7%). The yield on a 1-year zero-coupon Treasury bond is 2%. What should be the yield on this CCC-rated bond? (Assume periodicity of 1)
+Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond is senior secured (historical recovery rate = 42.7%). The yield on a 1-year zero-coupon Treasury bond is 2%. What should be the yield on this CCC-rated bond? (Assume periodicity of 1 and probability of default 20%)
 
 <details>
   <summary>Click for Solution!</summary>
     
 ##### ![](./pic/light.png) Solution
 
-- The yield on this BBB-rated bond is **15.02022**
+- The yield on this BBB-rated bond is **15.02022%**
 
 </details>    
 
@@ -300,7 +300,7 @@ Consider a firm whose 1-year zero-coupon bonds currently yield 8.2%. The yield o
     
 - Pick the proper bond yield: **The yield on 1-year zero-coupon Treasury bonds is 7%**
 
-- Plug in the numbers and solve for **p**, which should be equal to 1.1091%
+- Plug in the numbers and solve for p, which should be equal to **1.1091%**
     
 </details> 
 
@@ -316,9 +316,9 @@ Consider a firm whose 1-year zero-coupon bonds currently yield 8.2%. The yield o
 
 ##### ![](./pic/light.png) Solution
 
-- The marginal probability of default in year 1 is *1.4058%**
-- The forward rate for risky corporate yield: **12.5788%**
-- The forward rate for risky-free yield: **9.8503%** 
+- The marginal probability of default in year 1 is **1.4058%**
+- The forward rate for risky corporate yield is **12.5788%**
+- The forward rate for risky-free yield is **9.8503%** 
 - The marginal probability of default in year 2 is **2.4237%**   
 - The implied cumulative probability of default is **3.7954%**
     
