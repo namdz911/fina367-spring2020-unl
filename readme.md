@@ -2,12 +2,12 @@
 
 
 ## On-the-run
-- Announcements and Updates
-- [Click to see where you should be at!](call_put_option.html#pricing-callable-bonds)
+- `03/30-04/05`: We will cover the rest of **Credit Risks** and **Intro to Options** this week.
+- Link to Materials:
+    - [Credit Risks](credit_risk.html)
 
 ## Generic
-- [Web-based FINA-367's guide](syllabus.html)
-- [Syllabus](syllabus.html)
+- [Course Overview](syllabus.html)
 
 ## Core Materials
 - **Modules 5**: Risks associated with bonds
@@ -16,10 +16,6 @@
 
 
 - **Modules 6**: Bonds with embedded option
-
-    - [Callable and Putable Bonds](call_put_option.html)
-
-
 - **Modules 7**: Residential mortgages & MBS
 
 ## Supplementary Materials
