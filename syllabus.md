@@ -5,12 +5,12 @@
 ## Contact information
 * Instructor: Nam Le
 * My office: COB 423D
-* My email: nam.le@huskers.unl.edu
-* Office hours: 3:30 - 4:45, Tue & Thu or by appointments
+* My email:  <a href="mailto:nam.le@huskers.unl.edu" target="_blank">nam.le@huskers.unl.edu</a>
+* Office hours: 3:30 pm - 4:45 pm, Tue & Thu or by appointments
 
 ## A guide to the Web-Based FINA367
 
-To help you study well in an online setting, I created this <a href="https://namdz911.github.io/fina367-spring2020-unl/" target="_blank">website</a> which compiles everything you need for the course. From now on, the course materials will officially migrate to this site. Therefore, you should spend some time to get yourself acquainted with the site. Here is some useful information to get you started. 
+To help you study well in an online setting, I created this <a href="https://namdz911.github.io/fina367-spring2020-unl/" target="_blank">website</a> which compiles everything you need for the course. From now on, the course materials will officially migrate to this site. Therefore, you should spend some time to get yourself acquainted with it. Here is some useful information to get you started. 
 
 - **Communication**
     - Communication is still through emails and Canvas. 
@@ -35,7 +35,7 @@ To help you study well in an online setting, I created this <a href="https://nam
         
         
 - **Exams**
-    - Exam 4 will be replaced by a homework, with length no longer than the intended exam. I will allow you 1 day to finish. For certain problems, you would have to write down the answers just like in the exam to show me that you know the steps to solve the problem. I might or might not ask you to turn in that written part.
+    - Exam 4 will be replaced by a homework, with length no longer than the intended exam. I will allow you 2 days to finish. For certain problems, you would have to write down the answers just like in the exam to show me that you know the steps to solve the problem. I might or might not ask you to turn in that written part.
     - The Final will be open notes open books and take 2 hours to complete. 
       
       

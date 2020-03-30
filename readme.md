@@ -2,20 +2,32 @@
 
 
 ## On-the-run
+
+
 - `03/30-04/05`: We will cover the rest of **Credit Risks** and **Intro to Options** this week.
+
+
 - Link to Materials:
     - [Credit Risks](credit_risk.html)
+    
+    
+- Office hour starts on `Thursday 04/02 at 3:30-4:45pm US. Central Time`. 
+
+
+- Good Readings on Covid-19:
+    - <a href="https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56" target="_blank">Coronavirus: The Hammer and the Dance</a>
 
 ## Generic
 - [Course Overview](syllabus.html)
 
 ## Core Materials
 - **Modules 5**: Risks associated with bonds
-
     - [Credit Risks](credit_risk.html)
 
 
 - **Modules 6**: Bonds with embedded option
+
+
 - **Modules 7**: Residential mortgages & MBS
 
 ## Supplementary Materials
