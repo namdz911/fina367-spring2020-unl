@@ -1,6 +1,5 @@
 # Course Overview
 
----
 
 ## Contact information
 * Instructor: Nam Le
