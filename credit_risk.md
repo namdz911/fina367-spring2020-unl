@@ -5,7 +5,8 @@
 **Before you start**
 
 - We pick up where we left off before exam 3. We were discussing a new pricing model that is based on risk-adjusted return. Understanding Example 1A is important for Example 3-6 therefore the online course will pick up from there.
-- Optional Readings: Chapter 11, 12
+- You should practice all the problems provided on this page and make sure you know how to solve them. 
+- Optional Readings: Chapter 5, 6
 - <a href="./pdf/credit_risk.pdf" target="_blank">Link to download PowerPoint Slides!</a>
 
 
