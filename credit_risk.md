@@ -69,7 +69,8 @@
 
 ##### ![](./pic/light.png) Solution
 - To calculate the yield spread for a risk bond, we have to use the treasury bond with the same maturity. In this case, it is the 1-year Treasury with YTM = 6%.
-</details>  
+</details> 
+
 ---
 
 ## Credit Risk Models
@@ -259,7 +260,7 @@
 
 ##### ![](./pic/light.png) Solution
        
-- Bond Expected Return = Risk-free + Beta_Term * Term_premium + Beta_Default * Default_premium
+- **Bond Expected Return = Risk-free + Beta_Term * Term_premium + Beta_Default * Default_premium**
     
 - Plug in the numbers and solve for Default_premium you should get **9.2558*%**
     
