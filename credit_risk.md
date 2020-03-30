@@ -10,7 +10,7 @@
 
 
 ## Outline
-- [Credit Risk](#credit-cisk)  
+- [Credit Risk](#credit-risk)  
   - [Credit Ratings](#credit-ratings)  
   - [Credit Risk Models](#credit-risk-models)  
   - [Bond Factor Models](#bond-factor-models) 
@@ -19,7 +19,7 @@
 ---
 
 ## Credit Ratings
-([*back to top*](#outline))!
+([*back to top*](#credit-risk))!
 
 <a id='example-1a'></a>
 #### ![](./pic/note1515.png) Example 1A
@@ -73,7 +73,8 @@
 ---
 
 ## Credit Risk Models
-([*back to top*](#outline))!
+([*back to top*](#credit-risk))!
+
 - Now we gonna begin our discussion about credit risk models. The purpose of these models is to provide us with an assessment of the ability to pay. You will see that different models take into account different inputs to produce a measure for credit risk. 
 - We will study 3 different models of credit scores:
     - Qualitative models: **The 4Cs of Credit Analysis**
@@ -237,9 +238,11 @@
 ---
 
 ## Bond Factor Models
-([*back to top*](#outline))!
+([*back to top*](#credit-risk))!
 
 #### ![](./pic/dollarnew15.png) Bond Factors Model
+
+<iframe title="Credit Risk - Factor Models" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/yYQpKWV6wj6b"></iframe>
 
 ---
 
@@ -256,19 +259,16 @@
 
 ##### ![](./pic/light.png) Solution
        
-- Risk adjusted payoff is equal to risk free pay off:
-
-**<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
-
-- Plug in the numbers and solve for **r<sub>BBB</sub>**
-- The yield on this BBB-rated bond is **6.0847**
+- Bond Expected Return = Risk-free + Beta_Term * Term_premium + Beta_Default * Default_premium
+    
+- Plug in the numbers and solve for Default_premium you should get **9.2558*%**
     
 </details> 
 
 ---
 
 ## Practice Problems
-([*back to top*](#outline))!
+([*back to top*](#credit-risk))!
 
 <a id='problem-1'></a>
 #### ![](./pic/note1515.png) Problem 1
