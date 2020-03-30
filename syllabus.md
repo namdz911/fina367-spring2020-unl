@@ -6,7 +6,7 @@
 * Instructor: Nam Le
 * My office: COB 423D
 * My email:  <a href="mailto:nam.le@huskers.unl.edu" target="_blank">nam.le@huskers.unl.edu</a>
-* Office hours: 3:30 pm - 4:45 pm, Tue & Thu or by appointments
+* Office hours: 3:30 - 4:30 pm, Tue & Thu or by appointments
 
 ## A guide to the Web-Based FINA367
 
@@ -42,3 +42,8 @@ To help you study well in an online setting, I created this <a href="https://nam
 - **Polices**
     - Polices remain consistent with originally stated in the Syllabus
 
+
+
+```python
+
+```

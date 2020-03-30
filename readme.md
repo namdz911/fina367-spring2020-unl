@@ -7,7 +7,7 @@
 - `03/30-04/05`: We will cover the rest of **[Credit Risks](credit_risk.html)** and **Intro to Options** (to be posted later) this week.
 
     
-- Office hour starts on `Thursday 04/02 at 3:30-4:45pm US. Central Time`. 
+- Office hour starts on `Thursday 04/02 at 3:30-4:30 US. Central Time`. You can go to office hours by joining this <a href="https://unl.zoom.us/j/879536217" target="_blank">Zoom</a> meeting.
 
 
 - Good Readings on Covid-19:
