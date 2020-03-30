@@ -14,7 +14,7 @@ To help you study well in an online setting, I created this <a href="https://nam
 
 - **Communication**
     - Communication is still through emails and Canvas. 
-    - Updates and Tentative class schedule will be posted on the <a href="https://namdz911.github.io/fina367-spring2020-unl/" target="_blank">front page</a>
+    - Updates and Tentative class schedule will be posted on the <a href="https://namdz911.github.io/fina367-spring2020-unl/" target="_blank">front page</a> under **"On The Run"**.
         - You should follow this schedule to keep your self up to speed with the class
         
         

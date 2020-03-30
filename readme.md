@@ -2,14 +2,10 @@
 
 
 ## On-the-run
+- **PLEASE READ THIS <a href="https://namdz911.github.io/fina367-spring2020-unl/syllabus.html" target="_blank">PAGE</a> !**
 
+- `03/30-04/05`: We will cover the rest of [Credit Risks](credit_risk.html) and Intro to Options this week.
 
-- `03/30-04/05`: We will cover the rest of **Credit Risks** and **Intro to Options** this week.
-
-
-- Link to Materials:
-    - [Credit Risks](credit_risk.html)
-    
     
 - Office hour starts on `Thursday 04/02 at 3:30-4:45pm US. Central Time`. 
 
