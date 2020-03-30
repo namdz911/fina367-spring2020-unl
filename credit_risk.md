@@ -263,7 +263,7 @@
        
 - **Bond Expected Return = Risk-free + Beta_Term * Term_premium + Beta_Default * Default_premium**
     
-- Plug in the numbers and solve for Default_premium you should get **9.2558*%**
+- Plug in the numbers and solve for Default_premium you should get **9.2558%**
     
 </details> 
 
