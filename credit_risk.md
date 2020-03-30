@@ -23,7 +23,7 @@
 ## Credit Ratings
 
 <a id='example-1a'></a>
-### ![](./pic/note2525.png) Example 1A
+#### ![](./pic/note1515.png) Example 1A
 
 <iframe title="Credit Risk - Example 1A" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/UFISRTS4eMtm"></iframe>
   
@@ -46,7 +46,7 @@
 - See [Problem 1](#problem-1) for more practice!
 ---
 
-### ![](./pic/dollar2525.png) Credit risk structure of interest rates
+#### ![](./pic/dollarnew15.png) Credit risk structure of interest rates
 
 <iframe title="Credit Risk - Credit Structure and Yield Spread" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/ssJ3C9JbLQWy"></iframe>
 
@@ -60,7 +60,7 @@
 
 <a id='example-1b'></a>
 
-### ![](./pic/note2525.png) Example 1B
+#### ![](./pic/note1515.png) Example 1B
 
 <iframe title="Credit Risk - Credit Structure and Yield Spread" width="384" height="216" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/ssJ3C9JbLQWy"></iframe>
   
@@ -78,14 +78,8 @@
   <summary>Click for Solution!</summary>
 
 ##### ![](./pic/light.png) Solution
-- The option will not be exercise because the strike price \$112 is higher than market price \$100. You lose the \$4 you paid for the option.
-- In this case, you gain 4 for selling the option.
-- The option will be exercise because the strike price \$112 is lower than market price \$120. You lose the \$4 you paid for the option but gain \$8 (120-112) for exercising the option. 
+- To calculate the yield spread for a risk bond, we have to use the treasury bond with the same maturity 
 </details>  
-
-##### Practice
-- See [Problem 2](#problem-2) for more practice!
-
 ---
 
 ## Credit Risk Models
@@ -148,8 +142,8 @@
 
 #### ![](./pic/note1515.png) Example 3
 
-![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
-
+<iframe title="Credit Risk - Example 3" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/LABLrsVdDs71"></iframe>
+  
 >Consider a firm whose 1-year zero-coupon bonds currently yield 10%. The yield on 1-year zero-coupon Treasury bonds is 8%. What is this firm’s implied probability of default if the recovery rate expected by bondholders is zero?
 
 <details>
@@ -159,10 +153,9 @@
        
 - Risk adjusted payoff is equal to risk free pay off:
 
-**<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
+**<center> (1+r<sub>risky</sub>)p + (1+r<sub>risky</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
 
-- Plug in the numbers and solve for **r<sub>BBB</sub>**
-- The yield on this BBB-rated bond is **6.0847**
+- Plug in the numbers and solve for **p**, which should be equal to 1.82%
     
 </details> 
 
@@ -296,7 +289,7 @@
 
 ## Practice Problems
 
-
+<a id='problem-1'></a>
 ### ![](./pic/note1515.png) Problem 1
 Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond is senior secured (historical recovery rate = 42.7%). The yield on a 1-year zero-coupon Treasury bond is 2%. What should be the yield on this CCC-rated bond? (Assume periodicity of 1)
 
@@ -311,6 +304,7 @@ Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond 
 
 ([*back to text*](#example-1a))
 
+<a id='problem-2'></a>
 ### ![](./pic/note1515.png) Problem 2
 Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond is senior secured (historical recovery rate = 42.7%). The yield on a 1-year zero-coupon Treasury bond is 2%. What should be the yield on this CCC-rated bond? (Assume periodicity of 1)
 
