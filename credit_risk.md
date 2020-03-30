@@ -167,7 +167,7 @@
 
 #### ![](./pic/note1515.png) Example 4
 
-![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
+<iframe width="640" height="480" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/BH43CWLz9qeU"></iframe>
 
 >Consider a firm whose 1-year zero-coupon bonds currently yield 10%. The yield on 1-year zero-coupon Treasury bonds is 8%. What is this firm’s implied probability of default if bondholders expect to recover \$.60 on the dollar if the firm defaults? Assume periodicity of 1.
 
@@ -193,7 +193,8 @@
 
 #### ![](./pic/note1515.png) Example 5
 
-![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
+<iframe title="Credit Risk - Example 5" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/2VqHy2AA9ndL"></iframe>
+  
 
 >Consider a firm whose 1-year zero-coupon bonds currently yield 10%. The yield on 1-year zero-coupon Treasury bonds is 8%. What is this firm’s implied probability of default if when the firm defaults bondholders expect to recover \$.60 on the dollar with probability 1/3 and \$.40 on the dollar with probability 2/3?
 
@@ -220,7 +221,8 @@
 
 #### ![](./pic/note1515.png) Example 6
 
-![alt text](./pic/test2.png) <a href="https://use.vg/lbJUan" target="_blank">Link to Video!</a>
+<iframe title="Credit Risk - Example 6" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/SSAiF0PraoS0"></iframe>
+  
 
 >Consider a firm whose 1-year zero-coupon bonds currently yield 10%, and 2-year bonds currently yield 12%. The yields on 1-year and 2-year zero-coupon Treasury bonds (i.e. the 1-year and 2-year spot rates) are 8% and 9% respectively. What is this firm’s implied cumulative probability of default if bondholders do not expect to recover anything in the case of default?
 
@@ -296,7 +298,7 @@ Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond 
 <details>
   <summary>Click for Solution!</summary>
     
-#### Solution
+##### ![](./pic/light.png) Solution
 
 - The yield on this BBB-rated bond is **15.02022**
 
@@ -306,15 +308,21 @@ Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond 
 
 <a id='problem-2'></a>
 ### ![](./pic/note1515.png) Problem 2
-Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond is senior secured (historical recovery rate = 42.7%). The yield on a 1-year zero-coupon Treasury bond is 2%. What should be the yield on this CCC-rated bond? (Assume periodicity of 1)
+Consider a firm whose 1-year zero-coupon bonds currently yield 8.2%. The yield on 6-month zero-coupon Treasury bonds is 6%. The yield on 1-year zero-coupon Treasury bonds is 7%. What is this firm’s implied probability of default if the recovery rate expected by bondholders is zero?
 
 <details>
   <summary>Click for Solution!</summary>
+
+##### ![](./pic/light.png) Solution
+       
+- Risk adjusted payoff is equal to risk free pay off:
+
+**<center> (1+r<sub>risky</sub>)p + (1+r<sub>risky</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
     
-#### Solution
+- Pick the proper bond yield: **The yield on 1-year zero-coupon Treasury bonds is 7%**
 
-- The yield on this BBB-rated bond is **15.02022**
-
-</details>    
+- Plug in the numbers and solve for **p**, which should be equal to 1.11%
+    
+</details> 
 
 ([*back to text*](#example-1b))
