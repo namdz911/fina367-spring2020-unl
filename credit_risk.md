@@ -36,7 +36,7 @@
 
 - Risk adjusted payoff is equal to risk free pay off:
 
-**<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
+**<center> (1+r<sub>BBB</sub>)\*p\*RR + (1+r<sub>BBB</sub>)*(1 - p) = 1+r<sub>f</sub> </center>**
 
 - Plug in the numbers and solve for **r<sub>BBB</sub>**
 - The yield on this BBB-rated bond is **6.0847%**
@@ -147,7 +147,7 @@
        
 - Risk adjusted payoff is equal to risk free pay off:
 
-**<center> (1+r<sub>risky</sub>)p + (1+r<sub>risky</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
+**<center> (1+r<sub>risky</sub>)\*p\*RR + (1+r<sub>risky</sub>)*(1 - p) = 1+r<sub>f</sub> </center>**
 
 - Plug in the numbers and solve for p, which should be equal to **1.8182%**
     
@@ -172,7 +172,7 @@
        
 - Risk adjusted payoff is equal to risk free pay off:
 
-**<center> (1+r<sub>risky</sub>)p + (1+r<sub>risky</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
+**<center> (1+r<sub>risky</sub>)\*p\*RR + (1+r<sub>risky</sub>)*(1 - p) = 1+r<sub>f</sub> </center>**
 
 - Plug in the numbers and solve for p, which should be equal to **4.5455%**
     
@@ -197,7 +197,7 @@
        
 - Risk adjusted payoff is equal to risk free pay off:
 
-**<center> (1+r<sub>risky</sub>)p + (1+r<sub>risky</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
+**<center> (1+r<sub>risky</sub>)\*p\*RR + (1+r<sub>risky</sub>)*(1 - p) = 1+r<sub>f</sub> </center>**
 
 - First calculate the expected RR which should be equal to **46.67%**
     
@@ -224,7 +224,7 @@
        
 - Risk adjusted payoff is equal to risk free pay off:
 
-**<center> (1+r<sub>BBB</sub>)p + (1+r<sub>BBB</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
+**<center> (1+r<sub>risky</sub>)\*p\*RR + (1+r<sub>risky</sub>)*(1 - p) = 1+r<sub>f</sub> </center>**
 
 - The marginal probability of default in year 1 is **1.8182%**
 - To apply our risk-neutral valuation technique to the second year, we need to calculate the expected return over that year from corporate and from Treasury bonds, i.e. the 1-year forward rates one year from today (f<sub>1,2</sub>). Use this equation: **(1+r<sub>1</sub>)(1+f<sub>1,2</sub>)=(1+r<sub>2</sub>)^2**
@@ -298,7 +298,7 @@ Consider a firm whose 1-year zero-coupon bonds currently yield 8.2%. The yield o
        
 - Risk adjusted payoff is equal to risk free pay off:
 
-**<center> (1+r<sub>risky</sub>)p + (1+r<sub>risky</sub>)(1 - p)RR = 1+r<sub>f</sub> </center>**
+**<center> (1+r<sub>risky</sub>)\*p\*RR + (1+r<sub>risky</sub>)*(1 - p) = 1+r<sub>f</sub> </center>**
     
 - Pick the proper bond yield: **The yield on 1-year zero-coupon Treasury bonds is 7%**
 
