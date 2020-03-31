@@ -281,7 +281,7 @@ Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond 
     
 ##### ![](./pic/light.png) Solution
 
-- The yield on this BBB-rated bond is **15.02022%**
+- The yield on this CCC-rated bond is **15.02022%**
 
 </details>    
 
