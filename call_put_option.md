@@ -22,10 +22,11 @@
 ([*back to top*](#callable-and-putable-bonds)!)
 
  - For this section, it is crutial to understand how option works? how the decision to exercise is made and what the payoff structure looks like?
+ - The section would be the prerequisite for Bonds with Embedded Options.  
 
 #### ![](./pic/dollarnew15.png) What is an Option?
 
- -  Definition and Basic Features of Options
+##### Definition and Basic Features of Options
 
 ![alt text](./pic/test2.png) <a href="https://use.vg/IZpTmu" target="_blank">Link to Video!</a>
   
@@ -33,14 +34,14 @@
 
 #### ![](./pic/dollarnew15.png) Option Payoff/Profit Diagrams
 
- - The use of diagrams and some assumptions to generate the the ones that we need.
+##### The use of diagrams and some assumptions to generate the the ones that we need.
 
 ![alt text](./pic/test2.png) <a href="https://use.vg/UB3uP2" target="_blank">Link to Video!</a>
 
 ---
 
- - How to draw the diagram for 4 option positions: `Buy a Call`, `Sell a Call`, `Buy a Put`, `Sell A Put`
-   - To navigate within the video to different option positions, click on the `Chapter` button on the video (The second button on the top right corner of the video)
+##### How to draw the diagram for 4 option positions: `Buy a Call`, `Sell a Call`, `Buy a Put`, `Sell A Put`
+ - To navigate within the video to different option positions, click on the `Chapter` button on the video (The second button on the top right corner of the video)
   
 ![alt text](./pic/test2.png) <a href="https://use.vg/ahionb" target="_blank">Link to Video!</a>
   
@@ -71,7 +72,7 @@
 
 </details> 
 
- - Now try to solve the following examples !
+##### Now try to solve the following examples !
 
 ---
 
