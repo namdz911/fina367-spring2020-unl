@@ -7,6 +7,8 @@
 
 ## Outline
 
+![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
+
 - [Callable and Putable Bonds](#callable-and-putable-bonds)  
   - [Introduction to options](#introduction-to-options)  
   - [Introduction to bonds with embedded options](#introduction-to-bonds-with-embedded-options)  
