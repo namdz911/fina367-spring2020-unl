@@ -23,9 +23,13 @@
 ## Introduction to options
 ([*back to top*](#callable-and-putable-bonds)!
 
+ - For this section, it is crutial to understand how option works? how the decision to exercise is made and what the payoff structure looks like?
+
 #### ![](./pic/dollarnew15.png) What is an Option?
 
-<iframe width="640" height="480" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/0I1pi5Y0HGHH"></iframe>
+ - Definition and Basic Features of Options
+
+<iframe title="What is an Option?" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/0I1pi5Y0HGHH"></iframe>
   
 ---
 
@@ -42,9 +46,11 @@
   
 ---
 
+#### ![](./pic/note1515.png) Option Payoff/Profit Examples 
+
 <a id='example-1'></a>
 
-#### ![](./pic/note1515.png) Option Payoff/Profit Examples
+**Example 1**
 
 <iframe title="Option Payoff/Profit Example 1" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/jm6QFCvQm9O9"></iframe>
 
@@ -65,15 +71,13 @@
 
 </details> 
 
-#### Practice
-- See [Problem 1](#problem-1) for more practice!
----
+ - Now try to solve the following examples !
 
-<a id='example-1'></a>
+<a id='example-2'></a>
 
-#### ![](./pic/note1515.png) Option Payoff/Profit Examples
+**Example 2**
 
-<iframe title="Option Payoff/Profit Example 1" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/jm6QFCvQm9O9"></iframe>
+ - Try to solve Example 2 now by following the list of questions and pay attention to the position you are taking now!
 
 >Consider a call option on bond X with an exercise price of \$112 that expires in 3 months. Today the option’s price is \$4.
 > - What is your payoff if you sell the option and in 3 months bond X is selling for \$100? What is your profit/loss?
@@ -92,15 +96,11 @@
 
 </details> 
 
-#### Practice
-- See [Problem 1](#problem-1) for more practice!
----
+<a id='example-3'></a>
 
-<a id='example-1'></a>
+**Example 3**
 
-#### ![](./pic/note1515.png) Option Payoff/Profit Examples
-
-<iframe title="Option Payoff/Profit Example 1" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/jm6QFCvQm9O9"></iframe>
+ - Example 3 is different from the other two examples in that the price of the underlying is now different. How would that affect your decision to exercise the option?
 
 >Consider a call option on bond X with an exercise price of \$112 that expires in 3 months. Today the option’s price is \$4.
 > - What is your payoff if you buy the option and in 3 months bond X is selling for \$120? What is your profit/loss?
@@ -121,8 +121,7 @@
 </details> 
 
 #### Practice
-- See [Problem 1](#problem-1) for more practice!
----
+- See [Problem 1](#problem-1) and [Problem 2](#problem-2) for more practice!
 
 ## Introduction to bonds with embedded options 
 (To Be Updated)
@@ -151,6 +150,8 @@
 
 ## Practice Problems
 
+([*back to top*](#callable-and-putable-bonds)!)
+
 <a id='problem-1'></a>
 #### ![](./pic/note1515.png) Problem 1
 You buy a call option and buy a put option on bond X. The strike price of the call option is \$90 and the strike price of the put option is \$90. The call option premium is \$5 and the put option premium is \$2. Both options can be exercised only on their expiration date, which happens to be the same for the call and the put. If the price of bond X is \$100 on the expiration date, what is your total payoff and then total profit from the options portfolio?
@@ -167,19 +168,21 @@ You buy a call option and buy a put option on bond X. The strike price of the ca
 
 </details>    
 
-([*back to text*](#example-1))
+([*back to text*](#example-3))
 
 <a id='problem-2'></a>
 #### ![](./pic/note1515.png) Problem 2
-Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond is senior secured (historical recovery rate = 42.7%). The yield on a 1-year zero-coupon Treasury bond is 2%. What should be the yield on this CCC-rated bond? (Assume periodicity of 1 and probability of default 20%)
+You sell a call option and buy a put option on bond X. The strike price of the call option is \$90 and the strike price of the put option is \$105. The call option premium is \$5 and the put option premium is \$2. Both options can be exercised only on their expiration date, which happens to be the same for the call and the put. If the price of bond X is \$100 on the expiration date, what is your total payoff and then total profit from the options portfolio?
 
 <details>
   <summary>Click for Solution!</summary>
     
 ##### ![](./pic/light.png) Solution
 
-- The yield on this CCC-rated bond is **15.02022%**
-
+ - At \$100, the call option would be exercised and the payoff to the seller would be **–(100-90)=-10**.
+ - At \$100, the put option will be exercised and the payoff to the buyer would be **105-100=5**
+ - The total payoff from the options portfolio would be **-5**.
+ - The total profit from the options portfolio is **-5+5-2=-2**. (loss)
 </details>    
 
-([*back to text*](#example-1a))
+([*back to text*](#example-3))
