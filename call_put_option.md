@@ -67,9 +67,9 @@
 ##### ![](./pic/light.png) Solution
 - Go through this set of questions:
     - Who get to decide? **You**
-    - Will it be exercised? **No! because the price at expiration is less than the strike price (100 < 112).**
+    - Will it be exercised? **No! you have a call option and because the price at expiration is less than the strike price (100 < 112).**
     - What’s the payoff? **Payoff is 0 because the option is not excercised.**
-    - Did you pay or receive the premium? **You paid the premium because you are the buyer**
+    - Did you pay or receive the premium? **You paid the premium because you are the buyer.**
     - What is the profit/loss? **0 - 4 = -4**
 
 </details> 
@@ -94,9 +94,9 @@
 ##### ![](./pic/light.png) Solution
 - Go through this set of questions:
     - Who get to decide? **Whoever buys the option.**
-    - Will it be exercised? **No! because the price at expiration is less than the strike price (100 < 112).**
+    - Will it be exercised? **No! because you have a call option and the price at expiration is less than the strike price (100 < 112).**
     - What’s the payoff? **Payoff is 0 because the option is not excercised.**
-    - Did you pay or receive the premium? **You receive the premium because you are the seller**
+    - Did you pay or receive the premium? **You receive the premium because you are the seller.**
     - What is the profit/loss? **0 + 4 = 4**
 
 </details> 
@@ -120,9 +120,9 @@
 ##### ![](./pic/light.png) Solution
 - Go through this set of questions:
     - Who get to decide? **You**
-    - Will it be exercised? **Yes! because the price at expiration is higher than the strike price (120 > 112).**
-    - What’s the payoff? **Payoff is 120 - 112 = 8 because the option is not excercised.**
-    - Did you pay or receive the premium? **You paid the premium because you are the buyer**
+    - Will it be exercised? **Yes! because you have a call option and the price at expiration is higher than the strike price (120 > 112).**
+    - What’s the payoff? **Payoff is 120 - 112 = 8 because the option is excercised.**
+    - Did you pay or receive the premium? **You paid the premium because you are the buyer.**
     - What is the profit/loss? **8 - 4 = 4**
 
 </details> 
