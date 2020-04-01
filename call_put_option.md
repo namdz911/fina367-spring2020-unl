@@ -27,7 +27,7 @@
 
 #### ![](./pic/dollarnew15.png) What is an Option?
 
- - Definition and Basic Features of Options
+##### Definition and Basic Features of Options
 
 <iframe title="What is an Option?" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/0I1pi5Y0HGHH"></iframe>
   
@@ -35,12 +35,13 @@
 
 #### ![](./pic/dollarnew15.png) Option Payoff/Profit Diagrams
 
- - The use of diagrams and some assumptions to generate the the ones that we need.
+##### The use of diagrams and some assumptions to generate the the ones that we need.
 
 <iframe title="Option Payoff/Profit Diagrams P1" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/c7H9RoVYggEa"></iframe>
 
- - How to draw the diagram for 4 option positions: `Buy a Call`, `Sell a Call`, `Buy a Put`, `Sell A Put`
-     - To navigate within the video to different option positions, click on the `Chapter` button on the video (The second button on the top right corner of the video)
+##### How to draw the diagram for 4 option positions: `Buy a Call`, `Sell a Call`, `Buy a Put`, `Sell A Put`
+
+ - To navigate within the video to different option positions, click on the `Chapter` button on the video (The second button on the top right corner of the video)
   
 <iframe title="Option Payoff/Profit Diagrams P2" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/naNuXeunh3b6"></iframe>
   
@@ -71,13 +72,13 @@
 
 </details> 
 
- - Now try to solve the following examples !
+##### Now try to solve the following examples !
 
 <a id='example-2'></a>
 
 **Example 2**
 
- - Try to solve Example 2 now by following the list of questions and pay attention to the position you are taking now!
+##### Try to solve Example 2 now by following the list of questions and pay attention to the position you are taking now!
 
 >Consider a call option on bond X with an exercise price of \$112 that expires in 3 months. Today the option’s price is \$4.
 > - What is your payoff if you sell the option and in 3 months bond X is selling for \$100? What is your profit/loss?
@@ -100,7 +101,7 @@
 
 **Example 3**
 
- - Example 3 is different from the other two examples in that the price of the underlying is now different. How would that affect your decision to exercise the option?
+##### Example 3 is different from the other two examples in that the price of the underlying is now different. How would that affect your decision to exercise the option?
 
 >Consider a call option on bond X with an exercise price of \$112 that expires in 3 months. Today the option’s price is \$4.
 > - What is your payoff if you buy the option and in 3 months bond X is selling for \$120? What is your profit/loss?
