@@ -21,7 +21,7 @@
 ---
 
 ## Introduction to options
-([*back to top*](#callable-and-putable-bonds)!
+([*back to top*](#callable-and-putable-bonds)!)
 
  - For this section, it is crutial to understand how option works? how the decision to exercise is made and what the payoff structure looks like?
 
@@ -35,13 +35,14 @@
 
 #### ![](./pic/dollarnew15.png) Option Payoff/Profit Diagrams
 
-##### The use of diagrams and some assumptions to generate the the ones that we need.
+ - The use of diagrams and some assumptions to generate the the ones that we need.
 
 <iframe title="Option Payoff/Profit Diagrams P1" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/c7H9RoVYggEa"></iframe>
 
-##### How to draw the diagram for 4 option positions: `Buy a Call`, `Sell a Call`, `Buy a Put`, `Sell A Put`
+---
 
- - To navigate within the video to different option positions, click on the `Chapter` button on the video (The second button on the top right corner of the video)
+ - How to draw the diagram for 4 option positions: `Buy a Call`, `Sell a Call`, `Buy a Put`, `Sell A Put`
+   - To navigate within the video to different option positions, click on the `Chapter` button on the video (The second button on the top right corner of the video)
   
 <iframe title="Option Payoff/Profit Diagrams P2" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/naNuXeunh3b6"></iframe>
   
@@ -74,6 +75,8 @@
 
 ##### Now try to solve the following examples !
 
+---
+
 <a id='example-2'></a>
 
 **Example 2**
@@ -96,6 +99,8 @@
     - What is the profit/loss? **0 + 4 = 4**
 
 </details> 
+
+---
 
 <a id='example-3'></a>
 
@@ -123,6 +128,8 @@
 
 #### Practice
 - See [Problem 1](#problem-1) and [Problem 2](#problem-2) for more practice!
+
+---
 
 ## Introduction to bonds with embedded options 
 (To Be Updated)
