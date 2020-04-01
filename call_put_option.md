@@ -7,8 +7,6 @@
 
 ## Outline
 
-<iframe title="Callable and Putable Bonds - Outline" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/9YbV5VYrCNl8"></iframe>
-
 - [Callable and Putable Bonds](#callable-and-putable-bonds)  
   - [Introduction to options](#introduction-to-options)  
   - [Introduction to bonds with embedded options](#introduction-to-bonds-with-embedded-options)  
@@ -29,7 +27,7 @@
 
  -  Definition and Basic Features of Options
 
-<iframe title="What is an Option?" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/0I1pi5Y0HGHH"></iframe>
+![alt text](./pic/test2.png) <a href="https://use.vg/IZpTmu" target="_blank">Link to Video!</a>
   
 ---
 
@@ -37,14 +35,14 @@
 
  - The use of diagrams and some assumptions to generate the the ones that we need.
 
-<iframe title="Option Payoff/Profit Diagrams P1" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/c7H9RoVYggEa"></iframe>
+![alt text](./pic/test2.png) <a href="https://use.vg/UB3uP2" target="_blank">Link to Video!</a>
 
 ---
 
  - How to draw the diagram for 4 option positions: `Buy a Call`, `Sell a Call`, `Buy a Put`, `Sell A Put`
    - To navigate within the video to different option positions, click on the `Chapter` button on the video (The second button on the top right corner of the video)
   
-<iframe title="Option Payoff/Profit Diagrams P2" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/naNuXeunh3b6"></iframe>
+![alt text](./pic/test2.png) <a href="https://use.vg/ahionb" target="_blank">Link to Video!</a>
   
 ---
 
@@ -54,7 +52,7 @@
 
 **Example 1**
 
-<iframe title="Option Payoff/Profit Example 1" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/jm6QFCvQm9O9"></iframe>
+![alt text](./pic/test2.png) <a href="https://use.vg/eCyiow" target="_blank">Link to Video!</a>
 
 >Consider a call option on bond X with an exercise price of \$112 that expires in 3 months. Today the option’s price is \$4.
 > - What is your payoff if you buy the option today and in 3 months bond X is selling for \$100? What is your profit/loss?
