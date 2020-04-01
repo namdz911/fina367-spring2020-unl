@@ -27,7 +27,7 @@
 
 #### ![](./pic/dollarnew15.png) What is an Option?
 
-##### Definition and Basic Features of Options
+ -  Definition and Basic Features of Options
 
 <iframe title="What is an Option?" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/0I1pi5Y0HGHH"></iframe>
   
@@ -73,7 +73,7 @@
 
 </details> 
 
-##### Now try to solve the following examples !
+ - Now try to solve the following examples !
 
 ---
 
@@ -81,7 +81,7 @@
 
 **Example 2**
 
-##### Try to solve Example 2 now by following the list of questions and pay attention to the position you are taking now!
+ - Try to solve Example 2 now by following the list of questions and pay attention to the position you are taking now!
 
 >Consider a call option on bond X with an exercise price of \$112 that expires in 3 months. Today the option’s price is \$4.
 > - What is your payoff if you sell the option and in 3 months bond X is selling for \$100? What is your profit/loss?
@@ -106,7 +106,7 @@
 
 **Example 3**
 
-##### Example 3 is different from the other two examples in that the price of the underlying is now different. How would that affect your decision to exercise the option?
+ -  Example 3 is different from the other two examples in that the price of the underlying is now different. How would that affect your decision to exercise the option?
 
 >Consider a call option on bond X with an exercise price of \$112 that expires in 3 months. Today the option’s price is \$4.
 > - What is your payoff if you buy the option and in 3 months bond X is selling for \$120? What is your profit/loss?
