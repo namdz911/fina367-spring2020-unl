@@ -2,7 +2,7 @@
 
 
 ## On-the-run
-- **PLEASE READ THIS <a href="https://namdz911.github.io/fina367-spring2020-unl/syllabus.html" target="_blank">PAGE</a> !**
+- **PLEASE READ THIS <a href="https://namdz911.github.io/fina367-spring2020-unl/syllabus.html" target="_blank">PAGE</a> FOR INSTRUCTION!**
 
 
 - Some Notes:
@@ -13,11 +13,13 @@
 - **`03/30-04/05`**: We will cover the rest of **[Credit Risks](credit_risk.html)** and **[Intro to Options](call_put_option.html)** this week.
 
 
-- Office hour starts on **`Thursday 04/02 at 3:30-4:30 US. Central Time`**. You can go to office hours by joining this <a href="https://unl.zoom.us/j/879536217" target="_blank">Zoom</a> meeting.
+- Next Office Hour: **`Tuesday 04/07 at 3:30-4:30 US. Central Time`**.
 
 
-- Good Readings on Covid-19:
-    - <a href="https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56" target="_blank">Coronavirus: The Hammer and the Dance</a>
+<figure class="video_container">
+<iframe width="720" height="420" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTACG5BU7JROotI3occp2Ccon9G-6xMuxVMf46dtLno8zzIiAGE5Ab38YcGl2XsivYorNnvFzt_WpFl/pubhtml?widget=true&amp;headers=false"></iframe>
+</figure>
+
 
 ## Generic
 - [Course Overview](syllabus.html)
