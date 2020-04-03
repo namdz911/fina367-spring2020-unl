@@ -17,7 +17,7 @@
 
 
 <figure class="video_container">
-<iframe width="720" height="420" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTACG5BU7JROotI3occp2Ccon9G-6xMuxVMf46dtLno8zzIiAGE5Ab38YcGl2XsivYorNnvFzt_WpFl/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="740" height="440" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTACG5BU7JROotI3occp2Ccon9G-6xMuxVMf46dtLno8zzIiAGE5Ab38YcGl2XsivYorNnvFzt_WpFl/pubhtml?widget=true&amp;headers=false"></iframe>
 </figure>
 
 
