@@ -265,5 +265,6 @@ Consider an 27 year 12.3 % coupon bond with \$1,000 par selling for \$937 (semi-
  - Notice that there is no YTFC. So just compare the yields that you have to get YTWorst = **13.1562%**
 
 </details>    
+&nbsp    
 
 ([*back to text*](#example-3))
