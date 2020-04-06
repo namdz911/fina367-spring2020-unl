@@ -17,7 +17,7 @@
   - [Return on Callable Bonds](#return-on-callable-bonds)  
   - [Duration and Convexity of Callable Bonds](#duration-and-convexity-of-callable-bonds) 
   - [Practice Problems](#practice-problems) 
-- In Class Example List: Option Payff/Profit Examples([P1](#example-op1), [P2](#example-op1), [P3](#example-op1)), Example [1](#example-1), [2](#example-2), [3](#example-3), [4](#example-4), [5](#example-5), [6](#example-6). 
+- In Class Example List: Option Payff/Profit Examples([P1](#example-op1), [P2](#example-op1), [P3](#example-op1)), Example [1](#example-1), [2](#example-2), [3](#example-3).
 ---
 
 ## Introduction to Options
@@ -221,6 +221,9 @@
 
 </details> 
 
+#### Practice
+- See [Problem 4](#problem-1) for more practice!
+
 ---
 
 <a id='example-3'></a>
@@ -251,15 +254,11 @@
 
 </details> 
 
-#### Summary
+#### Summary for Calling Decision
  - A company will call a bond when the PV of the future liability is greater than the sum of the call price and the transaction cost.
  - A decrease in interest rates (below the coupon rate on the bond) is a necessary but not a sufficient condition for calling a bond.
  - The issuer can issue a new bond at lower interest rate and use the proceed to retire existing bond. 
  - An issue will be called as soon as there is a gain from doing so.
-
-
-#### Practice
-- See [Problem 4](#problem-1) for more practice!
 
 ---
 
@@ -268,7 +267,9 @@
  - Reinvestment Risk and Price Compression.
 
 <iframe title="Callable Bonds Investors&#039; Risks" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/77IGp1tMavns"></iframe>
+
   
+
 
 (*You're done with a section! Good Job!*)
 
