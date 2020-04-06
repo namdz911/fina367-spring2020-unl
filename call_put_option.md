@@ -2,7 +2,7 @@
 
 **Before you start**
 - Optional Readings: Chapter 9.2 - 9.4
-- <a href="./pdf/intro_to_option.pdf" target="_blank">Link to download PowerPoint Slides!</a>
+- <a href="./pdf/callable_putable_bonds.pdf" target="_blank">Link to download PowerPoint Slides!</a>
 
 
 ## Outline
