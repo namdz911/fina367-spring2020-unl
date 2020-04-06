@@ -25,6 +25,9 @@
 <a id='example-1a'></a>
 #### ![](./pic/note1515.png) Example 1A
 
+(*Read the Example and think before you watch!*)
+
+
 <iframe title="Credit Risk - Example 1A" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/UFISRTS4eMtm"></iframe>
   
 >Consider a 1-year zero-coupon bond that has a BBB rating. Assume that this bond is senior secured (historical recovery rate = 65.3%). The yield on a 1-year zero-coupon Treasury bond is 6%. What should be the yield on this BBB-rated bond? (Assume periodicity of 1)
@@ -136,6 +139,9 @@
 
 #### ![](./pic/note1515.png) Example 3
 
+(*Read the Example and think before you watch!*)
+
+
 <iframe title="Credit Risk - Example 3" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/LABLrsVdDs71"></iframe>
   
 >Consider a firm whose 1-year zero-coupon bonds currently yield 10%. The yield on 1-year zero-coupon Treasury bonds is 8%. What is this firm’s implied probability of default if the recovery rate expected by bondholders is zero?
@@ -161,6 +167,9 @@
 
 #### ![](./pic/note1515.png) Example 4
 
+(*Read the Example and think before you watch!*)
+
+
 <iframe title="Credit Risk - Example 4" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/BH43CWLz9qeU"></iframe>
   
 >Consider a firm whose 1-year zero-coupon bonds currently yield 10%. The yield on 1-year zero-coupon Treasury bonds is 8%. What is this firm’s implied probability of default if bondholders expect to recover \$.60 on the dollar if the firm defaults? Assume periodicity of 1.
@@ -183,6 +192,9 @@
 <a id='example-5'></a>
 
 #### ![](./pic/note1515.png) Example 5
+
+(*Read the Example and think before you watch!*)
+
 
 <iframe title="Credit Risk - Example 5" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/2VqHy2AA9ndL"></iframe>
   
@@ -210,6 +222,9 @@
 <a id='example-6'></a>
 
 #### ![](./pic/note1515.png) Example 6
+
+(*Read the Example and think before you watch!*)
+
 
 <iframe title="Credit Risk - Example 6" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/SSAiF0PraoS0"></iframe>
   

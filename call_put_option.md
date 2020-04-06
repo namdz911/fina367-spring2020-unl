@@ -58,6 +58,9 @@
 
 **Part 1**
 
+(*Read the Example and think before you watch!*)
+
+
 <iframe title="Option Payoff/Profit Example 1" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/jm6QFCvQm9O9"></iframe>
 
 >Consider a call option on bond X with an exercise price of \$112 that expires in 3 months. Today the option’s price is \$4.
@@ -160,6 +163,9 @@
 
 #### ![](./pic/note1515.png) Example 1
 
+(*Read the Example and think before you watch!*)
+
+
 <iframe title="Example 1 - Yield Measures" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/DeUQk7qsy8nm"></iframe>
   
 
@@ -206,6 +212,9 @@
 
 #### ![](./pic/note1515.png) Example 2
 
+(*Read the Example and think before you watch!*)
+
+
 <iframe title="Example 2 - Gain &amp; Loses from Calling" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/3CCLHrEjh7Yi"></iframe>
 
 >Consider a bond with the following characteristics: 30 years to maturity, 12% coupon rate, interest paid semi-annually, \$1000 par value, \$1050 call price, and no call protection. If rates fall to 11.5% will the company gain from calling the bond? Assume that there were no transaction costs.
@@ -229,6 +238,9 @@
 <a id='example-3'></a>
 
 #### ![](./pic/note1515.png) Example 3
+
+(*Read the Example and think before you watch!*)
+
 
 <iframe title="Example 3 - Gains &amp; Losses from Calling" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/7Fs0BEjRSkfi"></iframe>
 
