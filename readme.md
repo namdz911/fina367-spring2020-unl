@@ -13,7 +13,7 @@
 - Next Office Hour: **`Tuesday 04/07 at 3:30-4:30 US. Central Time`**. Click **[HERE](https://unl.zoom.us/j/499542538)** to join the meeting on Zoom!
 
 - **`04/06-04/10`: Callable and Putable Bonds (<a href="./pdf/callable_putable_bonds.pdf" target="_blank">PPT Slides!</a>)**
-    - [Intro to Bonds with Embedded Options](call_put_option.html#introduction-to-bonds-with-embedded-optionss)
+    - [Intro to Bonds with Embedded Options](call_put_option.html#introduction-to-bonds-with-embedded-options)
     - [Gains and Loses from Calling a Bond](call_put_option.html#gains-and-loses-from-calling-a-bond) 
     - Pricing Callable Bonds (*To Be Updated*)  
     - Return on Callable Bonds (*To Be Updated*)  
