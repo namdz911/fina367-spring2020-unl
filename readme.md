@@ -2,7 +2,7 @@
 
 
 ## On-the-run
-- **PLEASE READ THIS <a href="https://namdz911.github.io/fina367-spring2020-unl/syllabus.html" target="_blank">PAGE</a> FOR INSTRUCTION!**
+- **PLEASE READ THIS <a href="https://namdz911.github.io/fina367-spring2020-unl/syllabus.html" target="_blank">PAGE</a> FOR INSTRUCTIONS!**
 
 
 - Some Notes:
@@ -10,14 +10,17 @@
     - Some videos will contain nagivation within themselves. 
 
 
-- **`03/30-04/05`**: We will cover the rest of **[Credit Risks](credit_risk.html)** and **[Intro to Options](call_put_option.html)** this week.
+- Next Office Hour: **`Tuesday 04/07 at 3:30-4:30 US. Central Time`**. Click **[HERE](https://unl.zoom.us/j/499542538)** to join the meeting on Zoom!
 
-
-- Next Office Hour: **`Tuesday 04/07 at 3:30-4:30 US. Central Time`**.
-
+- **`04/06-04/10`: Callable and Putable Bonds**
+    - [Intro to Bonds with Embedded Options](call_put_option.html#introduction-to-options)
+    - [Gains and Loses from Calling a Bond](call_put_option.html#gains-and-loses-from-calling-a-bond) 
+    - Pricing Callable Bonds (*To Be Updated*)  
+    - Return on Callable Bonds (*To Be Updated*)  
+    - Duration and Convexity of Callable Bonds (*To Be Updated*)  
 
 <figure class="video_container">
-<iframe width="740" height="440" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTACG5BU7JROotI3occp2Ccon9G-6xMuxVMf46dtLno8zzIiAGE5Ab38YcGl2XsivYorNnvFzt_WpFl/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="730" height="440" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTACG5BU7JROotI3occp2Ccon9G-6xMuxVMf46dtLno8zzIiAGE5Ab38YcGl2XsivYorNnvFzt_WpFl/pubhtml?widget=true&amp;headers=false"></iframe>
 </figure>
 
 

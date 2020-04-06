@@ -68,7 +68,7 @@
 <details>
   <summary>Click for Solution!</summary>
 
-##### ![](./pic/light.png) Solution
+#### ![](./pic/light.png) Solution
 - To calculate the yield spread for a risk bond, we have to use the treasury bond with the same maturity. In this case, it is the 1-year Treasury with YTM = 6%.
 </details> 
 
@@ -113,7 +113,7 @@
 <details>
   <summary>Click for Solution!</summary>
 
-##### ![](./pic/light.png) Solution
+#### ![](./pic/light.png) Solution
 
 - We already have the the parameter for Z-score model:
 
@@ -143,7 +143,7 @@
 <details>
   <summary>Click for Solution!</summary>
 
-##### ![](./pic/light.png) Solution
+#### ![](./pic/light.png) Solution
        
 - Risk adjusted payoff is equal to risk free pay off:
 
@@ -153,7 +153,7 @@
     
 </details> 
 
-##### Practice
+#### Practice
 - See [Problem 2](#problem-2) for more practice!
 ---
 
@@ -168,7 +168,7 @@
 <details>
   <summary>Click for Solution!</summary>
 
-##### ![](./pic/light.png) Solution
+#### ![](./pic/light.png) Solution
        
 - Risk adjusted payoff is equal to risk free pay off:
 
@@ -193,7 +193,7 @@
 <details>
   <summary>Click for Solution!</summary>
 
-##### ![](./pic/light.png) Solution
+#### ![](./pic/light.png) Solution
        
 - Risk adjusted payoff is equal to risk free pay off:
 
@@ -220,7 +220,7 @@
 <details>
   <summary>Click for Solution!</summary>
 
-##### ![](./pic/light.png) Solution
+#### ![](./pic/light.png) Solution
        
 - Risk adjusted payoff is equal to risk free pay off:
 
@@ -235,7 +235,7 @@
     
 </details> 
 
-##### Practice
+#### Practice
 - See [Problem 3](#problem-3) for more practice!
 ---
 
@@ -259,7 +259,7 @@
 <details>
   <summary>Click for Solution!</summary>
 
-##### ![](./pic/light.png) Solution
+#### ![](./pic/light.png) Solution
        
 - **Bond Expected Return = Risk-free + Beta_Term * Term_premium + Beta_Default * Default_premium**
     
@@ -279,11 +279,12 @@ Consider a 1-year zero-coupon bond that has a CCC rating. Assume that this bond 
 <details>
   <summary>Click for Solution!</summary>
     
-##### ![](./pic/light.png) Solution
+#### ![](./pic/light.png) Solution
 
 - The yield on this CCC-rated bond is **15.02022%**
 
 </details>    
+&nbsp 
 
 ([*back to text*](#example-1a))
 
@@ -294,7 +295,7 @@ Consider a firm whose 1-year zero-coupon bonds currently yield 8.2%. The yield o
 <details>
   <summary>Click for Solution!</summary>
 
-##### ![](./pic/light.png) Solution
+#### ![](./pic/light.png) Solution
        
 - Risk adjusted payoff is equal to risk free pay off:
 
@@ -305,6 +306,7 @@ Consider a firm whose 1-year zero-coupon bonds currently yield 8.2%. The yield o
 - Plug in the numbers and solve for p, which should be equal to **1.1091%**
     
 </details> 
+&nbsp 
 
 ([*back to text*](#example-3))
 
@@ -316,7 +318,7 @@ Consider a firm whose 1-year zero-coupon bonds currently yield 8.2%. The yield o
 <details>
   <summary>Click for Solution!</summary>
 
-##### ![](./pic/light.png) Solution
+#### ![](./pic/light.png) Solution
 
 - The marginal probability of default in year 1 is **1.4058%**
 - The forward rate for risky corporate yield is **12.5788%**
@@ -325,5 +327,6 @@ Consider a firm whose 1-year zero-coupon bonds currently yield 8.2%. The yield o
 - The implied cumulative probability of default is **3.7954%**
     
 </details> 
+&nbsp 
 
 ([*back to text*](#example-6))!

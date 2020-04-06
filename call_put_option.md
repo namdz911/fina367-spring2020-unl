@@ -10,17 +10,17 @@
 ![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
 
 - [Callable and Putable Bonds](#callable-and-putable-bonds)  
-  - [Introduction to options](#introduction-to-options)  
-  - [Introduction to bonds with embedded options](#introduction-to-bonds-with-embedded-options)  
-  - [Gains and loses from calling a bond](#gains-and-loses-from-calling-a-bond) 
-  - [Pricing callable bonds](#pricing-callable-bonds)  
-  - [Return on callable bonds](#return-on-callable-bonds)  
-  - [Duration and Convexity of callable bonds](#duration-and-convexity-of-callable-bonds) 
+  - [Introduction to Options](#introduction-to-options)  
+  - [Introduction to Bonds with Embedded Options](#introduction-to-bonds-with-embedded-options)  
+  - [Gains and Loses from Calling a Bond](#gains-and-loses-from-calling-a-bond) 
+  - [Pricing Callable Bonds](#pricing-callable-bonds)  
+  - [Return on Callable Bonds](#return-on-callable-bonds)  
+  - [Duration and Convexity of Callable Bonds](#duration-and-convexity-of-callable-bonds) 
   - [Practice Problems](#practice-problems) 
-
+- In Class Example List: Option Payff/Profit Examples([P1](#example-op1), [P2](#example-op1), [P3](#example-op1)), Example [1](#example-1), [2](#example-2), [3](#example-3), [4](#example-4), [5](#example-5), [6](#example-6). 
 ---
 
-## Introduction to options
+## Introduction to Options
 ([*back to top*](#callable-and-putable-bonds)!)
 
  - For this section, it is crutial to understand how option works? how the decision to exercise is made and what the payoff structure looks like?
@@ -54,9 +54,9 @@
 
 #### ![](./pic/note1515.png) Option Payoff/Profit Examples 
 
-<a id='example-1'></a>
+<a id='example-op1'></a>
 
-**Example 1**
+**Part 1**
 
 <iframe title="Option Payoff/Profit Example 1" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/jm6QFCvQm9O9"></iframe>
 
@@ -67,7 +67,7 @@
 <details>
   <summary>Click for Solution!</summary>
 
-##### ![](./pic/light.png) Solution
+#### ![](./pic/light.png) Solution
 - Go through this set of questions:
     - Who get to decide? **You**
     - Will it be exercised? **No! you have a call option and because the price at expiration is less than the strike price (100 < 112).**
@@ -77,15 +77,15 @@
 
 </details> 
 
-##### Now try to solve the following examples !
+##### Now try to solve the next Parts !
 
 ---
 
-<a id='example-2'></a>
+<a id='example-op2'></a>
 
-**Example 2**
+**Part 2**
 
- - Try to solve Example 2 now by following the list of questions and pay attention to the position you are taking now!
+ - Try to solve Part 2 now by following the list of questions and pay attention to the position you are taking now!
 
 >Consider a call option on bond X with an exercise price of \$112 that expires in 3 months. Today the option’s price is \$4.
 > - What is your payoff if you sell the option and in 3 months bond X is selling for \$100? What is your profit/loss?
@@ -94,7 +94,7 @@
 <details>
   <summary>Click for Solution!</summary>
 
-##### ![](./pic/light.png) Solution
+#### ![](./pic/light.png) Solution
 - Go through this set of questions:
     - Who get to decide? **Whoever buys the option.**
     - Will it be exercised? **No! because you have a call option and the price at expiration is less than the strike price (100 < 112).**
@@ -106,11 +106,11 @@
 
 ---
 
-<a id='example-3'></a>
+<a id='example-op3'></a>
 
-**Example 3**
+**Part 3**
 
- -  Example 3 is different from the other two examples in that the price of the underlying is now different. How would that affect your decision to exercise the option?
+ -  Part 3 is different from the other two examples in that the price of the underlying is now different. How would that affect your decision to exercise the option?
 
 >Consider a call option on bond X with an exercise price of \$112 that expires in 3 months. Today the option’s price is \$4.
 > - What is your payoff if you buy the option and in 3 months bond X is selling for \$120? What is your profit/loss?
@@ -120,7 +120,7 @@
 <details>
   <summary>Click for Solution!</summary>
 
-##### ![](./pic/light.png) Solution
+#### ![](./pic/light.png) Solution
 - Go through this set of questions:
     - Who get to decide? **You**
     - Will it be exercised? **Yes! because you have a call option and the price at expiration is higher than the strike price (120 > 112).**
@@ -133,17 +133,146 @@
 #### Practice
 - See [Problem 1](#problem-1) and [Problem 2](#problem-2) for more practice!
 
+
+
+(*You're done with a section! Good Job!*)
+
 ---
 
-## Introduction to bonds with embedded options 
-(To Be Updated)
+## Introduction to Bonds with Embedded Options 
 
 ([*back to top*](#callable-and-putable-bonds)!)
+
+#### ![](./pic/dollarnew15.png) Callable and Putable bonds 
+
+<iframe title="Bonds With Embedded Options " width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/kkoVdcTWPoRV"></iframe>
+  
+  
+---
+
+#### ![](./pic/dollarnew15.png) Yeild Measures for Callable and Putable Bonds 
+
+<iframe title="Yield Measures " width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/njl3cJqeho8T"></iframe>
+   
+---
+
+<a id='example-1'></a>
+
+#### ![](./pic/note1515.png) Example 1
+
+<iframe title="Example 1 - Yield Measures" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/DeUQk7qsy8nm"></iframe>
+  
+
+>Consider  an 18-year 11% coupon bond with \$1,000 par selling for \$1,169 (semi-annual coupons). The first call date is 8 years from today and the call price is $1,055. 
+> - What is the bond’s yield to maturity (semiannual BEY)?
+> - What is the bond’s yield to first call?
+> - Suppose that the first par call for this bond is 13 years from now. What is the bond’s yield to first par call?
+> - Assume that the bond is putable at par in 5 years. What is the bond’s yield to put?
+> - If the call/put dates above are the only ones, what is the bond’s yield to worst?
+
+
+
+<details>
+  <summary>Click for Solution!</summary>
+
+#### ![](./pic/light.png) Solution
+ - YTM = Y(N =18\*2=36, PMT = 0.11\*1000/2=55, PV=-1169, FV=1000)= **4.5385%**. Annualized YTM = **9.0770%**
+ - YTFC = Y(N =8\*2=16, PMT = 0.11\*1000/2=55, PV=-1169, FV=1055)= **4.2675%**. Annualized YTFC = **8.5350%**
+ - YTFPC = Y(N =13\*2=26, PMT = 0.11\*1000/2=55, PV=-1169, FV=1000)= **4.3965%**. Annualized YTFPC = **8.7930%**
+ - YTFPP = Y(N =5\*2=10, PMT = 0.11\*1000/2=55, PV=-1169, FV=1000)= **3.4709%**. Annualized YTFPP = **6.9418%**
+ - YTWorst = YTFPP = **6.9418%**
+
+</details> 
+
+#### Practice
+- See [Problem 3](#problem-1) for more practice!
+
+(*You're done with a section! Good Job!*)
+
+---
 
 ## Gains and loses from calling a bond
-(To Be Updated)
 
 ([*back to top*](#callable-and-putable-bonds)!)
+
+#### ![](./pic/dollarnew15.png) When should the issuer call a callable bond? 
+
+<iframe title="Gain and Losses from Calling P1" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/QRni97L1KfWc"></iframe>
+  
+  
+---
+
+<a id='example-2'></a>
+
+#### ![](./pic/note1515.png) Example 2
+
+<iframe title="Example 2 - Gain &amp; Loses from Calling" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/3CCLHrEjh7Yi"></iframe>
+
+>Consider a bond with the following characteristics: 30 years to maturity, 12% coupon rate, interest paid semi-annually, \$1000 par value, \$1050 call price, and no call protection. If rates fall to 11.5% will the company gain from calling the bond? Assume that there were no transaction costs.
+
+
+
+<details>
+  <summary>Click for Solution!</summary>
+
+#### ![](./pic/light.png) Solution
+ - PV of Liability = **\$1041.9596**
+ - Call the Bond? **No, Because PV of liability is less than Call Price of \$1055**
+
+</details> 
+
+---
+
+<a id='example-3'></a>
+
+#### ![](./pic/note1515.png) Example 3
+
+<iframe title="Example 3 - Gains &amp; Losses from Calling" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/7Fs0BEjRSkfi"></iframe>
+
+>Consider a bond with the following characteristics: 30 years to maturity, 12% coupon rate, interest paid semi-annually, \$1000 par value, \$1050 call price, and no call protection. If rates fall to 9% will the company gain from calling the bond? Assume that there were no transaction costs.
+> - What if by calling the bond the company incurred transaction costs of $200 per bond? Would it still call the bond?
+> - Where does the benefit/gain come from?
+> - You believe that interest rates will fall even more to 8.9% next year. Will you call the issue today or wait until next year? 
+
+<details>
+  <summary>Click for Solution!</summary>
+
+#### ![](./pic/light.png) Solution
+
+ - PV of Liability=PV(N=60,Y=4.5,PMT=60,FV=1000)=**\$1309.5703** 
+ - Because PV of Liability (1309.5703) is now higher than 1050, **the bond will be called**. 
+ - Gains/Loss will be: 1309.5703 – 1050 = **\$259.5703**
+ - What if by calling the bond the company incurred transaction costs of \$200 per bond? Would it still call the bond?
+     - If there is transaction cost, then Gains/Loss will be: 1309.5703 – 1050 – 200 = **$59.5703**
+ - Where does the benefit/gain come from? 
+     - **The difference between interest paid for old bond and new bond** (You are responsible for the calculations described in the Video).
+ - You believe that interest rates will fall even more to 8.9% next year. Will you call the issue today or wait until next year? 
+     - **We should call the bond now!** (You are responsible for the calculations described in the Video).
+
+</details> 
+
+#### Summary
+ - A company will call a bond when the PV of the future liability is greater than the sum of the call price and the transaction cost.
+ - A decrease in interest rates (below the coupon rate on the bond) is a necessary but not a sufficient condition for calling a bond.
+ - The issuer can issue a new bond at lower interest rate and use the proceed to retire existing bond. 
+ - An issue will be called as soon as there is a gain from doing so.
+
+
+#### Practice
+- See [Problem 4](#problem-1) for more practice!
+
+---
+
+#### ![](./pic/dollarnew15.png) From the Bondholders' Perspective?
+
+ - Reinvestment Risk and Price Compression.
+
+<iframe title="Callable Bonds Investors&#039; Risks" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/77IGp1tMavns"></iframe>
+  
+
+(*You're done with a section! Good Job!*)
+
+---
 
 ## Pricing callable bonds
 (To Be Updated)
@@ -178,9 +307,10 @@ You buy a call option and buy a put option on bond X. The strike price of the ca
  - The total payoff from the options portfolio would be **10**.
  - The total profit from the options portfolio is **10-5-2=3**.
 
-</details>    
+</details>
+&nbsp  
 
-([*back to text*](#example-3))
+([*back to text*](#example-op3))
 
 <a id='problem-2'></a>
 #### ![](./pic/note1515.png) Problem 2
@@ -189,12 +319,50 @@ You sell a call option and buy a put option on bond X. The strike price of the c
 <details>
   <summary>Click for Solution!</summary>
     
-##### ![](./pic/light.png) Solution
+#### ![](./pic/light.png) Solution
 
  - At \$100, the call option would be exercised and the payoff to the seller would be **–(100-90)=-10**.
  - At \$100, the put option will be exercised and the payoff to the buyer would be **105-100=5**
  - The total payoff from the options portfolio would be **-5**.
  - The total profit from the options portfolio is **-5+5-2=-2**. (loss)
 </details>    
+&nbsp  
 
-([*back to text*](#example-3))
+([*back to text*](#example-op3))
+
+<a id='problem-3'></a>
+#### ![](./pic/note1515.png) Problem 3
+Consider an 27 year 12.3 % coupon bond with \$1,000 par selling for \$937 (semi-annual coupons). 
+ - Suppose that the first par call for this bond is 1 years from now. 
+ - Assume that the bond is putable at par in 17 years. 
+ - If the call/put dates above are the only ones, what is the bond’s yield to worst? 
+
+<details>
+  <summary>Click for Solution!</summary>
+    
+#### ![](./pic/light.png) Solution
+ - Annualized YTM = **13.1562%**
+ - Annualized YTFPC = **19.5374%**
+ - Annualized YTFPP = **13.2406%**
+ - Notice that there is no YTFC. So just compare the yields that you have to get YTWorst = **13.1562%**. Never leave out **YTM** !!
+
+</details>    
+&nbsp  
+
+([*back to text*](#example-1))
+
+<a id='problem-4'></a>
+#### ![](./pic/note1515.png) Problem 4
+Consider a bond with the following characteristics: 19 years to maturity, 10.60% coupon rate, interest paid semi-annually, \$1,000 par value, \$1,030 call price, and no call protection. If rates change to 7.90% will the company gain from calling the bond? Assume that transaction cost is \$273.
+
+<details>
+  <summary>Click for Solution!</summary>
+    
+#### ![](./pic/light.png) Solution
+ - PV of Liability = **\$1263.3559**
+ - Gains/Losses = **-\$39.6441** (Don't forget to account for transaction cost)
+ - Call the Bond? **No**
+</details>    
+&nbsp  
+
+([*back to text*](#example-2))
