@@ -63,6 +63,7 @@
 
 <iframe title="Option Payoff/Profit Example 1" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/jm6QFCvQm9O9"></iframe>
 
+
 >Consider a call option on bond X with an exercise price of \$112 that expires in 3 months. Today the option’s price is \$4.
 > - What is your payoff if you buy the option today and in 3 months bond X is selling for \$100? What is your profit/loss?
 
@@ -379,3 +380,5 @@ Consider a bond with the following characteristics: 19 years to maturity, 10.60%
 &nbsp  
 
 ([*back to text*](#example-2))
+
+([*back to top*](#callable-and-putable-bonds)!)
