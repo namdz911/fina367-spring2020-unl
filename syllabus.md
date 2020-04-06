@@ -40,4 +40,7 @@ To help you study well in an online setting, I created this <a href="https://nam
       
 - **Polices**
     - Polices remain consistent with originally stated in the Syllabus.
+    - Materials provided on this site is not to be distributed without my consent. 
+
+
 

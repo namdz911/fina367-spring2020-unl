@@ -1,6 +1,5 @@
 *Instructor: Nam Le*
 
-
 ## On-the-run
 - **PLEASE READ THIS <a href="https://namdz911.github.io/fina367-spring2020-unl/syllabus.html" target="_blank">PAGE</a> FOR INSTRUCTIONS!**
 
@@ -43,8 +42,7 @@
 ## Supplementary Materials
 - Get comfortable with the [Financial Calculator](financial_calculator.html)  
 
-
-<a id='deterministic-asset-pricing'></a>
+**Notice:** *This course is developed based on the FINA367 taught by Professor Stanislava Nikolova. Distribution of the materials is strictly prohibited without my consent.*
 
 
 <a id='npv'></a>
