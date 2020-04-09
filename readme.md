@@ -10,12 +10,12 @@
     - Before watching in-class example's walkthroughs, I suggest you read and try to at least think about the problem. 
 
 
-- Next Office Hour: **`Tuesday 04/07 at 3:30-4:30 US. Central Time`**. Click **[HERE](https://unl.zoom.us/j/499542538)** to join the meeting on Zoom!
+- Next Office Hour: **`Thursday 04/09 at 3:30-4:30 pm US. Central Time`**. Click **[HERE](https://unl.zoom.us/j/499542538)** to join the meeting on Zoom!
 
 - **`04/06-04/10`: Callable and Putable Bonds (<a href="./pdf/callable_putable_bonds.pdf" target="_blank">PPT Slides!</a>)**
     - [Intro to Bonds with Embedded Options](call_put_option.html#introduction-to-bonds-with-embedded-options)
     - [Gains and Loses from Calling a Bond](call_put_option.html#gains-and-loses-from-calling-a-bond) 
-    - Pricing Callable Bonds (*To Be Updated*)  
+    - [Pricing Callable Bonds](call_put_option.html#pricing-callable-bonds) 
     - Return on Callable Bonds (*To Be Updated*)  
     - Duration and Convexity of Callable Bonds (*To Be Updated*)  
 

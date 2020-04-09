@@ -17,7 +17,7 @@
   - [Return on Callable Bonds](#return-on-callable-bonds)  
   - [Duration and Convexity of Callable Bonds](#duration-and-convexity-of-callable-bonds) 
   - [Practice Problems](#practice-problems) 
-- In Class Example List: Option Payff/Profit Examples([P1](#example-op1), [P2](#example-op1), [P3](#example-op1)), Example [1](#example-1), [2](#example-2), [3](#example-3).
+- In Class Example List: Option Payff/Profit Examples([P1](#example-op1), [P2](#example-op1), [P3](#example-op1)), Example [1](#example-1), [2](#example-2), [3](#example-3), [4](#example-1), [5](#example-2), [6](#example-3).
 ---
 
 ## Introduction to Options
@@ -192,7 +192,7 @@
 </details> 
 
 #### Practice
-- See [Problem 3](#problem-1) for more practice!
+- See [Problem 3](#problem-3) for more practice!
 
 (*You're done with a section! Good Job!*)
 
@@ -232,7 +232,7 @@
 </details> 
 
 #### Practice
-- See [Problem 4](#problem-1) for more practice!
+- See [Problem 4](#problem-4) for more practice!
 
 ---
 
@@ -289,9 +289,133 @@
 ---
 
 ## Pricing callable bonds
-(To Be Updated)
 
 ([*back to top*](#callable-and-putable-bonds)!) 
+
+#### ![](./pic/dollarnew15.png) Pricing Framework for Callable Bonds
+
+<iframe title="Pricing Framework for Callable Bonds" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/FjKN2PY2XAEu"></iframe>
+  
+  
+---
+
+#### ![](./pic/dollarnew15.png) Black-Scholes Option Pricing Model
+
+<iframe title="Black Scholes Option Pricing Model" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/eNBsXcQKMqnM"></iframe>
+  
+  
+---
+
+<a id='example-4'></a>
+
+#### ![](./pic/note1515.png) Example 4
+
+(*Read the Example and think before you watch!*)
+
+
+<iframe title="Example 4 - Pricing Callable Bonds" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/8uXTPbJJMblN"></iframe>
+  
+
+>The term structure of interest rates is flat at 10%, but rates could change immediately to 12% or 8% with equal probability and stay at that level forever. You >purchase a callable bond with 30 years to maturity and 10% coupon paid annually.  
+> - What should be the price of the callable bond, if it can be called immediately at \$105?
+> - What is the value of the call option embedded in the callable bond?
+> - What is the callable bond’s spread over the yield of an otherwise identical non-callable bond?
+
+<details>
+  <summary>Click for Solution!</summary>
+    
+#### ![](./pic/light.png) Solution
+ - The price of the callable bond is **\$94.4448**
+ - The price of the straight bond is **\$103.2026**
+ - The price of the embedded call option is  **\$8.7578**
+ - The YTM of the Callable bond is **10.62%** and the YTM of the straight bond is **9.6696%**. The yield spread of the callable bond over the straight bond is **0.9504%** or **95.04 bps**
+ 
+</details>  
+
+#### Practice
+- See [Problem 5](#problem-5) for more practice!
+
+---
+
+
+<a id='example-5'></a>
+
+#### ![](./pic/note1515.png) Example 5
+
+(*Read the Example and think before you watch!*)
+
+<iframe title="Example 5 - Pricing Callable Bonds" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/IaeEEqLJsXVK"></iframe>
+  
+>The term structure of interest rates is flat at 10%, but rates could change immediately to 12% or 8% with equal probability and stay at that level forever. You >purchase a callable bond with 30 years to maturity and 10% coupon paid annually.  
+> - What should be the price of the callable bond, if it has a call price of \$105 and call protection of 5 years?
+
+
+<details>
+  <summary>Click for Solution!</summary>
+    
+#### ![](./pic/light.png) Solution
+ - R = 12%:  Determine if the bond will be called 5 years from now?
+    - PV of liability = PV(N=25,Y=12,PMT=10,FV=100)=84.3137 < 105 -> **No Call** 
+    - The bond continue to pay like a straight bond thus 
+    - Price = PV(N=30,Y=12,PMT=10,FV=100)=**83.8896**
+ - R = 8%: Determine if the bond will be called 5 years from now?
+    - PV of liability = PV(N=25,Y=8,PMT=10,FV=100)=121.3496 > 105 -> **Call**
+    - The bond pays 5 more coupons and then pay the call price at the end of 5 year
+    - Price = PV(N=5,Y=8,PMT=10,FV=105)=**111.3883**
+ - Price of Callable bond = 0.5\*83.8896 + 0.5\*111.3883 = **97.6390**
+
+ 
+</details>  
+
+#### Practice
+- See [Problem 6](#problem-6) for more practice!
+
+---
+
+#### ![](./pic/dollarnew15.png) Pricing putable Bonds
+
+Base on our discussion of callable bond, try to convince yourself of the followings:
+ - Price of Putable Bond = Price of Non-putable Bond + Price of Put Option
+     - The price of a putable bond will be higher than that of a straight bond
+     - The yeild of a putable bond will be lower than that of a straight bond
+     
+     
+*Hint: Ask yourself who gets to decide/benefit from putable bond? when would they decide to exercise the option?* 
+  
+---
+
+<a id='example-6'></a>
+
+#### ![](./pic/note1515.png) Example 6
+
+(*Try to solve this Example by yourself with the hint*)
+
+>The term structure of interest rates is flat at 10%, but rates could change immediately to 12% or 8% with equal probability and stay at that level forever. You >purchase a putable bond with 30 years to maturity and 10% coupon paid annually.  What should be the price of the bond, if it can be put immediately at par?
+>
+> *Hint: Steps are exactly the same as Example 5 except that we have to determine when the bond is put.*
+
+
+<details>
+  <summary>Click for Solution!</summary>
+    
+#### ![](./pic/light.png) Solution
+Now we want to see things from the perspective of the investor because he is the one who makes decisions.
+ - R = 12%: 
+    - Price = PV(N=30,Y=12,PMT=10,FV=100)=83.8896 < 100 -> **Put** - Investor will sell the bond back at the put price -> p = **100**
+ - R = 8%: 
+    - Price = PV(N=30,Y=8,PMT=10,FV=100)=122.5156 > 100 -> **No Put** - Investor can sell the bond in the open market for more than 100 -> p = **122.5156**
+ - Price of Putable bond = 0.5\*100 + 0.5\*122.5156 = **111.2578**
+
+ 
+</details>  
+
+#### Practice
+- See [Problem 7](#problem-7) for more practice!
+
+
+(*You're done with a section! Good Job!*)
+
+---
 
 ## Return on callable bonds
 (To Be Updated)
@@ -380,5 +504,74 @@ Consider a bond with the following characteristics: 19 years to maturity, 10.60%
 &nbsp  
 
 ([*back to text*](#example-2))
+
+<a id='problem-5'></a>
+#### ![](./pic/note1515.png) Problem 5
+
+The term structure of interest rates is flat at 7.4 %, but rates could change immediately to 9.4 % or 5.4 % with probability of 0.68 and 0.32 , respectively, and stay at that level forever. You purchase a callable bond with 30 years to maturity and 7.4 % coupon paid annually. The callable bond can be called immediately at \$ 107.
+
+ - What should be the price of the callable bond?
+ - What is the value of the call option embedded in the callable bond?
+ - What is the callable bond’s spread over the yield of an otherwise identical non-callable bond?
+
+<details>
+  <summary>Click for Solution!</summary>
+    
+#### ![](./pic/light.png) Solution
+ - The price of the callable bond is **\$90.1711**
+ - The price of the straight bond is **\$95.6432**
+ - The price of the embedded call option is  **\$5.4721**
+ - The YTM of the Callable bond is **8.4336%** and the YTM of the straight bond is **7.8384%**. The yield spread of the callable bond over the straight bond is **0.5952%** or **59.52 bps**
+ 
+</details>    
+&nbsp  
+
+([*back to text*](#example-4))
+
+<a id='problem-6'></a>
+#### ![](./pic/note1515.png) Problem 6
+
+The term structure of interest rates is flat at 6.3 %, but rates could change immediately to 8.3 % or 4.3 % with probability of 0.14 and 0.86 , respectively, and stay at that level forever. You purchase a callable bond with 28 years to maturity and 6.3 % coupon paid annually. The callable bond can be called at \$ 121 with a call protection period of 7 years. 
+
+ - What should be the price of the callable bond?
+ - What is the value of the call option embedded in the callable bond?
+ - What is the callable bond’s spread over the yield of an otherwise identical non-callable bond?
+
+<details>
+  <summary>Click for Solution!</summary>
+    
+#### ![](./pic/light.png) Solution
+ - The price of the callable bond is **\$120.6486**
+ - The price of the straight bond is **\$124.6828**
+ - The price of the embedded call option is  **\$4.0342**
+ - The YTM of the Callable bond is **4.9253%** and the YTM of the straight bond is **4.6973%**. The yield spread of the callable bond over the straight bond is **0.2280%** or **22.8 bps**
+ 
+</details>    
+&nbsp  
+
+([*back to text*](#example-6))
+
+<a id='problem-7'></a>
+#### ![](./pic/note1515.png) Problem 7
+
+The term structure of interest rates is flat at 9.4 %, but rates could change immediately to 11.4 % or 7.4 % with probability of 0.66 and 0.34 , respectively, and stay at that level forever. You purchase a putable bond with 28 years to maturity and 9.4 % coupon paid annually. The putable bond can be put at \$ 97 immediately. 
+
+ - What should be the price of the putable bond?
+ - What is the value of the put option embedded in the putable bond?
+ - What is the putable bond’s spread over the yield of an otherwise identical non-putable bond?
+
+<details>
+  <summary>Click for Solution!</summary>
+    
+#### ![](./pic/light.png) Solution
+ - The price of the putable bond is **\$105.9642**
+ - The price of the straight bond is **\$96.9288**
+ - The price of the embedded put option is  **\$9.0354**
+ - The YTM of the putable bond is **8.8195%** and the YTM of the straight bond is **9.7226%**. The yield spread of the putable bond over the straight bond is **-0.9031%** or **90.31 bps**
+ 
+</details>    
+&nbsp  
+
+([*back to text*](#example-6))!
 
 ([*back to top*](#callable-and-putable-bonds)!)
