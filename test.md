@@ -5,7 +5,17 @@
   <a href="#">Contact</a>
 </div>
 
+<div class="dropdown">
+  <button class="dropbtn">Dropdown</button>
+  <div class="dropdown-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div>
+
 <link rel="stylesheet" type="text/css" href="./sidenav.css">
+<link rel="stylesheet" type="text/css" href="./dropdownbutton.css">
 
 <div class="main">
 
