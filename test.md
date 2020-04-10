@@ -11,7 +11,7 @@
   ...
 </div>
 
-![A Placeholder Graphic](http://tekeye.uk/md_cms/images/placeholder-250px.png "250x250px Placeholder graphic")
+<link rel="stylesheet" type="text/css" href="./sidenav.css">
 
 # Callable and Putable Bonds
 
