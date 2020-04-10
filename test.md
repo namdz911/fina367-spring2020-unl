@@ -1,9 +1,11 @@
 <div class="sidenav">
-  <a href="#">About</a>
-  <a href="#">Services</a>
+  <a href="readme.md">front page</a>
+  <a href="credit_risk.md">credit</a>
   <a href="#">Clients</a>
   <a href="#">Contact</a>
 </div>
+
+<link rel="stylesheet" type="text/css" href="./sidenav.css">
 
 <div class="main">
 
