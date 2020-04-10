@@ -13,3 +13,4 @@ include:
   - financial_calculator.md
   - credit_risk.md
   - call_put_option.md
+  - test.md
