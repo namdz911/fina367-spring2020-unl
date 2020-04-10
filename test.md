@@ -1,4 +1,11 @@
-<link rel="stylesheet" type="text/css" href="./sidenav.css">
+<div class="sidenav">
+  <a href="#">About</a>
+  <a href="#">Services</a>
+  <a href="#">Clients</a>
+  <a href="#">Contact</a>
+</div>
+
+<div class="main">
 
 # Callable and Putable Bonds
 
@@ -270,3 +277,5 @@ Consider an 27 year 12.3 % coupon bond with \$1,000 par selling for \$937 (semi-
 &nbsp    
 
 ([*back to text*](#example-3))
+
+</div>
