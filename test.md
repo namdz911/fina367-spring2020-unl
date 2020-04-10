@@ -1,3 +1,18 @@
+<!-- Side navigation -->
+<div class="sidenav">
+  <a href="#">About</a>
+  <a href="#">Services</a>
+  <a href="#">Clients</a>
+  <a href="#">Contact</a>
+</div>
+
+<!-- Page content -->
+<div class="main">
+  ...
+</div>
+
+![A Placeholder Graphic](http://tekeye.uk/md_cms/images/placeholder-250px.png "250x250px Placeholder graphic")
+
 # Callable and Putable Bonds
 
 **Before you start**
