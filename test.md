@@ -1,6 +1,6 @@
 <div class="sidenav">
-  <a href="readme.md">front page</a>
-  <a href="credit_risk.md">credit</a>
+  <a href="readme.html">front page</a>
+  <a href="call_put_option.html">Callable and Putable Bonds</a>
   <a href="#">Clients</a>
   <a href="#">Contact</a>
 </div>
