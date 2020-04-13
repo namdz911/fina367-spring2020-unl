@@ -1,8 +1,8 @@
 <div class="sidenav">
-  <h4 href="readme.html">Front Page<h4>
-  <h4>Module 5</h4>
+  <a href="readme.html">Front Page</a>
+  <strong>Module 5</strong>
   <a href="credit_risk">Credit Risk</a>
-  <h4>Module 6</h4>  
+  <strong>Module 6</strong>  
   <a href="call_put_option.html">Callable and Putable Bonds</a>
   <a href="convertible_bonds">Convertible Bonds</a>
 </div>

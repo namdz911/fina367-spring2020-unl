@@ -1,3 +1,16 @@
+<div class="sidenav">
+  <a href="readme.html">Front Page</a>
+  <strong>Module 5</strong>
+  <a href="credit_risk">Credit Risk</a>
+  <strong>Module 6</strong>  
+  <a href="call_put_option.html">Callable and Putable Bonds</a>
+  <a href="convertible_bonds">Convertible Bonds</a>
+</div>
+
+<link rel="stylesheet" type="text/css" href="./sidenav.css">
+
+<div class="main">
+
 # Credit Risk
 
 
