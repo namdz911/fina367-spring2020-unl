@@ -1,5 +1,6 @@
 <div class="sidenav">
-  <a href="readme.html">Front Page</a>
+  <strong>Main</strong>
+  <a href="readme.html">Front Page</a>  
   <strong>Module 5</strong>
   <a href="credit_risk">Credit Risk</a>
   <strong>Module 6</strong>  
@@ -42,6 +43,9 @@
 
 <iframe title="Convertible Bonds - Optimal Conversion Strategy" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/C55dHZWhYguK"></iframe>
   
+
+(*You're done with a section! Good Job!*)
+
 ---
 
 ## Traditional Analysis of Convertibles
@@ -69,7 +73,10 @@
  
 <iframe title="Convertible Bonds - Traditional Analysis Part 2" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/CLfG48bYK6kz"></iframe>
   
-    
+
+
+(*You're done with a section! Good Job!*)
+
 ---
 
 ## Pricing Convertible Bonds
@@ -95,6 +102,10 @@
 #### ![](./pic/note1515.png) Example 8
 
 <iframe title="Example 8 - Pricing Convertibles" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/vP3Ch5tZW7Qd"></iframe>
+
+
+
+(*You're done with a section! Good Job!*)
 
 ---
 
