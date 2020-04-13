@@ -1,4 +1,4 @@
-title: null
+title: FINA367 - Fixed-Income Investment - Spring 2020
 markdown: CommonMarkGhPages
 commonmark:
   extensions: ["table"]
@@ -13,4 +13,5 @@ include:
   - financial_calculator.md
   - credit_risk.md
   - call_put_option.md
+  - convertible_bonds.md
   - test.md
