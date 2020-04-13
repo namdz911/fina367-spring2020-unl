@@ -7,8 +7,6 @@
 
 ## Outline
 
-![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
-
 - [Callable and Putable Bonds](#callable-and-putable-bonds)  
   - [Introduction to Options](#introduction-to-options)  
   - [Introduction to Bonds with Embedded Options](#introduction-to-bonds-with-embedded-options)  
@@ -17,7 +15,7 @@
   - [Return on Callable Bonds](#return-on-callable-bonds)  
   - [Duration and Convexity of Callable Bonds](#duration-and-convexity-of-callable-bonds) 
   - [Practice Problems](#practice-problems) 
-- In Class Example List: Option Payff/Profit Examples([P1](#example-op1), [P2](#example-op1), [P3](#example-op1)), Example [1](#example-1), [2](#example-2), [3](#example-3), [4](#example-1), [5](#example-2), [6](#example-3).
+- In Class Example List: Option Payff/Profit Examples([P1](#example-op1), [P2](#example-op1), [P3](#example-op1)), Example [1](#example-1), [2](#example-2), [3](#example-3), [4](#example-1), [5](#example-5), [6](#example-6), [7A](#example-7a), [7B](#example-7b).
 ---
 
 ## Introduction to Options
@@ -418,14 +416,74 @@ Now we want to see things from the perspective of the investor because he is the
 ---
 
 ## Return on callable bonds
-(To Be Updated)
 
 ([*back to top*](#callable-and-putable-bonds)!)
 
-## Duration and Convexity of callable bonds
-(To Be Updated)
+#### ![](./pic/dollarnew15.png) Comparing the expected return and realized return of callable bonds and non-callable bonds
 
-([*back to top*](#callable-and-putable-bonds)!)
+<iframe title="New combined video" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/BpNuGE9zw0h3"></iframe>
+  
+---
+
+<a id='example-7a'></a>
+
+#### ![](./pic/note1515.png) Example 7A
+
+>Calculate 1-yr expected return for a straight and callable bond with the following characteristics (these are the bonds from Examples 4-5)
+> - Rates are expected to immediately change to 12% or 8% with equal probability, and when they change they will stay at that level forever.
+> - At purchase, the straight bond has 30 years to maturity, 10% coupon paid annually, \$100 par value and price of \$103.1366. 
+> - At purchase, the callable bond has 30 years to maturity, 10% coupon paid annually, \$100 par value, is callable at \$105 and it has call protection of 5 years. Its price is \$97.639. 
+
+<details>
+  <summary>Click for Solution!</summary>
+    
+#### ![](./pic/light.png) Solution
+ - **Straight Bond:**
+    - At 12%: Price = PV(N=29,Y=12,PMT=10,FV=100)=83.9564
+    - At 8%: Price = PV(N=29, Y=8,PMT=10,FV=100)= 122.3168
+    - Price = 83.9564\*0.5 + 122.3168\*0.5 = 103.1366
+    - Return = (103.1366 + 10 – 103.2026)/103.2026 = 0.0963 = **9.63%**
+ - **Callable Bond:**
+    - At 12%: Price = PV(N=29,Y=12,PMT=10,FV=100)=83.9564
+    - At 8%: Price = PV(N=4, Y=8,PMT=10,FV=105)= 110.2994
+    - Price = 83.9564\*0.5 + 110.2994\*0.5 = 97.1279
+    - Return = (97.1279 + 10 – 97.6390)/97.6390 = 0.0972 = **9.72%**
+ - **Expected return on callable bonds is higher**
+
+
+ 
+</details>  
+
+#### Practice
+- See [Problem 7](#problem-7) for more practice!
+
+<a id='example-7b'></a>
+
+#### ![](./pic/note1515.png) Example 7B
+
+>How do the realized returns of callable and non-callable bonds in Example 7A compare?
+
+
+<details>
+  <summary>Click for Solution!</summary>
+    
+#### ![](./pic/light.png) Solution
+ - **At 12%:**
+    - Ret of Callable = (83.9564 + 10 – 97.6390)/ 97.6390 = -0.0377 = **-3.77%**
+    - Ret of Straight = (83.9564 + 10 – 103.2026)/ 103.2026 = -0.0896 = **-8.96%**
+ - **At 8%:**
+    - Ret of Callable = (110.2994 + 10 – 97.6390)/ 97.6390 = 0.2321 = **23.21%**
+    - Ret of Straight = (122.3168 + 10 – 103.2026)/ 103.2026 = 0.2821= **28.21%**
+ - **If interest rate goes up to 12%, callable bond outperform straight bond.**
+ - **If interest rate goes down to 8%, straight bond outperform callable bond.**
+
+
+
+ 
+</details>  
+
+#### Practice
+- See [Problem 7](#problem-7) for more practice!
 
 ## Practice Problems
 
