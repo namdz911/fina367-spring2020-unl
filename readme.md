@@ -12,7 +12,7 @@
 
 - Next Office Hour: **`Tuesday 04/14 at 3:30-4:30 pm US. Central Time`**. Click **[HERE](https://unl.zoom.us/j/499542538)** to join the meeting on Zoom!
 
-- **`04/06-04/12`: Callable and Putable Bonds (<a href="./pdf/callable_putable_bonds.pdf" target="_blank">PPT Slides!</a>)**
+- **`04/06-04/12`: [Callable and Putable Bonds](call_put_option.html) (<a href="./pdf/callable_putable_bonds.pdf" target="_blank">PPT Slides!</a>)**
     - [Intro to Bonds with Embedded Options](call_put_option.html#introduction-to-bonds-with-embedded-options)
     - [Gains and Loses from Calling a Bond](call_put_option.html#gains-and-loses-from-calling-a-bond) 
     - [Pricing Callable Bonds](call_put_option.html#pricing-callable-bonds) 
@@ -20,7 +20,7 @@
     - Duration and Convexity of Callable Bonds (*Non-essential*)  
     
     
-- **`04/13-04/20`: Convertible Bonds (<a href="./pdf/convertible_bonds.pdf" target="_blank">PPT Slides!</a>)**
+- **`04/13-04/20`: [Convertible Bonds](convertible_bonds.html) (<a href="./pdf/convertible_bonds.pdf" target="_blank">PPT Slides!</a>)**
     - [Introduction to Convertible Bonds](convertible_bonds.html#introduction-to-convertible-bonds)  
     - [Traditional Analysis of Convertibles](convertible_bonds.html#traditional-analysis-of-convertibles)  
     - [Pricing Convertible Bonds](convertible_bonds.html#pricing-convertible-bonds) 

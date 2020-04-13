@@ -1,21 +1,11 @@
 <div class="sidenav">
-  <a href="readme.html">front page</a>
+  <a href="readme.html">Front Page</a>
+  <a href="credit_risk">Credit Risk</a>
   <a href="call_put_option.html">Callable and Putable Bonds</a>
-  <a href="#">Clients</a>
-  <a href="#">Contact</a>
-</div>
-
-<div class="dropdown">
-  <button class="dropbtn">Dropdown</button>
-  <div class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
+  <a href="convertible_bonds">Convertible Bonds</a>
 </div>
 
 <link rel="stylesheet" type="text/css" href="./sidenav.css">
-<link rel="stylesheet" type="text/css" href="./dropdownbutton.css">
 
 <div class="main">
 
