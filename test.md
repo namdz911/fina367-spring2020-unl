@@ -1,5 +1,6 @@
 <div class="sidenav">
-  <a href="readme.html">Front Page</a>
+  <strong>Main</strong>
+  <a href="readme.html">Front Page</a>  
   <strong>Module 5</strong>
   <a href="credit_risk">Credit Risk</a>
   <strong>Module 6</strong>  
