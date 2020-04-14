@@ -1,18 +1,12 @@
-<input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search.." title="Type in a category">
+<div id="mySidebar" class="sidebar">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="#">About</a>
+  <a href="#">Services</a>
+  <a href="#">Clients</a>
+  <a href="#">Contact</a>
+</div>
 
-<ul id="myMenu">
-  <li><a href="#">HTML</a></li>
-  <li><a href="#">CSS</a></li>
-  <li><a href="#">JavaScript</a></li>
-  <li><a href="#">PHP</a></li>
-  <li><a href="#">Python</a></li>
-  <li><a href="#">jQuery</a></li>
-  <li><a href="#">SQL</a></li>
-  <li><a href="#">Bootstrap</a></li>
-  <li><a href="#">Node.js</a></li>
-</ul>
-
-<link rel="stylesheet" type="text/css" href="./sidebar.css">
+<link rel="stylesheet" type="text/css" href="./sidebar1.css">  
 
 <section id="home"><h2>Home</h2></section>
 #### ![](./pic/note1515.png) Problem 1
