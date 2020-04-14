@@ -1,24 +1,18 @@
 <div class="sidebar">
-  <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+  <a class="active" href="readme.html">Home</a>
+  <a href="readme.html">Front Page</a>  
+  <a href="credit_risk">Credit Risk</a>
+  <a href="call_put_option.html">Callable and Putable Bonds</a>
+  <a href="convertible_bonds">Convertible Bonds</a>
     
 <div class="vertical-menu">
-  <a href="#" class="active">Home</a>
+  <a href="readme.html" class="active">Home</a>
   <a href="#">Link 1</a>
   <a href="#">Link 2</a>
   <a href="#">Link 3</a>
   <a href="#">Link 4</a>
 </div>
-    
-  <strong>Main</strong>
-  <a href="readme.html">Front Page</a>  
-  <strong>Module 5</strong>
-  <a href="credit_risk">Credit Risk</a>
-  <strong>Module 6</strong>  
-  <a href="call_put_option.html">Callable and Putable Bonds</a>
-  <a href="convertible_bonds">Convertible Bonds</a>    
+   
 <link rel="stylesheet" type="text/css" href="./sidebar.css"> 
 </div>
 
