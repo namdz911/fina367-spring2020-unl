@@ -10,9 +10,9 @@
   <a href="call_put_option.html" class="module"><strong>Callable and Putable Bonds</strong>
   <a href="call_put_option.html#introduction-to-options">Introduction to Options</a>    
   <a href="call_put_option.html#introduction-to-bonds-with-embedded-options">Introduction to Bonds with Embedded Options</a> 
-  <a href="call_put_option.html#Gains and Loses from Calling a Bond">Gains and Loses from Calling a Bond</a> 
-  <a href="call_put_option.html#Pricing Callable Bonds">Pricing Callable Bonds</a> 
-  <a href="call_put_option.html#Return on Callable Bonds">Return on Callable Bonds</a> 
+  <a href="call_put_option.html#gains-and-loses-from-calling-a-bond">Gains and Loses from Calling a Bond</a> 
+  <a href="call_put_option.html#pricing-callable-bonds">Pricing Callable Bonds</a> 
+  <a href="call_put_option.html#return-on-callable-bonds">Return on Callable Bonds</a> 
   <a href="call_put_option.html#practice-problems">Practice Problems</a>
   <a> </a>     
   <a href="convertible_bonds.html" class="active"><strong>Convertible Bonds</strong>
