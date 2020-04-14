@@ -2,10 +2,12 @@
   <a href="readme.html" class="module"><i class="fa fa-fw fa-home"></i> Home</a>
   <a> </a>   
   <a href="credit_risk.html" class="module"><strong>Credit Risk</strong>
+<ul style="list-style-type:disc;">      
   <li><a href="credit_risk.html#credit-ratings">Credit Ratings</a></li>    
   <li><a href="credit_risk.html#credit-risk-models">Credit Risk Models</a></li> 
   <li><a href="credit_risk.html#bond-factor-models">Bond Factor Models</a></li> 
   <li><a href="credit_risk.html#practice-problems">Practice Problems</a></li>
+</ul>    
   <a> </a>       
   <a href="call_put_option.html" class="module"><strong>Callable and Putable Bonds</strong>
   <a href="call_put_option.html#introduction-to-options">Introduction to Options</a>    
