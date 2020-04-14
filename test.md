@@ -7,9 +7,19 @@
   <a href="#">Link 3</a>
   <a href="#">Link 4</a>
 </div>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+  <div class="dropdown-container">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+  <a href="#contact">Search</a>    
+  <strong>Main</strong>
+  <a href="readme.html">Front Page</a>  
+  <strong>Module 5</strong>
+  <a href="credit_risk">Credit Risk</a>
+  <strong>Module 6</strong>  
+  <a href="call_put_option.html">Callable and Putable Bonds</a>
+  <a href="convertible_bonds">Convertible Bonds</a>
 </div>
 
 
