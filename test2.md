@@ -8,6 +8,7 @@
 </nav>
 
 <link rel="stylesheet" type="text/css" href="./sidebar1.css"> 
+<script type="text/javascript" src="sidebar1.js"></script>
 
 <section id="home"><h2>Home</h2></section>
 #### ![](./pic/note1515.png) Problem 1
