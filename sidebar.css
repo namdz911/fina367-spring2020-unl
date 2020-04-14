@@ -1,7 +1,7 @@
 /* The sidebar menu */
 .sidebar {
   height: 100%; /* Full-height: remove this if you want "auto" height */
-  width: 220px; /* Set the width of the sidebar */
+  width: 250px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
@@ -55,26 +55,4 @@ div.content {
     text-align: center;
     float: none;
   }
-}
-
-/* Style the sidenav links and the dropdown button */
-.sidebar a, .dropdown-btn {
-  padding: 6px 8px 6px 16px;
-  text-decoration: none;
-  font-size: 20px;
-  color: #818181;
-  display: block;
-  border: none;
-  background: none;
-  width:100%;
-  text-align: left;
-  cursor: pointer;
-  outline: none;
-}
-
-/* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
-.dropdown-container {
-  display: none;
-  background-color: #262626;
-  padding-left: 8px;
 }
