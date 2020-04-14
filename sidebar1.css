@@ -1,9 +1,25 @@
 /* Style the search box */
 #mySearch {
-  width: 100%;
-  font-size: 18px;
-  padding: 11px;
-  border: 1px solid #ddd;
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 250px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #f1f1f1; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}
+
+/* Active/current link */
+#mySearch a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+#mySearch a.module {
+  background-color: #555;
+  color: white;
 }
 
 /* Style the navigation menu */
@@ -15,12 +31,40 @@
 
 /* Style the navigation links */
 #myMenu li a {
-  padding: 12px;
-  text-decoration: none;
+  display: block;
   color: black;
-  display: block
+  padding: 10px;
+  text-decoration: none;
+  line-height: normal;	
 }
 
 #myMenu li a:hover {
-  background-color: #eee;
+  background-color: #555;
+  color: white;
+}
+
+/* Page content. The value of the margin-left property should match the value of the sidebar's width property */
+div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+/* On screens that are less than 700px wide, make the sidebar into a topbar */
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+}
+
+/* On screens that are less than 400px, display the bar vertically, instead of horizontally */
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center;
+    float: none;
+  }
 }
