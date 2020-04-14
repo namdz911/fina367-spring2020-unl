@@ -1,7 +1,7 @@
 <div class="sidebar">
   <a class="active" href="test.html">Home</a>
-  <a class="active" href="test2.html">Front Page</a>  
-  <a class="active" href="credit_risk">Credit Risk</a>
+  <a href="test2.html">Front Page</a>  
+  <a href="credit_risk">Credit Risk</a>
   <a href="call_put_option.html">Callable and Putable Bonds</a>
   <a href="convertible_bonds">Convertible Bonds</a>
     
@@ -15,6 +15,9 @@
    
 <link rel="stylesheet" type="text/css" href="./sidebar.css"> 
 </div>
+
+    
+  
 
 # Callable and Putable Bonds
 
