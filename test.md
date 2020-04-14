@@ -2,16 +2,13 @@
   <a href="#readme.html"><i class="fa fa-fw fa-home"></i> Home</a>  
   <a class="active">Module 5</a> 
   <a href="credit_risk.html">Credit Risk
-  <ul>
-  <li><a href="credit_risk.html#credit-ratings">Credit Ratings</a> </li>    
+  <ul><li><a href="credit_risk.html#credit-ratings">Credit Ratings</a> </li>    
   <li><a href="credit_risk.html#credit-risk-models">Credit Risk Models</a> </li>
   <li><a href="credit_risk.html#bond-factor-models">Bond Factor Models</a> </li>
   <li><a href="credit_risk.html#practice-problems">Practice Problems</a> </li>    
 </ul>
   <a class="active">Module 6</a>     
-  <a href="call_put_option.html">Callable and Putable Bonds
-  <ul>
-  <li><a href="call_put_option.html#introduction-to-options">Introduction to Options</a> </li>    
+  <a href="call_put_option.html">Callable and Putable Bonds <ul><li><a href="call_put_option.html#introduction-to-options">Introduction to Options</a> </li>    
   <li><a href="call_put_option.html#introduction-to-bonds-with-embedded-options">Introduction to Bonds with Embedded Options</a> </li>
   <li><a href="call_put_option.html#Gains and Loses from Calling a Bond">Gains and Loses from Calling a Bond</a> </li>
   <li><a href="call_put_option.html#Pricing Callable Bonds">Pricing Callable Bonds</a> </li>
@@ -19,8 +16,7 @@
   <li><a href="call_put_option.html#practice-problems">Practice Problems</a> </li>     
 </ul>
   <a href="convertible_bonds.html">Convertible Bonds
-  <ul>
-  <li><a href="convertible_bonds.html#introduction-to-convertible-bonds">Introduction to Convertible Bonds</a> </li>
+  <ul><li><a href="convertible_bonds.html#introduction-to-convertible-bonds">Introduction to Convertible Bonds</a> </li>
   <li><a href="convertible_bonds.html#traditional-analysis-of-convertibles">Traditional Analysis of Convertibles</a> </li>
   <li><a href="convertible_bonds.html#pricing-convertible-bonds">Pricing Convertible Bonds</a> </li>
   <li><a href="convertible_bonds.html#practice-problems">Practice Problems</a> </li> 
