@@ -1,28 +1,33 @@
 <div class="sidebar">
-  <a class="active" href="test.html">Home</a>
-  <a href="test2.html">Front Page</a>  
-  <a href="credit_risk">Credit Risk</a>
-  <a href="call_put_option.html">Callable and Putable Bonds</a>
-  <a href="convertible_bonds">Convertible Bonds</a>
-    
-  <a href="readme.html" class="head">Home</a>
-  <a href="#">Link 1</a>
+  <a href="#readme.html"><i class="fa fa-fw fa-home"></i> Home</a>  
+  <a class="active">Module 5</a> 
+  <a href="credit_risk.html">Credit Risk
   <ul>
-  <li><a href="#">Introduction to Bonds with Embedded Options</a> </li>
-  <li><a href="#">Gains and Loses from Calling a Bond</a> </li>
-  <li><a href="#">Pricing Callable Bonds</a> </li>
-  <li><a href="#">Return on Callable Bonds</a> </li> 
+  <li><a href="credit_risk.html#credit-ratings">Credit Ratings</a> </li>    
+  <li><a href="credit_risk.html#credit-risk-models">Credit Risk Models</a> </li>
+  <li><a href="credit_risk.html#bond-factor-models">Bond Factor Models</a> </li>
+  <li><a href="credit_risk.html#practice-problems">Practice Problems</a> </li>    
 </ul>
-    
-  <a href="readme.html" class="active">Home</a>
-  <a href="#">Link 1</a>
+  <a class="active">Module 6</a>     
+  <a href="call_put_option.html">Callable and Putable Bonds
   <ul>
-  <li><a href="test.html#problem-1">Introduction to Bonds with Embedded Options</a> </li>
-  <li><a href="test.html#problem-2">Gains and Loses from Calling a Bond</a> </li>
-  <li><a href="#">Pricing Callable Bonds</a> </li>
-  <li><a href="#">Return on Callable Bonds</a> </li> 
+  <li><a href="call_put_option.html#introduction-to-options">Introduction to Options</a> </li>    
+  <li><a href="call_put_option.html#introduction-to-bonds-with-embedded-options">Introduction to Bonds with Embedded Options</a> </li>
+  <li><a href="call_put_option.html#Gains and Loses from Calling a Bond">Gains and Loses from Calling a Bond</a> </li>
+  <li><a href="call_put_option.html#Pricing Callable Bonds">Pricing Callable Bonds</a> </li>
+  <li><a href="call_put_option.html#Return on Callable Bonds">Return on Callable Bonds</a> </li> 
+  <li><a href="call_put_option.html#practice-problems">Practice Problems</a> </li>     
 </ul>
-<link rel="stylesheet" type="text/css" href="./sidebar.css"> 
+  <a href="convertible_bonds.html">Convertible Bonds
+  <ul>
+  <li><a href="convertible_bonds.html#introduction-to-convertible-bonds">Introduction to Convertible Bonds</a> </li>
+  <li><a href="convertible_bonds.html#traditional-analysis-of-convertibles">Traditional Analysis of Convertibles</a> </li>
+  <li><a href="convertible_bonds.html#pricing-convertible-bonds">Pricing Convertible Bonds</a> </li>
+  <li><a href="convertible_bonds.html#practice-problems">Practice Problems</a> </li> 
+</ul>
+   
+<link rel="stylesheet" type="text/css" href="./sidebar.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">      
 </div>
 
 
