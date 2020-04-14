@@ -5,25 +5,27 @@
   <a href="call_put_option.html">Callable and Putable Bonds</a>
   <a href="convertible_bonds">Convertible Bonds</a>
     
-<div class="vertical-menu">
+  <a href="readme.html" class="head">Home</a>
+  <a href="#">Link 1</a>
+  <ul>
+  <li><a href="#">Introduction to Bonds with Embedded Options</a> </li>
+  <li><a href="#">Gains and Loses from Calling a Bond</a> </li>
+  <li><a href="#">Pricing Callable Bonds</a> </li>
+  <li><a href="#">Return on Callable Bonds</a> </li> 
+</ul>
+    
   <a href="readme.html" class="active">Home</a>
   <a href="#">Link 1</a>
   <ul>
-  <li><a href="#">Link 1</a> </li>
-  <li><a href="#">Link 1</a> </li>
-  <li><a href="#">Link 1</a> </li>
+  <li><a href="test.html#problem-1">Introduction to Bonds with Embedded Options</a> </li>
+  <li><a href="test.html#problem-2">Gains and Loses from Calling a Bond</a> </li>
+  <li><a href="#">Pricing Callable Bonds</a> </li>
+  <li><a href="#">Return on Callable Bonds</a> </li> 
 </ul>
-  <a href="#">Link 1</a>  
-  <a href="#">Link 2</a>
-  <a href="#">Link 3</a>
-  <a href="#">Link 4</a>
-</div>   
-   
 <link rel="stylesheet" type="text/css" href="./sidebar.css"> 
 </div>
 
-    
-  
+
 
 
 

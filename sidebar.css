@@ -21,8 +21,13 @@
 }
 
 /* Active/current link */
-.sidebar a.active {
+.sidebar a.headline {
   background-color: #4CAF50;
+  color: white;
+}
+
+.sidebar a.active {
+  background-color: #555;
   color: white;
 }
 
