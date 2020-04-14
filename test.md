@@ -2,14 +2,14 @@
   <a href="readme.html"><i class="fa fa-fw fa-home"></i> Home</a>
   <a> </a>   
   <a class="active">Module 5</a> 
-  <a href="credit_risk.html"><strong>Credit Risk</strong>
+  <a href="credit_risk.html"><h2>Credit Risk</h2>
   <a href="credit_risk.html#credit-ratings">Credit Ratings</a>    
   <a href="credit_risk.html#credit-risk-models">Credit Risk Models</a> 
   <a href="credit_risk.html#bond-factor-models">Bond Factor Models</a> 
   <a href="credit_risk.html#practice-problems">Practice Problems</a>
   <a> </a>     
-  <a class="active">Module 6</a>     
-  <a href="call_put_option.html"><h5>Callable and Putable Bonds</h5> 
+  <h1><a class="active">Module 6</a></h1>     
+  <a href="call_put_option.html"><h3>Callable and Putable Bonds</h3>
   <a href="call_put_option.html#introduction-to-options">Introduction to Options</a>    
   <a href="call_put_option.html#introduction-to-bonds-with-embedded-options">Introduction to Bonds with Embedded Options</a> 
   <a href="call_put_option.html#Gains and Loses from Calling a Bond">Gains and Loses from Calling a Bond</a> 
