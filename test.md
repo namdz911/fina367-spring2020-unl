@@ -8,8 +8,11 @@
 <div class="vertical-menu">
   <a href="readme.html" class="active">Home</a>
   <a href="#">Link 1</a>
-  <a href="#"><b>1.</b> Link 1</a>
-  <a href="#"><b>2.</b> Link 1</a>
+  <ul>
+  <li><a href="#">Link 1</a> </li>
+  <li><a href="#">Link 1</a> </li>
+  <li><a href="#">Link 1</a> </li>
+</ul>
   <a href="#">Link 1</a>  
   <a href="#">Link 2</a>
   <a href="#">Link 3</a>
