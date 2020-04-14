@@ -606,10 +606,10 @@ The term structure of interest rates is flat at 7.4 %, but rates could change im
   <summary>Click for Solution!</summary>
     
 #### ![](./pic/light.png) Solution
- - The price of the callable bond is **\$90.1711**
- - The price of the straight bond is **\$95.6432**
- - The price of the embedded call option is  **\$5.4721**
- - The YTM of the Callable bond is **8.4336%** and the YTM of the straight bond is **7.8384%**. The yield spread of the callable bond over the straight bond is **0.5952%** or **59.52 bps**
+ - The price of the callable bond is **\$88.7489**
+ - The price of the straight bond is **\$95.9142**
+ - The price of the embedded call option is  **\$7.1653**
+ - The YTM of the Callable bond is **8.4413%** and the YTM of the straight bond is **7.7546%**. The yield spread of the callable bond over the straight bond is **0.6867%** or **68.67 bps**
  
 </details>    
 &nbsp  
