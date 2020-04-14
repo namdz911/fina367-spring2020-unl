@@ -9,6 +9,7 @@
   background-color: #f1f1f1; /* Black */
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
+  margin: 0 33% 0 0
 }
 
 /* Sidebar links */
