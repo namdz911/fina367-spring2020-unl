@@ -1,16 +1,33 @@
-<div class="sidenav">
-  <strong>Main</strong>
-  <a href="readme.html">Front Page</a>  
-  <strong>Module 5</strong>
-  <a href="credit_risk">Credit Risk</a>
-  <strong>Module 6</strong>  
-  <a href="call_put_option.html">Callable and Putable Bonds</a>
-  <a href="convertible_bonds">Convertible Bonds</a>
+<div class="sidebar">
+  <a href="readme.html" class="module"><i class="fa fa-fw fa-home"></i> Home</a>
+  <a> </a>   
+  <a href="credit_risk.html" class="module"><strong>Credit Risk</strong>  
+  <a href="credit_risk.html#credit-ratings">Credit Ratings</a>    
+  <a href="credit_risk.html#credit-risk-models">Credit Risk Models</a>
+  <a href="credit_risk.html#bond-factor-models">Bond Factor Models</a>
+  <a href="credit_risk.html#practice-problems">Practice Problems</a> 
+  <a> </a>       
+  <a href="call_put_option.html" class="module"><strong>Callable and Putable Bonds</strong>
+  <a href="call_put_option.html#introduction-to-options">Introduction to Options</a>    
+  <a href="call_put_option.html#introduction-to-bonds-with-embedded-options">Introduction to Bonds with Embedded Options</a> 
+  <a href="call_put_option.html#Gains and Loses from Calling a Bond">Gains and Loses from Calling a Bond</a> 
+  <a href="call_put_option.html#Pricing Callable Bonds">Pricing Callable Bonds</a> 
+  <a href="call_put_option.html#Return on Callable Bonds">Return on Callable Bonds</a> 
+  <a href="call_put_option.html#practice-problems">Practice Problems</a>
+  <a> </a>     
+  <a href="convertible_bonds.html" class="active"><strong>Convertible Bonds</strong>
+  <a href="convertible_bonds.html#introduction-to-convertible-bonds">Introduction to Convertible Bonds</a> 
+  <a href="convertible_bonds.html#traditional-analysis-of-convertibles">Traditional Analysis of Convertibles</a> 
+  <a href="convertible_bonds.html#pricing-convertible-bonds">Pricing Convertible Bonds</a> 
+  <a href="convertible_bonds.html#practice-problems">Practice Problems</a> 
+  <a> </a>  
+<link rel="stylesheet" type="text/css" href="./sidebar.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">      
 </div>
 
-<link rel="stylesheet" type="text/css" href="./sidenav.css">
 
-<div class="main">
+
+
 
 # Convertible Bonds
 
