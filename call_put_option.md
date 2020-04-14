@@ -24,7 +24,8 @@
 <link rel="stylesheet" type="text/css" href="./sidebar.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">      
 </div>
-
+      
+<div class="main">
 
 
 # Callable and Putable Bonds
@@ -662,3 +663,5 @@ The term structure of interest rates is flat at 9.4 %, but rates could change im
 ([*back to text*](#example-6))!
 
 ([*back to top*](#callable-and-putable-bonds)!)
+
+</div>

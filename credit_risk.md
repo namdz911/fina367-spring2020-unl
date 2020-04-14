@@ -25,12 +25,11 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">      
 </div>
 
-
+<div class="main">
 
 
 
 # Credit Risk
-
 
 
 **Before you start**
@@ -378,3 +377,5 @@ Consider a firm whose 1-year zero-coupon bonds currently yield 8.2%. The yield o
 ([*back to text*](#example-6))!
 
 ([*back to top*](#credit-risk))!
+
+</div>
