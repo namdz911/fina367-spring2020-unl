@@ -1,8 +1,11 @@
-<div class="sidenav">
-  <a href="#about">About</a>
-  <a href="#services">Services</a>
-  <a href="#clients">Clients</a>
-  <a href="#contact">Contact</a>
+<!-- The sidebar -->
+<div class="sidebar">
+<div class="vertical-menu">
+  <a href="#" class="active">Home</a>
+  <a href="#">Link 1</a>
+  <a href="#">Link 2</a>
+  <a href="#">Link 3</a>
+  <a href="#">Link 4</a>
   <button class="dropdown-btn">Dropdown
     <i class="fa fa-caret-down"></i>
   </button>
@@ -12,7 +15,9 @@
     <a href="#">Link 3</a>
   </div>
   <a href="#contact">Search</a>
-</div>
+
+
+<link rel="stylesheet" type="text/css" href="./sidebar.css">    
 
 # Callable and Putable Bonds
 
