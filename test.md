@@ -1,14 +1,17 @@
 <div class="sidebar">
-  <a href="#readme.html"><i class="fa fa-fw fa-home"></i> Home</a>  
+  <a href="readme.html"><i class="fa fa-fw fa-home"></i> Home</a>  
   <a class="active">Module 5</a> 
-  <a href="credit_risk.html">Credit Risk
-  <ul><li><a href="credit_risk.html#credit-ratings">Credit Ratings</a> </li>    
+  <a href="credit_risk.html"><strong>Credit Risk</strong>
+<ul>
+  <li><a href="credit_risk.html#credit-ratings">Credit Ratings</a> </li>    
   <li><a href="credit_risk.html#credit-risk-models">Credit Risk Models</a> </li>
   <li><a href="credit_risk.html#bond-factor-models">Bond Factor Models</a> </li>
   <li><a href="credit_risk.html#practice-problems">Practice Problems</a> </li>    
 </ul>
   <a class="active">Module 6</a>     
-  <a href="call_put_option.html">Callable and Putable Bonds <ul><li><a href="call_put_option.html#introduction-to-options">Introduction to Options</a> </li>    
+  <strong><a href="call_put_option.html">Callable and Putable Bonds</strong> 
+<ul>
+  <li><a href="call_put_option.html#introduction-to-options">Introduction to Options</a> </li>    
   <li><a href="call_put_option.html#introduction-to-bonds-with-embedded-options">Introduction to Bonds with Embedded Options</a> </li>
   <li><a href="call_put_option.html#Gains and Loses from Calling a Bond">Gains and Loses from Calling a Bond</a> </li>
   <li><a href="call_put_option.html#Pricing Callable Bonds">Pricing Callable Bonds</a> </li>
