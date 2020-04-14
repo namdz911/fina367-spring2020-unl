@@ -15,8 +15,9 @@
 .sidebar a {
   display: block;
   color: black;
-  padding: 5px;
+  padding: 10px;
   text-decoration: none;
+  line-height: normal;	
 }
 
 /* Active/current link */
