@@ -22,24 +22,12 @@
   <li><a href="convertible_bonds.html#traditional-analysis-of-convertibles">Traditional Analysis of Convertibles</a></li>  
   <li><a href="convertible_bonds.html#pricing-convertible-bonds">Pricing Convertible Bonds</a></li>  
   <li><a href="convertible_bonds.html#practice-problems">Practice Problems</a></li>  
-  <a> </a>  
+  <a> </a>
+</ul>    
 <link rel="stylesheet" type="text/css" href="./sidebar.css">
-<link rel="stylesheet" type="text/css" href="./sidebar1.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">      
 </div>
 
-
-<ul id="myMenu">
-  <li><a href="#">HTML</a></li>
-  <li><a href="#">CSS</a></li>
-  <li><a href="#">JavaScript</a></li>
-  <li><a href="#">PHP</a></li>
-  <li><a href="#">Python</a></li>
-  <li><a href="#">jQuery</a></li>
-  <li><a href="#">SQL</a></li>
-  <li><a href="#">Bootstrap</a></li>
-  <li><a href="#">Node.js</a></li>
-</ul>
 
 # Callable and Putable Bonds
 
