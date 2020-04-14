@@ -1,4 +1,4 @@
-<div class="sidebar">
+<div class="sidenav">
   <a class="active" href="readme.html">Home</a>
   <a href="readme.html">Front Page</a>  
   <a href="credit_risk">Credit Risk</a>
