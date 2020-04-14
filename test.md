@@ -1,25 +1,28 @@
 <div class="sidebar">
-  <a href="readme.html"><i class="fa fa-fw fa-home"></i> Home</a>  
+  <a href="readme.html"><i class="fa fa-fw fa-home"></i> Home</a>
+  <a> </a>   
   <a class="active">Module 5</a> 
-  <a href="credit_risk.html"><strong><h2>Credit Risk</strong></h2>
+  <a href="credit_risk.html"><strong>Credit Risk</strong>
   <a href="credit_risk.html#credit-ratings">Credit Ratings</a>    
   <a href="credit_risk.html#credit-risk-models">Credit Risk Models</a> 
   <a href="credit_risk.html#bond-factor-models">Bond Factor Models</a> 
-  <a href="credit_risk.html#practice-problems">Practice Problems</a>   
-  <a class="active"><h2>Module 6</h2>  
-  <a href="call_put_option.html"><h3>Callable and Putable Bonds</h3> 
+  <a href="credit_risk.html#practice-problems">Practice Problems</a>
+  <a> </a>     
+  <a class="active">Module 6</a>     
+  <a href="call_put_option.html"><h5>Callable and Putable Bonds</h5> 
   <a href="call_put_option.html#introduction-to-options">Introduction to Options</a>    
   <a href="call_put_option.html#introduction-to-bonds-with-embedded-options">Introduction to Bonds with Embedded Options</a> 
   <a href="call_put_option.html#Gains and Loses from Calling a Bond">Gains and Loses from Calling a Bond</a> 
   <a href="call_put_option.html#Pricing Callable Bonds">Pricing Callable Bonds</a> 
   <a href="call_put_option.html#Return on Callable Bonds">Return on Callable Bonds</a> 
-  <a href="call_put_option.html#practice-problems">Practice Problems</a>    
-  <strong><a href="convertible_bonds.html">Convertible Bonds</strong>
-  <a href="convertible_bonds.html#introduction-to-convertible-bonds">Introduction to Convertible Bonds</a>
+  <a href="call_put_option.html#practice-problems">Practice Problems</a>
+  <a> </a>     
+  <a href="convertible_bonds.html"><h4>Convertible Bonds</h4>
+  <a href="convertible_bonds.html#introduction-to-convertible-bonds">Introduction to Convertible Bonds</a> 
   <a href="convertible_bonds.html#traditional-analysis-of-convertibles">Traditional Analysis of Convertibles</a> 
   <a href="convertible_bonds.html#pricing-convertible-bonds">Pricing Convertible Bonds</a> 
   <a href="convertible_bonds.html#practice-problems">Practice Problems</a> 
-   
+  <a> </a>  
 <link rel="stylesheet" type="text/css" href="./sidebar.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">      
 </div>
