@@ -1,47 +1,15 @@
-<div class="sidebar">
-  <a href="test.html">Home</a>
-  <a class="active" href="test2.html">Front Page</a>  
-  <a href="credit_risk">Credit Risk</a>
-  <a href="call_put_option.html">Callable and Putable Bonds</a>
-  <a href="convertible_bonds">Convertible Bonds</a>
-    
-<div class="vertical-menu">
-  <a href="readme.html" class="active">Home</a>
-  <a href="#">Link 1</a>
-  <a href="#">Link 2</a>
-  <a href="#">Link 3</a>
-  <a href="#">Link 4</a>
-</div>   
-   
-<link rel="stylesheet" type="text/css" href="./sidebar.css"> 
-</div>
+<nav>
+  <ul id="mainNav">
+    <li class="active"><a href="#home">Home</a></li>
+    <li><a href="#work">Work</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#contact">Contact</a></li>    
+  </ul>
+</nav>
 
-    
-  
+<link rel="stylesheet" type="text/css" href="./sidebar1.css"> 
 
-# TEst1
-
-**Before you start**
-- Optional Readings: Chapter 9.2 - 9.4
-- <a href="./pdf/intro_to_option.pdf" target="_blank">Link to download PowerPoint Slides!</a>
-
-
-## Outline
-
-![alt text](./pic/test2.png) <a href="https://use.vg/i2TvPm" target="_blank">Link to Video!</a>
-
-- [Callable and Putable Bonds](#callable-and-putable-bonds)  
-  - [Introduction to Options](#introduction-to-options)  
-  - [Introduction to Bonds with Embedded Options](#introduction-to-bonds-with-embedded-options)  
-  - [Gains and Loses from Calling a Bond](#gains-and-loses-from-calling-a-bond) 
-  - [Pricing Callable Bonds](#pricing-callable-bonds)  
-  - [Return on Callable Bonds](#return-on-callable-bonds)  
-  - [Duration and Convexity of Callable Bonds](#duration-and-convexity-of-callable-bonds) 
-  - [Practice Problems](#practice-problems) 
-
----
-
-<a id='problem-1'></a>
+<section id="home"><h2>Home</h2></section>
 #### ![](./pic/note1515.png) Problem 1
 You buy a call option and buy a put option on bond X. The strike price of the call option is \$90 and the strike price of the put option is \$90. The call option premium is \$5 and the put option premium is \$2. Both options can be exercised only on their expiration date, which happens to be the same for the call and the put. If the price of bond X is \$100 on the expiration date, what is your total payoff and then total profit from the options portfolio?
 
@@ -59,7 +27,7 @@ You buy a call option and buy a put option on bond X. The strike price of the ca
 
 ([*back to text*](#example-3))
 
-<a id='problem-2'></a>
+<section id="work" data-sr><h2>Work</h2></section>
 #### ![](./pic/note1515.png) Problem 2
 You sell a call option and buy a put option on bond X. The strike price of the call option is \$90 and the strike price of the put option is \$105. The call option premium is \$5 and the put option premium is \$2. Both options can be exercised only on their expiration date, which happens to be the same for the call and the put. If the price of bond X is \$100 on the expiration date, what is your total payoff and then total profit from the options portfolio?
 
@@ -76,7 +44,28 @@ You sell a call option and buy a put option on bond X. The strike price of the c
 
 ([*back to text*](#example-3))
 
-<a id='problem-3'></a>
+<section id="about"><h2>About</h2></section>
+#### ![](./pic/note1515.png) Problem 3
+Consider an 27 year 12.3 % coupon bond with \$1,000 par selling for \$937 (semi-annual coupons). 
+ - Suppose that the first par call for this bond is 1 years from now. 
+ - Assume that the bond is putable at par in 17 years. 
+ - If the call/put dates above are the only ones, what is the bond’s yield to worst? 
+
+<details>
+  <summary>Click for Solution!</summary>
+    
+##### ![](./pic/light.png) Solution
+ - Annualized YTM = **13.1562%**
+ - Annualized YTFPC = **19.5374%**
+ - Annualized YTFPP = **13.2406%**
+ - Notice that there is no YTFC. So just compare the yields that you have to get YTWorst = **13.1562%**
+
+</details>    
+&nbsp    
+
+([*back to text*](#example-3))
+
+<section id="contact"><h2>Contact</h2></section>
 #### ![](./pic/note1515.png) Problem 3
 Consider an 27 year 12.3 % coupon bond with \$1,000 par selling for \$937 (semi-annual coupons). 
  - Suppose that the first par call for this bond is 1 years from now. 
