@@ -1,29 +1,18 @@
-<!-- The sidebar -->
-<div class="sidebar">
-<div class="vertical-menu">
-  <a href="#" class="active">Home</a>
-  <a href="#">Link 1</a>
-  <a href="#">Link 2</a>
-  <a href="#">Link 3</a>
-  <a href="#">Link 4</a>
-</div>
+<div class="sidenav">
+  <a href="#about">About</a>
+  <a href="#services">Services</a>
+  <a href="#clients">Clients</a>
+  <a href="#contact">Contact</a>
+  <button class="dropdown-btn">Dropdown
+    <i class="fa fa-caret-down"></i>
+  </button>
   <div class="dropdown-container">
     <a href="#">Link 1</a>
     <a href="#">Link 2</a>
     <a href="#">Link 3</a>
   </div>
-  <a href="#contact">Search</a>    
-  <strong>Main</strong>
-  <a href="readme.html">Front Page</a>  
-  <strong>Module 5</strong>
-  <a href="credit_risk">Credit Risk</a>
-  <strong>Module 6</strong>  
-  <a href="call_put_option.html">Callable and Putable Bonds</a>
-  <a href="convertible_bonds">Convertible Bonds</a>
+  <a href="#contact">Search</a>
 </div>
-
-
-<link rel="stylesheet" type="text/css" href="./sidebar.css">    
 
 # Callable and Putable Bonds
 
