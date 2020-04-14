@@ -12,8 +12,9 @@
     <a href="#">Link 3</a>
   </div>
   <a href="#contact">Search</a>
+<link rel="stylesheet" type="text/css" href="./sidebar1.css">      
 </div> 
-<link rel="stylesheet" type="text/css" href="./sidebar1.css">    
+  
 
 # Callable and Putable Bonds
 
