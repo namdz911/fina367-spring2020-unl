@@ -1,17 +1,19 @@
 <!-- The sidebar -->
 <div class="sidebar">
-  <a class="active" href="#home">Home</a>
+<div class="vertical-menu">
+  <a href="#" class="active">Home</a>
+  <a href="#">Link 1</a>
+  <a href="#">Link 2</a>
+  <a href="#">Link 3</a>
+  <a href="#">Link 4</a>
+</div>
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
 </div>
 
-<!-- Page content -->
-<div class="content">
-  ..
-<link rel="stylesheet" type="text/css" href="./sidebar.css">    
-</div>
 
+<link rel="stylesheet" type="text/css" href="./sidebar.css">    
 
 # Callable and Putable Bonds
 
