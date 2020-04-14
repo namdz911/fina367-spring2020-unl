@@ -1,14 +1,18 @@
-<nav>
-  <ul id="mainNav">
-    <li class="active"><a href="#home">Home</a></li>
-    <li><a href="#work">Work</a></li>
-    <li><a href="#about">About</a></li>
-    <li><a href="#contact">Contact</a></li>    
-  </ul>
-</nav>
+<input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search.." title="Type in a category">
 
-<link rel="stylesheet" type="text/css" href="./sidebar1.css"> 
-<script type="text/javascript" src="sidebar1.js"></script>
+<ul id="myMenu">
+  <li><a href="#">HTML</a></li>
+  <li><a href="#">CSS</a></li>
+  <li><a href="#">JavaScript</a></li>
+  <li><a href="#">PHP</a></li>
+  <li><a href="#">Python</a></li>
+  <li><a href="#">jQuery</a></li>
+  <li><a href="#">SQL</a></li>
+  <li><a href="#">Bootstrap</a></li>
+  <li><a href="#">Node.js</a></li>
+</ul>
+
+<link rel="stylesheet" type="text/css" href="./sidebar.css">
 
 <section id="home"><h2>Home</h2></section>
 #### ![](./pic/note1515.png) Problem 1
