@@ -34,14 +34,13 @@
 ## On-the-run
 - **PLEASE READ THIS <a href="https://namdz911.github.io/fina367-spring2020-unl/syllabus.html" target="_blank">PAGE</a> FOR INSTRUCTIONS!**
 
-
 - Some Notes:
     - You can adjust the speed of the video to your liking (the **`Setting`** button on the lower right corner of the videos).
     - Some videos will contain nagivation within themselves. 
     - Before watching in-class example's walkthroughs, I suggest you read and try to at least think about the problem. 
 
 
-- Next Office Hour: **`Tuesday 04/14 at 3:30-4:30 pm US. Central Time`**. Click **[HERE](https://unl.zoom.us/j/499542538)** to join the meeting on Zoom!
+- Next Office Hour: **`Thursday 04/16 at 3:30-4:30 pm US. Central Time`**. Click **[HERE](https://unl.zoom.us/j/499542538)** to join the meeting on Zoom!
 
 - **`04/06-04/12`: [Callable and Putable Bonds](call_put_option.html) (<a href="./pdf/callable_putable_bonds.pdf" target="_blank">PPT Slides!</a>)**
     - [Intro to Bonds with Embedded Options](call_put_option.html#introduction-to-bonds-with-embedded-options)
@@ -56,6 +55,7 @@
     - [Traditional Analysis of Convertibles](convertible_bonds.html#traditional-analysis-of-convertibles)  
     - [Pricing Convertible Bonds](convertible_bonds.html#pricing-convertible-bonds) 
 
+<iframe width="700" height="400" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTACG5BU7JROotI3occp2Ccon9G-6xMuxVMf46dtLno8zzIiAGE5Ab38YcGl2XsivYorNnvFzt_WpFl/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## Generic
 - [Course Overview](syllabus.html)
