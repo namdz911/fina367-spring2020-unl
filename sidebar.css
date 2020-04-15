@@ -64,6 +64,7 @@
     text-align: center;
     float: none;
   }
+  div.content {margin-left: 0;}
     .main {
   margin-left: 0px; /* Same as the width of the sidebar */
   padding: 0px 10px;
