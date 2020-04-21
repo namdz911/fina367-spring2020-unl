@@ -40,7 +40,7 @@
     - Before watching in-class example's walkthroughs, I suggest you read and try to at least think about the problem. 
 
 
-- Next Office Hour: **`Thursday 04/16 at 3:30-4:30 pm US. Central Time`**. Click **[HERE](https://unl.zoom.us/j/499542538)** to join the meeting on Zoom!
+- Next Office Hour: **`Tuesday 04/21 at 3:30-4:30 pm US. Central Time`**. Click **[HERE](https://unl.zoom.us/j/499542538)** to join the meeting on Zoom!
 
 - **`04/06-04/12`: [Callable and Putable Bonds](call_put_option.html) (<a href="./pdf/callable_putable_bonds.pdf" target="_blank">PPT Slides!</a>)**
     - [Intro to Bonds with Embedded Options](call_put_option.html#introduction-to-bonds-with-embedded-options)
