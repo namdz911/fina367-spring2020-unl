@@ -44,20 +44,11 @@
     - Before watching in-class example's walkthroughs, I suggest you read and try to at least think about the problem. 
 
 
-- Next Office Hour: **`Tuesday 04/21 at 3:30-4:30 pm US. Central Time`**. Click **[HERE](https://unl.zoom.us/j/499542538)** to join the meeting on Zoom!
+- Next Office Hour: **`Thursday 04/23 at 3:30-4:30 pm US. Central Time`**. Click **[HERE](https://unl.zoom.us/j/499542538)** to join the meeting on Zoom!
 
-- **`04/06-04/12`: [Callable and Putable Bonds](call_put_option.html) (<a href="./pdf/callable_putable_bonds.pdf" target="_blank">PPT Slides!</a>)**
-    - [Intro to Bonds with Embedded Options](call_put_option.html#introduction-to-bonds-with-embedded-options)
-    - [Gains and Loses from Calling a Bond](call_put_option.html#gains-and-loses-from-calling-a-bond) 
-    - [Pricing Callable Bonds](call_put_option.html#pricing-callable-bonds) 
-    - [Return on Callable Bonds](call_put_option.html#return-on-callable-bonds)  
-    - Duration and Convexity of Callable Bonds (*Non-essential*)  
-    
-    
-- **`04/13-04/20`: [Convertible Bonds](convertible_bonds.html) (<a href="./pdf/convertible_bonds.pdf" target="_blank">PPT Slides!</a>)**
-    - [Introduction to Convertible Bonds](convertible_bonds.html#introduction-to-convertible-bonds)  
-    - [Traditional Analysis of Convertibles](convertible_bonds.html#traditional-analysis-of-convertibles)  
-    - [Pricing Convertible Bonds](convertible_bonds.html#pricing-convertible-bonds) 
+- **`04/20-04/26`: [Residential Mortgages](mortgage.html) (<a href="./pdf/mortgage.pdf" target="_blank">PPT Slides!</a>)**
+  - [Introduction to Residential Mortgages](mortgage.html#introduction-to-residential-mortgages)  
+  - [Risks Associated with Investing in Mortgages](mortgage.html#risks-associated-with-investing-in-mortgages) 
 
 <iframe width="700" height="400" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTACG5BU7JROotI3occp2Ccon9G-6xMuxVMf46dtLno8zzIiAGE5Ab38YcGl2XsivYorNnvFzt_WpFl/pubhtml?widget=true&amp;headers=false"></iframe>
 
