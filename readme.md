@@ -20,7 +20,11 @@
   <a href="convertible_bonds.html#traditional-analysis-of-convertibles">Traditional Analysis of Convertibles</a> 
   <a href="convertible_bonds.html#pricing-convertible-bonds">Pricing Convertible Bonds</a> 
   <a href="convertible_bonds.html#practice-problems">Practice Problems</a> 
-  <a> </a>  
+  <a> </a>
+  <a href="mortgage.html" class="module"><strong>Residential Mortgages</strong>
+  <a href="mortgage.html#introduction-to-residential-mortgages">Introduction to Residential Mortgages</a> 
+  <a href="mortgage.html#risks-associated-with-investing-in-mortgages">Risks Associated with Investing in Mortgages</a> 
+  <a> </a>       
 <link rel="stylesheet" type="text/css" href="./sidebar.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">      
 </div>
