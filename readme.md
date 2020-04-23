@@ -67,6 +67,7 @@
 
 
 - **Modules 7**: Residential mortgages & MBS
+    - [Residential Mortgages](mortgage.html)
 
 ## Supplementary Materials
 - Get comfortable with the [Financial Calculator](financial_calculator.html)  
