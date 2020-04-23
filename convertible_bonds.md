@@ -90,6 +90,7 @@
  - Conversion Premium
  - Income Differential
  - Premium Payback Period
+ - Profile/Investment Characteristics of Convertibles
  
  
 <iframe title="Convertible Bonds - Traditional Analysis Part 2" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/CLfG48bYK6kz"></iframe>
