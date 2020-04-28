@@ -23,7 +23,8 @@
   <a> </a>
   <a href="mortgage.html" class="active"><strong>Residential Mortgages</strong>
   <a href="mortgage.html#introduction-to-residential-mortgages">Introduction to Residential Mortgages</a> 
-  <a href="mortgage.html#risks-associated-with-investing-in-mortgages">Risks Associated with Investing in Mortgages</a> 
+  <a href="mortgage.html#risks-associated-with-investing-in-mortgages">Risks Associated with Investing in Mortgages</a>
+  <a href="mortgage.html#residential-mortgage-backeds-securities">Residential Mortgage-backed Securities</a>    
   <a> </a>      
 <link rel="stylesheet" type="text/css" href="./sidebar.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">      
@@ -45,7 +46,13 @@
 - [Residential Mortgages](#residential-mortgages)  
   - [Introduction to Residential Mortgages](#introduction-to-residential-mortgages)  
   - [Risks Associated with Investing in Mortgages](#risks-associated-with-investing-in-mortgages)  
-  - [Practice Problems](#practice-problems) 
+  - [Residential Mortgage-backed Securities](#residential-mortgage-backeds-securities)
+  - [Practice Problems](#practice-problems)
+
+
+
+
+
 - In Class Example List: Example [1A](#example-1a), [1B](#example-1b), [1C](#example-1c).
 ---
 
@@ -96,6 +103,31 @@
 
 <iframe title="Example 1C - Refinance" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/8vaq4HRA5LL9"></iframe>
 
+
+(*You're done with a section! Good Job!*)
+
+---
+
+## Residential Mortgage-backed Securities
+([*back to top*](#residential-mortgages)!)
+
+#### ![](./pic/dollarnew15.png) What is Securitization?
+
+<iframe title="What is securitization?" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/RTBS73GsF1hc"></iframe>
+  
+---
+
+#### ![](./pic/dollarnew15.png) Why Securitization?
+
+<iframe title="Mortgage Market " width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/Db1uzsQRSzVO"></iframe>
+  
+---
+
+#### ![](./pic/dollarnew15.png) Type of RMBS
+
+<iframe title="Types of RMBS" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/KenlgiO3G96A"></iframe>
+  
+---
 
 (*You're done with a section! Good Job!*)
 
