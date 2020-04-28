@@ -24,7 +24,7 @@
   <a href="mortgage.html" class="module"><strong>Residential Mortgages</strong>
   <a href="mortgage.html#introduction-to-residential-mortgages">Introduction to Residential Mortgages</a> 
   <a href="mortgage.html#risks-associated-with-investing-in-mortgages">Risks Associated with Investing in Mortgages</a>
-  <a href="mortgage.html#residential-mortgage-backeds-securities">Residential Mortgage-backed Securities</a> 
+  <a href="mortgage.html#residential-mortgage-backed-securities">Residential Mortgage-backed Securities</a> 
   <a> </a>       
 <link rel="stylesheet" type="text/css" href="./sidebar.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">      
@@ -45,11 +45,12 @@
     - Before watching in-class example's walkthroughs, I suggest you read and try to at least think about the problem. 
 
 
-- Next Office Hour: **`Thursday 04/23 at 3:30-4:30 pm US. Central Time`**. Click **[HERE](https://unl.zoom.us/j/499542538)** to join the meeting on Zoom!
+- Next Office Hour: **`Tuesday 04/28 at 3:30-4:30 pm US. Central Time`**. Click **[HERE](https://unl.zoom.us/j/499542538)** to join the meeting on Zoom!
 
-- **`04/20-04/26`: [Residential Mortgages](mortgage.html) (<a href="./pdf/mortgage.pdf" target="_blank">PPT Slides!</a>)**
+- **[Residential Mortgages](mortgage.html) (<a href="./pdf/mortgage.pdf" target="_blank">PPT Slides!</a>)**
   - [Introduction to Residential Mortgages](mortgage.html#introduction-to-residential-mortgages)  
-  - [Risks Associated with Investing in Mortgages](mortgage.html#risks-associated-with-investing-in-mortgages) 
+  - [Risks Associated with Investing in Mortgages](mortgage.html#risks-associated-with-investing-in-mortgages)
+  - [Residential Mortgage-backed Securities](mortgage.html#residential-mortgage-backed-securities) (<a href="./pdf/rmbs.pdf" target="_blank">PPT Slides!</a>)
 
 <iframe width="700" height="400" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTACG5BU7JROotI3occp2Ccon9G-6xMuxVMf46dtLno8zzIiAGE5Ab38YcGl2XsivYorNnvFzt_WpFl/pubhtml?widget=true&amp;headers=false"></iframe>
 

@@ -24,7 +24,7 @@
   <a href="mortgage.html" class="active"><strong>Residential Mortgages</strong>
   <a href="mortgage.html#introduction-to-residential-mortgages">Introduction to Residential Mortgages</a> 
   <a href="mortgage.html#risks-associated-with-investing-in-mortgages">Risks Associated with Investing in Mortgages</a>
-  <a href="mortgage.html#residential-mortgage-backeds-securities">Residential Mortgage-backed Securities</a>    
+  <a href="mortgage.html#residential-mortgage-backed-securities">Residential Mortgage-backed Securities</a>    
   <a> </a>      
 <link rel="stylesheet" type="text/css" href="./sidebar.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">      
@@ -38,15 +38,15 @@
 
 **Before you start**
 - Optional Readings: Chapter 7.4
-- <a href="./pdf/mortgage.pdf" target="_blank">Link to download PowerPoint Slides!</a>
-
+- <a href="./pdf/mortgage.pdf" target="_blank">Link to download PowerPoint Slides P1 !</a>
+- <a href="./pdf/rmbs.pdf" target="_blank">Link to download PowerPoint Slides P2 !</a>
 
 ## Outline
 
 - [Residential Mortgages](#residential-mortgages)  
   - [Introduction to Residential Mortgages](#introduction-to-residential-mortgages)  
   - [Risks Associated with Investing in Mortgages](#risks-associated-with-investing-in-mortgages)  
-  - [Residential Mortgage-backed Securities](#residential-mortgage-backeds-securities)
+  - [Residential Mortgage-backed Securities](#residential-mortgage-backed-securities)
   - [Practice Problems](#practice-problems)
 
 
