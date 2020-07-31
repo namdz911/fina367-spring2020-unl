@@ -38,8 +38,6 @@
 
 
 **Before you start**
-
-- We pick up where we left off before exam 3. We were discussing a new pricing model that is based on risk-adjusted return. Understanding Example 1A is important for Example 3-6 therefore the online course will pick up from there.
 - You should practice all the problems provided on this page and make sure you know how to solve them. 
 - Optional Readings: Chapter 5, 6
 - <a href="./pdf/credit_risk.pdf" target="_blank">Link to download PowerPoint Slides!</a>
@@ -54,8 +52,20 @@
 - In Class Example List: [1A](#example-1a), [1B](#example-1b), [2](#example-2), [3](#example-3), [4](#example-4), [5](#example-5), [6](#example-6), [7](#example-7)   
 ---
 
+## Credit Risk Overview
+([*back to top*](#credit-risk))!
+
+<iframe title="Credit Risk Overview" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/fSvFRQVpHN94"></iframe>
+
+---
+
 ## Credit Ratings
 ([*back to top*](#credit-risk))!
+
+<iframe title="Intro to Credit Ratings" width="512" height="288" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/CKUVGkdjweAQ"></iframe>
+  
+
+---
 
 <a id='example-1a'></a>
 #### ![](./pic/note1515.png) Example 1A
