@@ -33,7 +33,7 @@
 <div class="main">
 
 
-# [FINA367 - Fix-Income Investment - Summer 2020](readme.html)
+# [FINA367 - Fix-Income Investment - Spring 2020](readme.html)
 *Instructor: Nam Le*
 
 ## On-the-run
@@ -47,6 +47,7 @@
 
 - Next Office Hour: **`Monday and Friday at 10:30-11:30 am US. Central Time`**. Click **[HERE](https://unl.zoom.us/j/97994963489)** to join the meeting on Zoom!
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTACG5BU7JROotI3occp2Ccon9G-6xMuxVMf46dtLno8zzIiAGE5Ab38YcGl2XsivYorNnvFzt_WpFl/pubhtml?widget=true&amp;headers=false" height="1380" width="640"></iframe>
 
 ## Generic
 - [Course Overview](syllabus.html)
